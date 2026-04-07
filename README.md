@@ -1,7 +1,7 @@
 # Timothy Lum
 
 ## About Me
-Hi! My name is Timothy Lum and I am a Computer Science student at the University of Hawai‘i at Mānoa. I was born and raised in Kāneʻohe on the windward side of Oʻahu. My academic work focuses on technology, entrepreneurship, and the intersection of computing and business. Alongside my studies in computer science, I am also preparing to pursue a master’s degree in finance with interests in fintech and emerging technologies.
+Aloha! My name is Timothy Lum and I am a Computer Science student at the University of Hawai‘i at Mānoa. I was born and raised in Kāneʻohe on the windward side of Oʻahu. My academic work focuses on technology, entrepreneurship, and the intersection of computing and business. Alongside my studies in computer science, I am also preparing to pursue a master’s degree in finance with interests in fintech and emerging technologies.
 
 I enjoy working on projects that combine technology with real-world applications, especially those involving artificial intelligence, game development, and innovative digital systems.
 
