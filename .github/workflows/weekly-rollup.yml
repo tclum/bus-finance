@@ -1,0 +1,65 @@
+name: Weekly Rollup
+
+# Regenerates the 7-day hypothesis rollup chart and refreshes
+# evaluations/README.md on Sunday nights.
+#   04:00 UTC Monday = 20:00 PT Sunday (DST) / 21:00 PT Sunday (standard)
+on:
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch: {}
+
+# Share the daily-evaluation group so a weekly run never overlaps a
+# daily memo run (and vice versa). cancel-in-progress stays false —
+# we queue, we don't interrupt.
+concurrency:
+  group: daily-evaluation
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Regenerate weekly rollup + dashboard
+        run: python -m src.weekly_rollup
+
+      - name: Commit and push weekly refresh
+        run: |
+          set -euo pipefail
+
+          DATE=$(date -u +%Y-%m-%d)
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin main
+          git checkout main
+
+          # Only the weekly artifacts move — chart SVG, README, and any
+          # _parsed.json sidecars refreshed along the way.
+          git add evaluations/charts/ evaluations/README.md evaluations/
+
+          if git diff --cached --quiet; then
+            echo "No weekly rollup changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(eval): weekly rollup refresh for ${DATE}"
+          git push origin main

@@ -4,3 +4,5 @@ pyyaml>=6.0
 feedparser>=6.0.11
 fredapi>=0.5.2
 python-dotenv>=1.0.1
+matplotlib>=3.8
+pandas>=2.1
