@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-04-24T20:37:31+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4237,
+  "output_tokens": 3050,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.073562,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "INTC",
+    "AMD",
+    "QCOM",
+    "NEM",
+    "NOW",
+    "NVDA",
+    "AMZN",
+    "INTU",
+    "AMAT",
+    "MU",
+    "CRM",
+    "ADBE",
+    "SLB",
+    "META",
+    "MSFT",
+    "PSX",
+    "BKNG",
+    "PG",
+    "GOOGL",
+    "MPC",
+    "CMCSA",
+    "DE",
+    "LLY",
+    "LMT",
+    "PM",
+    "RTX",
+    "GILD",
+    "MRK",
+    "TMUS",
+    "COP",
+    "TXN",
+    "VZ",
+    "ORCL",
+    "WMT",
+    "T",
+    "ABT",
+    "AXP",
+    "JNJ",
+    "WFC",
+    "CCI"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "There\u2019s a new stock for the nuclear-power IPO trade, and Wall Street is piling in. Should you?",
+      "published_at": "2026-04-24T20:29:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Charter\u2019s stock just got hammered. Here\u2019s what fueled its worst day on record.",
+      "published_at": "2026-04-24T20:26:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes - Reuters",
+      "published_at": "2026-04-24T20:21:57+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018My child requires lifelong support\u2019: I\u2019m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?",
+      "published_at": "2026-04-24T20:07:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Oil prices end volatile session mixed but up sharply for the week on supply worries - Reuters",
+      "published_at": "2026-04-24T19:26:57+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Why crude prices won\u2019t fall back to levels seen before the Iran war anytime soon",
+      "published_at": "2026-04-24T19:07:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Nvidia\u2019s stock heads for first record close in 6 months \u2014 thanks to Intel",
+      "published_at": "2026-04-24T19:06:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "SLB seeks to pass on costs as Iran war disrupts supply chains - Reuters",
+      "published_at": "2026-04-24T18:39:34+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "After suspicious Polymarket bets, French weather forecast office files police complaint",
+      "published_at": "2026-04-24T18:32:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US Space Force taps 12 firms for $3.2 billion Golden Dome missile defense contracts - Reuters",
+      "published_at": "2026-04-24T18:25:14+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Roper Technologies Inc",
+      "published_at": "2026-04-24T18:16:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Boeing Co/The",
+      "published_at": "2026-04-24T18:16:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Masco Corp",
+      "published_at": "2026-04-24T18:16:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: NextEra Energy Inc",
+      "published_at": "2026-04-24T18:16:02+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Medicare Advantage buyers, beware: The rules for selling plans are changing \u2014 and could harm seniors",
+      "published_at": "2026-04-24T18:11:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Google to invest up to $40 billion in AI rival Anthropic - Reuters",
+      "published_at": "2026-04-24T18:07:43+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Update: CCI, BA, BYD, NEE, INTC, LRCX, MAS, NOK, ROP",
+      "published_at": "2026-04-24T18:01:02+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Nuclear reactor maker X-Energy valued at $11.9 billion in stellar Nasdaq debut - Reuters",
+      "published_at": "2026-04-24T17:27:42+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "I went to an advanced high-school personal-finance class. Here\u2019s what I learned.",
+      "published_at": "2026-04-24T17:23:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "A record 20 million single women own homes \u2014 even though it\u2019s more expensive for a woman to buy a house than a man",
+      "published_at": "2026-04-24T17:18:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Tesla is headed down a path of \u2018runaway, unsustainable\u2019 spending, analysts warn",
+      "published_at": "2026-04-24T17:16:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "L'Oreal chairman says Coty lacks business model - Reuters",
+      "published_at": "2026-04-24T16:57:17+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US consumer sentiment slumps to record low in April; inflation expectations rise - Reuters",
+      "published_at": "2026-04-24T16:49:55+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Porsche to sell stake in sports car maker Bugatti - Reuters",
+      "published_at": "2026-04-24T16:07:44+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "VIEW End of Powell probe relieves uncertainty over Fed succession plan - Reuters",
+      "published_at": "2026-04-24T15:53:22+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "HCA beats quarterly profit estimates despite weaker flu season volume - Reuters",
+      "published_at": "2026-04-24T15:46:08+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US chipmakers hit record highs as Intel turbocharges AI rally - Reuters",
+      "published_at": "2026-04-24T14:55:59+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "India's state-run SAIL wins court block on steel antitrust investigation - Reuters",
+      "published_at": "2026-04-24T14:45:03+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Intel soars on signs AI boom for CPUs is here - Reuters",
+      "published_at": "2026-04-24T14:34:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Most US companies seen sticking with quarterly reporting - Reuters",
+      "published_at": "2026-04-24T13:51:26+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Chinese EV maker NIO bets on in-house chips to cut reliance on Nvidia - Reuters",
+      "published_at": "2026-04-24T13:28:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Russia says new EU sanctions will hurt developing countries - Reuters",
+      "published_at": "2026-04-24T12:29:15+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump grants 90-day Jones Act waiver extension to curb energy costs - Reuters",
+      "published_at": "2026-04-24T12:27:23+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "U.S. equity fund inflows rise on earnings optimism, AI boost - Reuters",
+      "published_at": "2026-04-24T12:07:55+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "BYD doubles down on fast charging to target China's EV holdouts - Reuters",
+      "published_at": "2026-04-24T11:51:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "At SpaceX, AI is burning the cash that Starlink earns - Reuters",
+      "published_at": "2026-04-24T11:32:14+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Indian IT firms near\u2011term outlook muted as clients cut spending, AI risks mount - Reuters",
+      "published_at": "2026-04-24T11:02:16+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Wall St Week Ahead: Soaring US stocks face pivotal week of tech-led earnings, Fed meeting - Reuters",
+      "published_at": "2026-04-24T10:46:18+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Tanker HELGA arrives at Iraq's Basra terminal to load crude, second since Hormuz closure, say sources - Reuters",
+      "published_at": "2026-04-24T09:24:34+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Hyundai Motor to launch 20 models in five years in new China campaign - Reuters",
+      "published_at": "2026-04-24T09:06:49+00:00"
+    }
+  ]
+}

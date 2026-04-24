@@ -1,0 +1,21 @@
+{
+  "memo_file": "2026-04-24-2010.md",
+  "hypotheses": [
+    {
+      "category": "Performance",
+      "confidence": "Medium"
+    },
+    {
+      "category": "Profitability",
+      "confidence": "Medium"
+    },
+    {
+      "category": "Profitability",
+      "confidence": "Medium"
+    },
+    {
+      "category": "Macro/Strategic",
+      "confidence": "Low"
+    }
+  ]
+}
