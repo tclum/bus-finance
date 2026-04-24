@@ -41,3 +41,26 @@ I enjoy working on projects that combine technology with real-world applications
 
 ## Career Goals
 My long-term goal is to work at the intersection of **technology, finance, and entrepreneurship**, building innovative systems that leverage artificial intelligence and software development to solve real-world problems.
+
+---
+
+## Daily Market Hypothesis Generator
+
+This repository hosts an automated system that scans U.S. equity market data and business-news RSS feeds twice per trading day and generates 3–5 analytical hypotheses formatted as a CFO briefing memo. Full design in [`docs/hypothesis-generator-spec.md`](docs/hypothesis-generator-spec.md).
+
+### How this runs
+
+A GitHub Actions workflow at [`.github/workflows/daily-evaluation.yml`](.github/workflows/daily-evaluation.yml) runs on two cron schedules (UTC):
+
+- **Pre-market** — `0 12 * * 1-5` (8:00 AM ET during DST)
+- **Close** — `30 20 * * 1-5` (4:30 PM ET during DST)
+
+Each run pulls current market data via `yfinance`, the last 12 hours of business headlines from Reuters, Yahoo Finance, and MarketWatch, assembles a prompt from the three files in `prompts/`, and calls the Anthropic API. The resulting memo is committed back to `main` at `evaluations/YYYY/MM/YYYY-MM-DD-HHMM.md`, with a sidecar `.meta.json` capturing inputs and token usage. A rolling `evaluations/_metrics.csv` file appends one row per run (timestamp, session, tokens, cost, hypothesis count, stop reason) for later calibration against outcomes.
+
+To trigger a run manually:
+
+```bash
+gh workflow run daily-evaluation.yml
+```
+
+Or in the UI: **Actions → Daily Evaluation → Run workflow**. The `ANTHROPIC_API_KEY` must be configured as a repo secret.

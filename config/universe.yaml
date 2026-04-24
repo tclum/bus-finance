@@ -1,0 +1,157 @@
+# Universe of tickers scanned each run.
+# See docs/hypothesis-generator-spec.md §2 for sourcing rationale.
+
+indices:
+  - ^GSPC   # S&P 500
+  - ^DJI    # Dow Jones Industrial Average
+  - ^IXIC   # Nasdaq Composite
+  - ^RUT    # Russell 2000
+  - ^VIX    # CBOE Volatility Index
+
+sector_etfs:
+  - XLK     # Technology
+  - XLF     # Financials
+  - XLE     # Energy
+  - XLV     # Health Care
+  - XLY     # Consumer Discretionary
+  - XLP     # Consumer Staples
+  - XLI     # Industrials
+  - XLB     # Materials
+  - XLU     # Utilities
+  - XLRE    # Real Estate
+  - XLC     # Communication Services
+
+# Initial S&P 500 subset — large-cap representatives across all 11 sectors.
+# Stage 1 uses this as the movers pool; later stages can swap in the full index.
+sp500:
+  # Technology
+  - AAPL
+  - MSFT
+  - NVDA
+  - AVGO
+  - ORCL
+  - CRM
+  - AMD
+  - ADBE
+  - CSCO
+  - ACN
+  - INTC
+  - QCOM
+  - TXN
+  - IBM
+  - NOW
+  - INTU
+  - AMAT
+  - MU
+  # Communication Services
+  - GOOGL
+  - META
+  - NFLX
+  - DIS
+  - CMCSA
+  - T
+  - VZ
+  - TMUS
+  # Consumer Discretionary
+  - AMZN
+  - TSLA
+  - HD
+  - MCD
+  - NKE
+  - LOW
+  - SBUX
+  - BKNG
+  - TJX
+  - GM
+  - F
+  # Consumer Staples
+  - WMT
+  - PG
+  - COST
+  - KO
+  - PEP
+  - PM
+  - MO
+  - MDLZ
+  - CL
+  - TGT
+  # Financials
+  - BRK-B
+  - JPM
+  - V
+  - MA
+  - BAC
+  - WFC
+  - GS
+  - MS
+  - AXP
+  - C
+  - SCHW
+  - BLK
+  - SPGI
+  # Health Care
+  - LLY
+  - UNH
+  - JNJ
+  - MRK
+  - ABBV
+  - PFE
+  - TMO
+  - ABT
+  - DHR
+  - BMY
+  - AMGN
+  - CVS
+  - GILD
+  # Industrials
+  - CAT
+  - GE
+  - BA
+  - HON
+  - UPS
+  - RTX
+  - LMT
+  - DE
+  - UNP
+  - MMM
+  # Energy
+  - XOM
+  - CVX
+  - COP
+  - SLB
+  - EOG
+  - PSX
+  - MPC
+  - OXY
+  # Materials
+  - LIN
+  - SHW
+  - FCX
+  - APD
+  - NEM
+  # Utilities
+  - NEE
+  - DUK
+  - SO
+  - AEP
+  # Real Estate
+  - PLD
+  - AMT
+  - EQIX
+  - CCI
+  - SPG
+
+# How many top gainers/losers to surface in the daily scan.
+top_movers_count: 20
+
+# RSS sources for news_scan.py. Values are feed URLs; keys are the
+# source label used in the digest.
+news_feeds:
+  # Reuters' own RSS was retired; Google News filtered to reuters.com is
+  # the standard workaround and what most aggregators use in 2026.
+  reuters: "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en"
+  yahoo_finance: "https://finance.yahoo.com/news/rssindex"
+  marketwatch: "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+
+# Maximum items kept after filter + dedupe.
+news_cap: 40

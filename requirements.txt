@@ -1,0 +1,6 @@
+yfinance>=0.2.40
+anthropic>=0.39.0
+pyyaml>=6.0
+feedparser>=6.0.11
+fredapi>=0.5.2
+python-dotenv>=1.0.1

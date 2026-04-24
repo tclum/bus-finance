@@ -1,0 +1,82 @@
+name: Daily Evaluation
+
+# Two scheduled runs per trading day, plus manual dispatch.
+#   Pre-market: 12:00 UTC = 8:00 AM ET during DST
+#   Close:      20:30 UTC = 4:30 PM ET during DST
+#
+# Cron runs are UTC only and do not follow DST; ET equivalents
+# shift by one hour outside of DST. This is acceptable because the
+# scan is directional (pre-market / close) rather than tied to an
+# exact wall-clock moment.
+on:
+  schedule:
+    - cron: '0 12 * * 1-5'
+    - cron: '30 20 * * 1-5'
+  workflow_dispatch: {}
+
+# Don't let a pre-market run cancel an in-progress close run (or
+# vice-versa). Serialize, don't interrupt.
+concurrency:
+  group: daily-evaluation
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate hypothesis memo
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m src.generate_hypotheses
+
+      - name: Commit and push memo to main
+        run: |
+          set -euo pipefail
+
+          # Session label is derived from UTC hour. Threshold (16 UTC)
+          # must match infer_session() in src/generate_hypotheses.py.
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" -lt 16 ]; then
+            SESSION=premarket
+          else
+            SESSION=close
+          fi
+          DATE=$(date -u +%Y-%m-%d)
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Move onto main so the commit lands there regardless of the
+          # ref that triggered this run (scheduled runs come from the
+          # default branch; manual dispatches may come from a feature
+          # branch). New eval files are untracked and survive the switch.
+          git fetch origin main
+          git checkout main
+
+          git add evaluations/
+
+          if git diff --cached --quiet; then
+            echo "No new evaluation files to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(eval): add ${SESSION} memo for ${DATE}"
+          git push origin main
