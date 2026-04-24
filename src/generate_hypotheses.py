@@ -360,6 +360,26 @@ def write_outputs(
     return memo_path, meta_path, metrics_path
 
 
+# ---------- charts + dashboard (best-effort) ----------
+
+def _refresh_charts_and_dashboard() -> None:
+    """
+    Regenerate the per-run charts and the dashboard README. Wrapped so
+    a failure here never invalidates a successful memo+meta+metrics
+    write — the memo is the product; charts are decoration.
+    """
+    try:
+        import pandas as pd  # noqa: WPS433 — deferred import keeps startup cheap
+        from src import charts, dashboard
+
+        df = pd.read_csv(METRICS_PATH) if METRICS_PATH.exists() else None
+        charts.generate_cost_trend_chart(df if df is not None else pd.DataFrame())
+        charts.generate_token_usage_chart(df if df is not None else pd.DataFrame())
+        dashboard.regenerate_dashboard()
+    except Exception as exc:  # noqa: BLE001 — explicitly broad, logged
+        print(f"  ! chart/dashboard refresh failed (non-fatal): {exc}")
+
+
 # ---------- main ----------
 
 def main() -> None:
@@ -390,6 +410,7 @@ def main() -> None:
     memo_path, meta_path, metrics_path = write_outputs(
         memo_text, response, run_ts, inputs_meta
     )
+    _refresh_charts_and_dashboard()
 
     usage = response.usage
     cost = estimate_cost(usage)
