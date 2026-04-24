@@ -143,3 +143,15 @@ sp500:
 
 # How many top gainers/losers to surface in the daily scan.
 top_movers_count: 20
+
+# RSS sources for news_scan.py. Values are feed URLs; keys are the
+# source label used in the digest.
+news_feeds:
+  # Reuters' own RSS was retired; Google News filtered to reuters.com is
+  # the standard workaround and what most aggregators use in 2026.
+  reuters: "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en"
+  yahoo_finance: "https://finance.yahoo.com/news/rssindex"
+  marketwatch: "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+
+# Maximum items kept after filter + dedupe.
+news_cap: 40
