@@ -17,8 +17,10 @@ Run with:  python -m src.generate_hypotheses
 
 from __future__ import annotations
 
+import csv
 import json
 import os
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -38,6 +40,22 @@ from src.news_scan import (
 ROOT = Path(__file__).resolve().parent.parent
 PROMPTS_DIR = ROOT / "prompts"
 EVALUATIONS_DIR = ROOT / "evaluations"
+METRICS_PATH = EVALUATIONS_DIR / "_metrics.csv"
+
+# UTC cutoff between pre-market and close sessions. Must match the
+# equivalent threshold in .github/workflows/daily-evaluation.yml.
+SESSION_CUTOFF_HOUR = 16
+
+METRICS_COLUMNS = [
+    "timestamp_utc",
+    "session",
+    "input_tokens",
+    "output_tokens",
+    "cache_read_tokens",
+    "cost_usd",
+    "num_hypotheses",
+    "stop_reason",
+]
 
 MODEL = "claude-sonnet-4-5"
 MAX_TOKENS = 4000
@@ -262,12 +280,49 @@ def estimate_cost(usage) -> float:
 
 # ---------- output ----------
 
+def infer_session(ts: datetime) -> str:
+    """Label a run as 'premarket' or 'close' based on UTC hour."""
+    return "premarket" if ts.hour < SESSION_CUTOFF_HOUR else "close"
+
+
+def count_hypotheses(memo_text: str) -> int:
+    return len(re.findall(r"^## Hypothesis \d+:", memo_text, re.MULTILINE))
+
+
+def append_metrics(
+    run_ts: datetime,
+    session: str,
+    response,
+    memo_text: str,
+) -> Path:
+    """Append one row to evaluations/_metrics.csv; create with header if missing."""
+    EVALUATIONS_DIR.mkdir(parents=True, exist_ok=True)
+    usage = response.usage
+    row = {
+        "timestamp_utc": run_ts.isoformat(timespec="seconds"),
+        "session": session,
+        "input_tokens": getattr(usage, "input_tokens", 0),
+        "output_tokens": getattr(usage, "output_tokens", 0),
+        "cache_read_tokens": getattr(usage, "cache_read_input_tokens", 0) or 0,
+        "cost_usd": round(estimate_cost(usage), 6),
+        "num_hypotheses": count_hypotheses(memo_text),
+        "stop_reason": getattr(response, "stop_reason", "") or "",
+    }
+    is_new = not METRICS_PATH.exists()
+    with METRICS_PATH.open("a", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=METRICS_COLUMNS)
+        if is_new:
+            writer.writeheader()
+        writer.writerow(row)
+    return METRICS_PATH
+
+
 def write_outputs(
     memo_text: str,
     response,
     run_ts: datetime,
     inputs_meta: dict,
-) -> tuple[Path, Path]:
+) -> tuple[Path, Path, Path]:
     year = run_ts.strftime("%Y")
     month = run_ts.strftime("%m")
     slug = run_ts.strftime("%Y-%m-%d-%H%M")
@@ -279,9 +334,11 @@ def write_outputs(
 
     memo_path.write_text(memo_text)
 
+    session = infer_session(run_ts)
     usage = response.usage
     meta = {
         "timestamp_utc": run_ts.isoformat(timespec="seconds"),
+        "session": session,
         "model": getattr(response, "model", MODEL),
         "stop_reason": getattr(response, "stop_reason", None),
         "input_tokens": getattr(usage, "input_tokens", 0),
@@ -293,11 +350,14 @@ def write_outputs(
             getattr(usage, "cache_read_input_tokens", 0) or 0
         ),
         "cost_usd": round(estimate_cost(usage), 6),
+        "num_hypotheses": count_hypotheses(memo_text),
         "tickers_included": inputs_meta["tickers_included"],
         "headlines_included": inputs_meta["headlines_included"],
     }
     meta_path.write_text(json.dumps(meta, indent=2))
-    return memo_path, meta_path
+
+    metrics_path = append_metrics(run_ts, session, response, memo_text)
+    return memo_path, meta_path, metrics_path
 
 
 # ---------- main ----------
@@ -327,12 +387,15 @@ def main() -> None:
     memo_text = response.content[0].text if response.content else ""
 
     print("[4/4] Writing outputs...")
-    memo_path, meta_path = write_outputs(memo_text, response, run_ts, inputs_meta)
+    memo_path, meta_path, metrics_path = write_outputs(
+        memo_text, response, run_ts, inputs_meta
+    )
 
     usage = response.usage
     cost = estimate_cost(usage)
-    print(f"\n  memo -> {memo_path.relative_to(ROOT)}")
-    print(f"  meta -> {meta_path.relative_to(ROOT)}")
+    print(f"\n  memo    -> {memo_path.relative_to(ROOT)}")
+    print(f"  meta    -> {meta_path.relative_to(ROOT)}")
+    print(f"  metrics -> {metrics_path.relative_to(ROOT)}")
     print(
         f"\nTokens: input={usage.input_tokens}  output={usage.output_tokens}  "
         f"cache_read={getattr(usage, 'cache_read_input_tokens', 0) or 0}  "
