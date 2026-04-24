@@ -5,9 +5,9 @@
 
 ## Latest memo — April 24, 2026 — Close
 
-The semiconductor sector repriced sharply higher on Intel's +23.6% rally, driving XLK to lead all sectors at +2.81% and pushing NASDAQ to a new record close. The move is supported by multiple independent signals — elevated volume across chip names, corroborating headlines on AI CPU demand, and Google's announced $40 billion Anthropic investment — suggesting a fundamental reassessment of AI infrastructure capex rather than sentiment-driven rotation. Meanwhile, Charter's -12.9% collapse on broadband subscriber losses and slumping consumer sentiment (record low per Reuters) create a bifurcated tape: AI infrastructure accelerating while consumer-facing businesses face margin and demand headwinds. The CFO should prioritize the semiconductor hypothesis and the Charter broadband thesis, as both have direct implications for our capital allocation and supplier relationships.
+The semiconductor sector repriced sharply higher on Intel's earnings catalyst, with INTC +23.6% and AMD +13.9% both on 2×+ volume, driving XLK to lead all sectors at +2.81%. The move is corroborated by multiple independent headlines citing AI-driven CPU demand, but the breadth is narrow — Nasdaq +1.63% vs. Dow -0.16% and below-average index volume signals concentration risk. The most actionable cross-reference is between the chip rally and oilfield services strength (SLB +2.58%, citing supply-chain cost pass-through), which together suggest capital-intensive sectors are pricing in sustained elevated input costs. The CFO should prioritize Hypothesis 1 (semiconductor capex cycle timing) and Hypothesis 3 (consumer sentiment divergence from equity performance) as both have immediate implications for our capital allocation and demand forecasting.
 
-[Read full memo →](2026/04/2026-04-24-2037.md)
+[Read full memo →](2026/04/2026-04-24-2048.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The semiconductor sector repriced sharply higher on Intel's +23.6% rally, drivin
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-04-24 20:48Z | Close | 4 | $0.0760 | [memo](2026/04/2026-04-24-2048.md) |
 | 2026-04-24 20:37Z | Close | 4 | $0.0736 | [memo](2026/04/2026-04-24-2037.md) |
 | 2026-04-24 20:10Z | Close | 4 | $0.0696 | [memo](2026/04/2026-04-24-2010.md) |
 
