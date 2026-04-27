@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-04-27T20:49:59+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4221,
+  "output_tokens": 3068,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.073784,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "MU",
+    "NVDA",
+    "INTC",
+    "SCHW",
+    "DHR",
+    "ABT",
+    "GOOGL",
+    "VZ",
+    "AXP",
+    "WFC",
+    "MPC",
+    "GS",
+    "UPS",
+    "BLK",
+    "CRM",
+    "MS",
+    "BAC",
+    "JPM",
+    "NKE",
+    "QCOM",
+    "NEM",
+    "AMD",
+    "TMUS",
+    "CCI",
+    "MCD",
+    "AMAT",
+    "TXN",
+    "T",
+    "ADBE",
+    "GILD",
+    "PM",
+    "WMT",
+    "LLY",
+    "EQIX",
+    "IBM",
+    "SLB",
+    "AMT",
+    "BMY",
+    "KO",
+    "INTU"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "This price for Brent crude is more important for its outlook than $100, charts show",
+      "published_at": "2026-04-27T20:39:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "A new version of an old drug is helping men grow back some of their hair",
+      "published_at": "2026-04-27T20:31:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Billionaire Ray Dalio says you should have up to 15% of your money in gold because of uncertainty around the Iran war",
+      "published_at": "2026-04-27T20:31:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "A \u2018casual sports bettor\u2019 just turned a $30 parlay into $1.98 million. Why sportsbooks still love this type of bet.",
+      "published_at": "2026-04-27T20:21:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Gold prices have lost nearly 11% since the Iran war began. Reasons to buy the metal are piling up again.",
+      "published_at": "2026-04-27T20:09:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The government is meddling with earnings reporting \u2014 but Tesla, Amazon and other market superstars prove there\u2019s no problem",
+      "published_at": "2026-04-27T19:52:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "No kids, no care: Solo agers are hiring professional \u2018next-of-kin\u2019 for major life decisions",
+      "published_at": "2026-04-27T19:39:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Global oil prices surpass $108 a barrel on concerns Iran may have to cut production due to limited storage",
+      "published_at": "2026-04-27T19:37:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Meta pokes holes in China's great AI firewall - Reuters",
+      "published_at": "2026-04-27T19:16:37+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Higher inflation is on the way. The Fed needs to make this clearer before it raises rates.",
+      "published_at": "2026-04-27T19:11:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Micron and Sandisk shares could soar further thanks to a software-like subscription model",
+      "published_at": "2026-04-27T19:05:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Wall Street rangebound, cautious at start of heavy earnings week - Reuters",
+      "published_at": "2026-04-27T18:29:12+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Accenture to roll out Copilot to all 743,000 employees in boost for Microsoft - Reuters",
+      "published_at": "2026-04-27T18:07:37+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: JPMorgan among banks providing financing for Kuwaiti oil pipeline stake deal - Reuters",
+      "published_at": "2026-04-27T17:55:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Paramount seeks FCC approval for foreign investors helping fund Warner Bros acquisition - Reuters",
+      "published_at": "2026-04-27T17:47:06+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Digital Realty Trust Inc",
+      "published_at": "2026-04-27T17:43:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Chubb Ltd",
+      "published_at": "2026-04-27T17:43:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: RTX Corp",
+      "published_at": "2026-04-27T17:43:32+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "White House says press dinner shooting was third major assassination attempt against Trump - Reuters",
+      "published_at": "2026-04-27T17:39:38+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Citi to boost Japan, China investment banking teams, plans senior sector-focused hires - Reuters",
+      "published_at": "2026-04-27T17:39:15+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Jain Global to return investor cash, manage money for Millennium, sources say - Reuters",
+      "published_at": "2026-04-27T17:36:50+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Update: CB, RTX, KDP, DLR",
+      "published_at": "2026-04-27T17:28:32+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle - Reuters",
+      "published_at": "2026-04-27T17:24:28+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "J&J sees AI halving the time to generate drug development leads - Reuters",
+      "published_at": "2026-04-27T17:10:34+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Amazon secures exclusive rights to Oprah Winfrey's podcast - Reuters",
+      "published_at": "2026-04-27T16:48:27+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Domino's Pizza sees weak annual global sales as diners curb spending, shares slump - Reuters",
+      "published_at": "2026-04-27T16:16:04+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Russian finance minister warns of regional budgets' strains, rising debt - Reuters",
+      "published_at": "2026-04-27T16:12:16+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "European budget airline Wizz upbeat on summer demand, jet fuel supply - Reuters",
+      "published_at": "2026-04-27T15:53:58+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Washington Hilton says it was using Secret Service protocols on night of attack - Reuters",
+      "published_at": "2026-04-27T15:51:31+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Bill Ackman's Pershing Square IPO expected to raise $5 billion, source says - Reuters",
+      "published_at": "2026-04-27T15:23:40+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Canada to set up sovereign wealth fund with initial funding of C$25 billion - Reuters",
+      "published_at": "2026-04-27T15:23:36+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Gulf economies head for worst crisis since pandemic as war roils energy lifeline - Reuters",
+      "published_at": "2026-04-27T15:13:20+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Shell to acquire Canada's ARC in output-boosting $16.4 billion deal - Reuters",
+      "published_at": "2026-04-27T15:09:14+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Critical Metals agrees to buy European Lithium for about $835 million - Reuters",
+      "published_at": "2026-04-27T14:12:52+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Polish nine-day charity stream breaks records to support kids with cancer - Reuters",
+      "published_at": "2026-04-27T14:07:16+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Ray\u2011Ban scion wins family nod for $12 billion scheme to boost EssilorLuxottica control, source says - Reuters",
+      "published_at": "2026-04-27T13:50:40+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Lack of rainfall raises fears for Ivory Coast cocoa crop - Reuters",
+      "published_at": "2026-04-27T13:21:41+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Thermo Fisher to sell microbiology business to PE firm Astorg for over $1 billion - Reuters",
+      "published_at": "2026-04-27T13:11:29+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Jet fuel crisis: a boon for Nigeria's Dangote, but not for local airlines - Reuters",
+      "published_at": "2026-04-27T13:02:17+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Global consumer companies face pricing stress test from oil shock - Reuters",
+      "published_at": "2026-04-27T12:28:55+00:00"
+    }
+  ]
+}

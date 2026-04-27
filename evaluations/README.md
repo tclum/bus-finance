@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — April 27, 2026 — Pre-market
+## Latest memo — April 27, 2026 — Close
 
-The semiconductor sector is repricing sharply on AI infrastructure demand, with INTC up 23.6% and AMD up 13.9% on 2.2×–2.5× volume following reports of an OpenAI-Qualcomm partnership for AI smartphone processors. This is not a broad tech rally — XLK led at +2.81% while XLF fell -0.73% and XLV dropped -1.41%, suggesting sector-specific fundamental catalysts rather than duration-driven rotation. The most urgent question for the CFO is whether the semiconductor capex cycle is inflecting ahead of our own capital-allocation decisions, and whether the -12.9% collapse in CMCSA on 1.86× volume signals a structural repricing of legacy media that could affect our advertising and content partnerships.
+The tape is bifurcating on oil-driven margin pressure: memory semiconductors rallied sharply (MU +5.60%, NVDA +4.00%) while consumer-facing names with high energy exposure sold off (MCD -3.06%, WMT -1.79%). Brent crude surpassed $108/barrel on Iran storage capacity concerns per Reuters and MarketWatch, creating a clear profitability stress test for companies that cannot pass through input costs. The most actionable cross-reference is the simultaneous strength in financials (XLF +0.76%, led by SCHW +2.55% and money-center banks) against weakness in telecom infrastructure (TMUS -3.71%, CCI -3.36%, T -2.60%), suggesting a sector rotation driven by rate expectations embedded in the oil shock rather than broad risk-off behavior.
 
-[Read full memo →](2026/04/2026-04-27-1237.md)
+[Read full memo →](2026/04/2026-04-27-2049.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The semiconductor sector is repricing sharply on AI infrastructure demand, with 
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-04-27 20:49Z | Close | 4 | $0.0738 | [memo](2026/04/2026-04-27-2049.md) |
 | 2026-04-27 12:37Z | Pre-market | 4 | $0.0777 | [memo](2026/04/2026-04-27-1237.md) |
 | 2026-04-24 20:48Z | Close | 4 | $0.0760 | [memo](2026/04/2026-04-24-2048.md) |
 | 2026-04-24 20:37Z | Close | 4 | $0.0736 | [memo](2026/04/2026-04-24-2037.md) |
