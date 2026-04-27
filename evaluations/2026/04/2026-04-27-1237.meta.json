@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-04-27T12:37:05+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3673,
+  "output_tokens": 3442,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.07775,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "INTC",
+    "AMD",
+    "QCOM",
+    "NEM",
+    "NOW",
+    "NVDA",
+    "AMZN",
+    "INTU",
+    "AMAT",
+    "MU",
+    "CRM",
+    "ADBE",
+    "SLB",
+    "META",
+    "MSFT",
+    "PSX",
+    "BKNG",
+    "PG",
+    "GOOGL",
+    "MPC",
+    "CMCSA",
+    "DE",
+    "LLY",
+    "LMT",
+    "PM",
+    "RTX",
+    "GILD",
+    "MRK",
+    "TMUS",
+    "COP",
+    "TXN",
+    "VZ",
+    "ORCL",
+    "WMT",
+    "T",
+    "ABT",
+    "AXP",
+    "JNJ",
+    "WFC",
+    "CCI"
+  ],
+  "headlines_included": [
+    {
+      "source": "yahoo_finance",
+      "title": "Stocks' strong April gains come with 1 potential downside",
+      "published_at": "2026-04-27T12:25:14+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Why Morgan Stanley sees little possibility of a stock-market retreat",
+      "published_at": "2026-04-27T12:24:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Growth Stock Showdown: Is Amazon or Sea Limited the Better Buy Right Now?",
+      "published_at": "2026-04-27T12:20:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "United CEO defends merger dreams despite pushback from American Airlines",
+      "published_at": "2026-04-27T12:20:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Meta signs space solar energy deal with Overview Energy",
+      "published_at": "2026-04-27T12:18:17+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Reed\u2019s hires former executive Damian Warshall as COO",
+      "published_at": "2026-04-27T12:16:12+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Conestoga Sells 64K Q2 Shares",
+      "published_at": "2026-04-27T12:14:32+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018AI genuinely freaks me out\u2019: Do I leave my $150,000 nonprofit job for a $215,000 data analytics position \u2014 with a 50-minute commute?",
+      "published_at": "2026-04-27T12:14:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Ligand Pharmaceuticals Is Buying Xoma for Nearly $740 Million",
+      "published_at": "2026-04-27T12:10:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "They have millions in the bank \u2014 but without kids, who makes their life-or-death decisions?",
+      "published_at": "2026-04-27T12:10:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Sun Pharma to acquire Organon in $11.75 billion deal",
+      "published_at": "2026-04-27T12:09:27+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Domino's stock falls after Q1 earnings, sales growth miss expectations",
+      "published_at": "2026-04-27T12:08:21+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Verizon Earnings Beat, Revenue Light As Subscriber Additions Surprise",
+      "published_at": "2026-04-27T12:06:23+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "'It's Time To Fix Digital Asset Taxes,' Kraken Says As It Reports Issuing 56M Tax Forms With Nearly A Third For Transactions Less Than $1",
+      "published_at": "2026-04-27T12:06:10+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Qualcomm surges on report of OpenAI tie-up for AI smartphone processors",
+      "published_at": "2026-04-27T12:05:27+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Wavers On Iran News; Nvidia Rallies Near Record Highs (Live Coverage)",
+      "published_at": "2026-04-27T12:04:32+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Pension-fund rebalancing and other red flags that suggest a stock-market pullback is nearing, according to Goldman Sachs",
+      "published_at": "2026-04-27T12:02:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Man with $3.5M inheritance on the way wants to dip into savings \u2014 The Ramsey Show says 'act like none of it's coming\u2019",
+      "published_at": "2026-04-27T12:00:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "SpaceX and OpenAI IPOs: 1 warning to not overlook",
+      "published_at": "2026-04-27T11:55:51+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Elon Musk's trial against Sam Altman to reveal the ongoing power struggle for OpenAI - Reuters",
+      "published_at": "2026-04-27T11:54:58+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Here\u2019s Laughing Water Capital\u2019s Updates on Nextnav (NN)",
+      "published_at": "2026-04-27T11:50:18+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum price today, Monday, April 27, 2026: Prices hold ahead of potential peace talks and Fed meeting",
+      "published_at": "2026-04-27T11:49:27+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Laughing Water Capital\u2019s Insights on Lifecore Biomedical (LFCR)",
+      "published_at": "2026-04-27T11:47:45+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Laughing Water Capital Sold PAR Technology Corp (PAR) Due to Valuation Concerns",
+      "published_at": "2026-04-27T11:45:17+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Meta\u2019s $2 billion acquisition gets blocked by China. What the deal was all about in the first place.",
+      "published_at": "2026-04-27T11:38:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Two months into Iran war, economic strain mounts across emerging markets",
+      "published_at": "2026-04-27T11:37:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "India-New Zealand trade pact cuts fruit tariffs, boosts exports, visas",
+      "published_at": "2026-04-27T11:36:14+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Medtronic says cyberattack on IT network has not disrupted operations",
+      "published_at": "2026-04-27T11:35:57+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Tech stocks today: Qualcomm stock soars, Nvidia tops $5 trillion again, with Big Tech Q1 updates on deck",
+      "published_at": "2026-04-27T11:35:35+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "EQT (EQT) Releases Financial and Operational Results for Q1 2026",
+      "published_at": "2026-04-27T11:33:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Ally Financial (ALLY) Releases Q1 2026 Financial Results",
+      "published_at": "2026-04-27T11:33:24+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Omnicom Group (OMC) Announces Expansion of Global Partnership with Adobe",
+      "published_at": "2026-04-27T11:33:17+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bank of America Securities Reiterates Buy Rating on Capital One Financial (COF) Stock",
+      "published_at": "2026-04-27T11:33:09+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Charter Communications (CHTR) Releases Financial and Operating Results",
+      "published_at": "2026-04-27T11:33:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Accenture plc (ACN) Announces Expansion of Partnership with Google Cloud",
+      "published_at": "2026-04-27T11:32:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Google Cloud and Salesforce (CRM) Enter into Expanded Partnership",
+      "published_at": "2026-04-27T11:32:45+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Is Cognizant Technology Solutions (CTSH) One of the Best Bargain Stocks to Buy in May?",
+      "published_at": "2026-04-27T11:32:37+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Fidelity National Information Services (FIS): One of the Best Bargain Stocks to Buy in May",
+      "published_at": "2026-04-27T11:32:28+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Here is Why United Airlines Holdings (UAL) Is Among the Best Bargain Stocks to Buy in May",
+      "published_at": "2026-04-27T11:32:19+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Weekly Stock List",
+      "published_at": "2026-04-27T11:28:00+00:00"
+    }
+  ]
+}

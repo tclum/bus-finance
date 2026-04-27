@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — April 24, 2026 — Close
+## Latest memo — April 27, 2026 — Pre-market
 
-The semiconductor sector repriced sharply higher on Intel's earnings catalyst, with INTC +23.6% and AMD +13.9% both on 2×+ volume, driving XLK to lead all sectors at +2.81%. The move is corroborated by multiple independent headlines citing AI-driven CPU demand, but the breadth is narrow — Nasdaq +1.63% vs. Dow -0.16% and below-average index volume signals concentration risk. The most actionable cross-reference is between the chip rally and oilfield services strength (SLB +2.58%, citing supply-chain cost pass-through), which together suggest capital-intensive sectors are pricing in sustained elevated input costs. The CFO should prioritize Hypothesis 1 (semiconductor capex cycle timing) and Hypothesis 3 (consumer sentiment divergence from equity performance) as both have immediate implications for our capital allocation and demand forecasting.
+The semiconductor sector is repricing sharply on AI infrastructure demand, with INTC up 23.6% and AMD up 13.9% on 2.2×–2.5× volume following reports of an OpenAI-Qualcomm partnership for AI smartphone processors. This is not a broad tech rally — XLK led at +2.81% while XLF fell -0.73% and XLV dropped -1.41%, suggesting sector-specific fundamental catalysts rather than duration-driven rotation. The most urgent question for the CFO is whether the semiconductor capex cycle is inflecting ahead of our own capital-allocation decisions, and whether the -12.9% collapse in CMCSA on 1.86× volume signals a structural repricing of legacy media that could affect our advertising and content partnerships.
 
-[Read full memo →](2026/04/2026-04-24-2048.md)
+[Read full memo →](2026/04/2026-04-27-1237.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The semiconductor sector repriced sharply higher on Intel's earnings catalyst, w
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-04-27 12:37Z | Pre-market | 4 | $0.0777 | [memo](2026/04/2026-04-27-1237.md) |
 | 2026-04-24 20:48Z | Close | 4 | $0.0760 | [memo](2026/04/2026-04-24-2048.md) |
 | 2026-04-24 20:37Z | Close | 4 | $0.0736 | [memo](2026/04/2026-04-24-2037.md) |
 | 2026-04-24 20:10Z | Close | 4 | $0.0696 | [memo](2026/04/2026-04-24-2010.md) |
