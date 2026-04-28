@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-04-28T20:53:28+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4315,
+  "output_tokens": 2563,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.066491,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "KO",
+    "UNH",
+    "CVS",
+    "CCI",
+    "PM",
+    "MO",
+    "INTU",
+    "MPC",
+    "OXY",
+    "IBM",
+    "TMUS",
+    "COP",
+    "T",
+    "MDLZ",
+    "CVX",
+    "EOG",
+    "CL",
+    "NEE",
+    "AMT",
+    "GE",
+    "AMAT",
+    "NEM",
+    "AVGO",
+    "ORCL",
+    "UPS",
+    "FCX",
+    "MU",
+    "SHW",
+    "AMD",
+    "BKNG",
+    "TGT",
+    "TXN",
+    "NVDA",
+    "CSCO",
+    "CAT",
+    "EQIX",
+    "GS",
+    "PFE",
+    "META",
+    "HD"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "These adviser fees are a hit to your portfolio \u2014 here are 2 questions to stop them",
+      "published_at": "2026-04-28T20:52:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "These two countries are the most likely to leave OPEC\u2019s orbit next",
+      "published_at": "2026-04-28T20:41:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I\u2019m not interested in long-term care insurance\u2019: I\u2019d like to retire at 55. How much will I have to pay for healthcare?",
+      "published_at": "2026-04-28T20:40:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Trump\u2019s fight with Jimmy Kimmel escalates as the FCC puts ABC under review",
+      "published_at": "2026-04-28T20:23:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "U.A.E. is leaving OPEC but will still need to exercise caution as it increases oil production",
+      "published_at": "2026-04-28T20:17:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I hope to retire early\u2019: I\u2019m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?",
+      "published_at": "2026-04-28T20:11:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters",
+      "published_at": "2026-04-28T20:02:49+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: Ghana rejects proposed US health aid deal, citing data concerns, source says - Reuters",
+      "published_at": "2026-04-28T19:20:44+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018We believe it\u2019s real\u2019: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?",
+      "published_at": "2026-04-28T19:08:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Amazon is back in Wall Street\u2019s good graces. Here\u2019s what will determine whether it stays there.",
+      "published_at": "2026-04-28T19:08:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Can Meta make money on AI beyond consumer ads? That\u2019s a big question going into earnings.",
+      "published_at": "2026-04-28T18:42:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Amazon targets mass hiring with agentic software, goal to humanize AI - Reuters",
+      "published_at": "2026-04-28T18:25:57+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US imposes sanctions on 35 individuals, entities for aiding Iran's sanctions evasions - Reuters",
+      "published_at": "2026-04-28T18:25:44+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Airbus misses profit estimates as deliveries slow amid engine crunch - Reuters",
+      "published_at": "2026-04-28T18:14:48+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Americans are embracing this terrible car-buying habit. It\u2019s costing them thousands of dollars.",
+      "published_at": "2026-04-28T18:08:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US consumer confidence unexpectedly improves, but higher gasoline prices still a worry - Reuters",
+      "published_at": "2026-04-28T17:57:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: US orders multiple chip equipment companies to halt some shipments to China's No. 2 chipmaker Hua Hong - Reuters",
+      "published_at": "2026-04-28T17:54:12+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "FCC to order early license reviews of Disney-owned ABC stations, source says - Reuters",
+      "published_at": "2026-04-28T17:49:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "FCC prepares review of Disney's TV licenses, Semafor reports - Reuters",
+      "published_at": "2026-04-28T17:30:07+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "JPMorgan CEO says not worried about inflation, risks remain of higher prices - Reuters",
+      "published_at": "2026-04-28T17:26:11+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "T-Mobile rolls out broadband with Starlink backup to expand business customer base - Reuters",
+      "published_at": "2026-04-28T17:23:06+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Brown & Brown Inc",
+      "published_at": "2026-04-28T17:19:43+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Sanmina Corp",
+      "published_at": "2026-04-28T17:19:43+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Kinder Morgan Inc",
+      "published_at": "2026-04-28T17:19:43+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Update: BRO, ISRG, PG, SANM, KMI",
+      "published_at": "2026-04-28T17:04:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Panama's Copa Airlines to buy 60 Boeing 737 Max jets - Reuters",
+      "published_at": "2026-04-28T16:26:15+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Investor Kimmeridge urges Devon to pursue asset sales after Coterra merger - Reuters",
+      "published_at": "2026-04-28T16:13:50+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "People linked to top Orban aide were blocked trying to send funds abroad, Hungary's Magyar says - Reuters",
+      "published_at": "2026-04-28T16:00:35+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Hilton raises 2026 room revenue growth forecast, flags impact of Middle East conflict - Reuters",
+      "published_at": "2026-04-28T15:54:23+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "GM lifts profit outlook, flags expected tariff refund - Reuters",
+      "published_at": "2026-04-28T15:31:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "JetBlue plans capacity cuts, fare hikes as high fuel costs widen quarterly loss - Reuters",
+      "published_at": "2026-04-28T15:22:38+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Spotify's spending plan hurts profit outlook as Europe, North America growth lags - Reuters",
+      "published_at": "2026-04-28T14:35:24+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Argentina has 'serious' concerns after soymeal shipments withdrawn in EU over GMO breaches - Reuters",
+      "published_at": "2026-04-28T14:33:45+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Germany to borrow close to 200 billion euros in defence-heavy budget, sources say - Reuters",
+      "published_at": "2026-04-28T14:32:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Rare Earths Americas kicks off US IPO roadshow with $368 million valuation target - Reuters",
+      "published_at": "2026-04-28T14:20:58+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Libya signs preliminary agreement with Chevron to assess shale oil and gas resources - Reuters",
+      "published_at": "2026-04-28T14:20:25+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "UAE to leave OPEC and OPEC+ oil producer groups - Reuters",
+      "published_at": "2026-04-28T14:18:22+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Corning faces weakness in non\u2011optical segments as data-center business booms - Reuters",
+      "published_at": "2026-04-28T14:11:07+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US signs energy and AI deals with Balkan countries as its influence widens - Reuters",
+      "published_at": "2026-04-28T14:05:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Disney chair says CEO will 'rise to the occasion' in Trump-Kimmel spat - Reuters",
+      "published_at": "2026-04-28T14:02:47+00:00"
+    }
+  ]
+}

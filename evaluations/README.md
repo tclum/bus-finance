@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — April 28, 2026 — Pre-market
+## Latest memo — April 28, 2026 — Close
 
-The tape is bifurcating on AI infrastructure: memory and GPU leaders (MU +5.60%, NVDA +4.00%) continue rallying while AMD sold off -3.79% despite its strong 5-day performance, and semis broadly show elevated volume dispersion. This divergence coincides with Reuters reporting that Big Tech AI spending is set to hit $600 billion, but no guidance raises have been announced to confirm the capex acceleration the market is pricing. Meanwhile, Brent crude topped $111/barrel on Iran war escalation headlines, creating a margin-compression setup for consumer discretionary and industrials that has not yet fully expressed in sector performance. The CFO should prioritize the semiconductor inventory and capex investigation, as our own capital equipment orders share suppliers with hyperscaler demand.
+The tape split sharply along defensive/cyclical lines: energy led on UAE-OPEC exit and Hormuz disruption (XLE +1.66%), while semiconductors sold off hard on new China export restrictions (AMAT -5.87%, AVGO -4.39%). Consumer staples rallied on volume (KO +3.86% on 1.76× volume), suggesting a flight-to-quality rotation despite improving consumer confidence. The most actionable cross-reference is the semiconductor equipment selloff paired with the Reuters exclusive on Hua Hong export controls — this is a policy-driven margin and revenue risk that warrants immediate scenario analysis.
 
-[Read full memo →](2026/04/2026-04-28-1240.md)
+[Read full memo →](2026/04/2026-04-28-2053.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The tape is bifurcating on AI infrastructure: memory and GPU leaders (MU +5.60%,
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-04-28 20:53Z | Close | 4 | $0.0665 | [memo](2026/04/2026-04-28-2053.md) |
 | 2026-04-28 12:40Z | Pre-market | 4 | $0.0702 | [memo](2026/04/2026-04-28-1240.md) |
 | 2026-04-27 20:49Z | Close | 4 | $0.0738 | [memo](2026/04/2026-04-27-2049.md) |
 | 2026-04-27 12:37Z | Pre-market | 4 | $0.0777 | [memo](2026/04/2026-04-27-1237.md) |
