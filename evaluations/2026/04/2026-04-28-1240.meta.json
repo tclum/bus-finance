@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-04-28T12:40:52+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3802,
+  "output_tokens": 2913,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.070202,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "MU",
+    "NVDA",
+    "INTC",
+    "SCHW",
+    "DHR",
+    "ABT",
+    "GOOGL",
+    "VZ",
+    "AXP",
+    "WFC",
+    "MPC",
+    "GS",
+    "UPS",
+    "BLK",
+    "CRM",
+    "MS",
+    "BAC",
+    "JPM",
+    "NKE",
+    "QCOM",
+    "NEM",
+    "AMD",
+    "TMUS",
+    "CCI",
+    "MCD",
+    "AMAT",
+    "TXN",
+    "T",
+    "ADBE",
+    "GILD",
+    "PM",
+    "WMT",
+    "LLY",
+    "EQIX",
+    "IBM",
+    "SLB",
+    "AMT",
+    "BMY",
+    "KO",
+    "INTU"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "Global oil prices top $111 a barrel after reports that Trump is unhappy with Iran\u2019s proposal to end war",
+      "published_at": "2026-04-28T12:33:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "JetBlue Q1 2026 earnings miss as losses widen",
+      "published_at": "2026-04-28T12:32:40+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bill Maher blasts America\u2019s $5T tax monster: \u2018Almost 60%\u2019 of his income goes to Uncle Sam while the poor still suffer",
+      "published_at": "2026-04-28T12:30:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Could a jet-fuel shortage turn your European summer vacation into a nightmare?",
+      "published_at": "2026-04-28T12:30:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Amber Beverage starts \u201cjudicial reorganisation\u201d",
+      "published_at": "2026-04-28T12:27:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Investment Advisor Exits $47.5 Million MercadoLibre Position, According to Latest SEC Filing",
+      "published_at": "2026-04-28T12:25:44+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Target's stock may be on a tear \u2014 but shoppers are still hating on the company",
+      "published_at": "2026-04-28T12:25:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin's Next Move Hinges on $82K CME Gap as Earnings, FOMC Loom",
+      "published_at": "2026-04-28T12:21:26+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Forget Plug Power: This Profitable Clean\u2011Energy Leader Is the Smarter Way to Ride the Energy Transition",
+      "published_at": "2026-04-28T12:20:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stocks to Watch Tuesday: Oracle, Spotify, Hilton",
+      "published_at": "2026-04-28T12:18:37+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Chile\u2019s Undurraga Wine Group names new CEO",
+      "published_at": "2026-04-28T12:17:27+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Celestica Earnings, Guidance Strong. But The AI Stock Dives.",
+      "published_at": "2026-04-28T12:16:03+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Eurozone Inflation Expectations Jumped in March, But Pay Growth Outlook Unchanged",
+      "published_at": "2026-04-28T12:14:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Tech Futures Sell Off On OpenAI Report; Broadcom, Micron, Nvidia Tumble (Live Coverage)",
+      "published_at": "2026-04-28T12:13:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Tesla Rival BYD Reports Plunging Earnings. China EV Giant Is Betting On A Flash Recovery.",
+      "published_at": "2026-04-28T12:12:31+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Watch for these 21 best-in-class stocks to keep powering the tech rally, analysts advise",
+      "published_at": "2026-04-28T12:12:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Spotify Stock Slumps 11% Despite Earnings Beat. Prices Hikes Are a Problem.",
+      "published_at": "2026-04-28T12:11:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "How to spot the silent fees and hidden costs your adviser isn\u2019t mentioning",
+      "published_at": "2026-04-28T12:10:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "What Paul Tudor Jones is warning us against doing as the S&P 500 hits record heights",
+      "published_at": "2026-04-28T12:08:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Starboard makes large investment in Dynatrace, sees strategic value",
+      "published_at": "2026-04-28T12:01:20+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum prices today, Tuesday, April 28, 2026: Values falling ahead of Fed meeting",
+      "published_at": "2026-04-28T11:45:35+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "GM lifts profit outlook as US truck sales boost first quarter - Reuters",
+      "published_at": "2026-04-28T11:44:35+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "AMD Supplier Up 40% This Month Soars On Earnings Beat",
+      "published_at": "2026-04-28T11:42:06+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Spotify expects profit below estimates as North America, Europe growth slows - Reuters",
+      "published_at": "2026-04-28T11:21:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Investors Worry About Mounting Debt \u2014 7 S&P 500 Companies Owe Most",
+      "published_at": "2026-04-28T11:18:08+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "UPS leaves full-year outlook intact even as quarterly earnings top target, and stock falls",
+      "published_at": "2026-04-28T11:12:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Chicago woman says it\u2019s \u201ccrazy\u201d city won't pay for damage after 300 lb. pole hit her car. Why suing City Hall is so hard",
+      "published_at": "2026-04-28T11:11:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion - Reuters",
+      "published_at": "2026-04-28T11:09:38+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Gold and silver prices today, Tuesday, April 28: Prices fall as inflation pressure mounts",
+      "published_at": "2026-04-28T11:08:27+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "published_at": "2026-04-28T11:02:15+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Phantom capacity tightens US-Mexico trucking market, Uber Freight says",
+      "published_at": "2026-04-28T11:00:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I hope to retire early\u2019: I\u2019m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?",
+      "published_at": "2026-04-28T11:00:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Purdue Pharma to be sentenced, paving way for opioid settlement - Reuters",
+      "published_at": "2026-04-28T10:53:49+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Blackstone Inc",
+      "published_at": "2026-04-28T10:51:20+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Cleveland-Cliffs Inc",
+      "published_at": "2026-04-28T10:51:20+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Raymond James Financial Inc",
+      "published_at": "2026-04-28T10:51:20+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: SAP SE",
+      "published_at": "2026-04-28T10:51:20+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "The Hormuz digital chokepoint: How does the Iran war threaten subsea cables? - Reuters",
+      "published_at": "2026-04-28T10:46:31+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: Ghana rejects proposed US health aid deal, citing data concerns, source says - Reuters",
+      "published_at": "2026-04-28T10:45:52+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Israel's purchase of 'stolen' Ukrainian grain is not 'legitimate', Zelenskiy says - Reuters",
+      "published_at": "2026-04-28T10:44:06+00:00"
+    }
+  ]
+}
