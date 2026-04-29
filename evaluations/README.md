@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — April 28, 2026 — Close
+## Latest memo — April 29, 2026 — Pre-market
 
-The tape split sharply along defensive/cyclical lines: energy led on UAE-OPEC exit and Hormuz disruption (XLE +1.66%), while semiconductors sold off hard on new China export restrictions (AMAT -5.87%, AVGO -4.39%). Consumer staples rallied on volume (KO +3.86% on 1.76× volume), suggesting a flight-to-quality rotation despite improving consumer confidence. The most actionable cross-reference is the semiconductor equipment selloff paired with the Reuters exclusive on Hua Hong export controls — this is a policy-driven margin and revenue risk that warrants immediate scenario analysis.
+The tape is pricing a defensive rotation into staples and energy on geopolitical supply risk, while simultaneously punishing semiconductors despite strong 5-day momentum. The cross-reference between XLE's +1.66% sector lead, oil futures approaching $115 (per MarketWatch's Strait of Hormuz coverage), and the -5.87% AMAT selloff on elevated volume suggests investors are repricing both supply-chain risk and capex-cycle timing. The most urgent question for the CFO is whether the semiconductor equipment selloff reflects a genuine order-book inflection or a temporary risk-off rotation that will reverse when geopolitical headlines fade.
 
-[Read full memo →](2026/04/2026-04-28-2053.md)
+[Read full memo →](2026/04/2026-04-29-1237.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The tape split sharply along defensive/cyclical lines: energy led on UAE-OPEC ex
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-04-29 12:37Z | Pre-market | 4 | $0.0664 | [memo](2026/04/2026-04-29-1237.md) |
 | 2026-04-28 20:53Z | Close | 4 | $0.0665 | [memo](2026/04/2026-04-28-2053.md) |
 | 2026-04-28 12:40Z | Pre-market | 4 | $0.0702 | [memo](2026/04/2026-04-28-1240.md) |
 | 2026-04-27 20:49Z | Close | 4 | $0.0738 | [memo](2026/04/2026-04-27-2049.md) |

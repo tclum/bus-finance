@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-04-29T12:37:39+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3738,
+  "output_tokens": 2672,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.066395,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "KO",
+    "UNH",
+    "CVS",
+    "CCI",
+    "PM",
+    "MO",
+    "INTU",
+    "MPC",
+    "OXY",
+    "IBM",
+    "TMUS",
+    "COP",
+    "T",
+    "MDLZ",
+    "CVX",
+    "EOG",
+    "CL",
+    "NEE",
+    "AMT",
+    "GE",
+    "AMAT",
+    "NEM",
+    "AVGO",
+    "ORCL",
+    "UPS",
+    "FCX",
+    "MU",
+    "SHW",
+    "AMD",
+    "BKNG",
+    "TGT",
+    "TXN",
+    "NVDA",
+    "CSCO",
+    "CAT",
+    "EQIX",
+    "GS",
+    "PFE",
+    "META",
+    "HD"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "These 5 AI-proof jobs are hiring \u2014 here\u2019s how much they pay and how to get them",
+      "published_at": "2026-04-29T12:28:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Humana stock slips as profit outlook underwhelms",
+      "published_at": "2026-04-29T12:22:44+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "AI, personalisation in, discounts out in growth ambitions says Asos",
+      "published_at": "2026-04-29T12:16:38+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Sazerac invests in 818 Tequila",
+      "published_at": "2026-04-29T12:16:31+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Homebuying in America: She wants a \u201ccut-and-dried rule\u201d for refinancing",
+      "published_at": "2026-04-29T12:15:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The next recession could actually be a win for stocks \u2014 if you can tune out the market noise",
+      "published_at": "2026-04-29T12:10:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "SoFi just set a slew of lending records, but here\u2019s why its stock is falling",
+      "published_at": "2026-04-29T12:10:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "GE HealthCare cuts annual profit forecast as inflation weighs on costs",
+      "published_at": "2026-04-29T12:09:25+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Performativ secures Series A to expand AI wealth management platform",
+      "published_at": "2026-04-29T12:08:10+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Are You Worried About a Recession? This Trillion-Dollar Stock Might Be the Best Way to Protect Your Portfolio in 2026.",
+      "published_at": "2026-04-29T12:08:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Seesaws Ahead Of Fed Decision, Powell; Robinhood Plunges On Earnings (Live Coverage)",
+      "published_at": "2026-04-29T12:07:59+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Banks outpace regulators on AI adoption, report finds",
+      "published_at": "2026-04-29T12:07:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dow Jones Futures: Seagate, Bloom Energy, Teradyne Lead Earnings Movers As Oil Prices Jump",
+      "published_at": "2026-04-29T12:07:28+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018We believe it\u2019s real\u2019: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?",
+      "published_at": "2026-04-29T12:07:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "JPMorgan\u2019s Jamie Dimon says a credit-led recession would be \u2018worse than people think\u2019",
+      "published_at": "2026-04-29T12:07:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "WeFi collaborates with Visa on stablecoin payment use cases",
+      "published_at": "2026-04-29T12:04:08+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "America's Greatest Opportunities: Franklin Resources Thrives In Hard Times",
+      "published_at": "2026-04-29T12:00:54+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Microsoft Stock Shrugs Off OpenAI Shock As Earnings Loom; Is Microsoft A Buy Now?",
+      "published_at": "2026-04-29T12:00:48+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "'Sell in May and Go Away?' Not So Fast, Says Signal",
+      "published_at": "2026-04-29T12:00:05+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Americans break with the world in naming country\u2019s biggest problem (hint: it's not the economy). Here\u2019s our top worry",
+      "published_at": "2026-04-29T12:00:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Inside SpaceX's IPO: Musk's most ambitious plan yet - Reuters",
+      "published_at": "2026-04-29T11:54:41+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Is MSFT a \u201cBaby Thrown Out with the Bath Water\u201d Stock?",
+      "published_at": "2026-04-29T11:51:49+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Why OpenAI whiffs should still worry Oracle and CoreWeave investors",
+      "published_at": "2026-04-29T11:50:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "AbbVie tops quarterly expectations as newer immunology drugs offset Humira decline",
+      "published_at": "2026-04-29T11:50:48+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Google Earnings: Can Cloud Growth Clear A Sky-High 'Bogey'?",
+      "published_at": "2026-04-29T11:50:31+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "What Makes Meta Platforms (META) a Lucrative Investment?",
+      "published_at": "2026-04-29T11:49:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "General Dynamics beats quarterly estimates on marine, aerospace strength",
+      "published_at": "2026-04-29T11:44:14+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The key global oil contract tops $115 as Strait of Hormuz impasse continues",
+      "published_at": "2026-04-29T11:44:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Meta Platforms\u2019 (META) Earnings Multiple Reflects Slower Growth Expectations",
+      "published_at": "2026-04-29T11:42:01+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "What Makes Alphabet (GOOG) a Long-Term Holding?",
+      "published_at": "2026-04-29T11:40:41+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum prices today, Wednesday, April 29, 2026: Values continue to fall this week",
+      "published_at": "2026-04-29T11:38:45+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Visa (V) Slid Due to Potential Regulatory and Legislative Headwinds",
+      "published_at": "2026-04-29T11:37:10+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Why SoFi Stock Is Tumbling Despite Earnings Doubling",
+      "published_at": "2026-04-29T11:35:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Microsoft (MSFT) Slipped in Q1 Despite Revenue Growth of 15%",
+      "published_at": "2026-04-29T11:35:06+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "O\u2019Reilly Automotive (ORLY) Delivered 33rd Consecutive Year of Positive Comp Growth",
+      "published_at": "2026-04-29T11:33:15+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Garmin Beats Q1 Goals But Sticks With Prior Full-Year Outlook",
+      "published_at": "2026-04-29T11:32:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Chubb Limited\u2019s (CB) New Business Grew by 17% Despite a Soft Industry Landscape",
+      "published_at": "2026-04-29T11:32:32+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Why this Soros alum is betting on copper and cables over AI chips",
+      "published_at": "2026-04-29T11:31:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018Dirty soda\u2019 is going mainstream. Coke and Pepsi are trying to cash in.",
+      "published_at": "2026-04-29T11:30:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "I\u2019m 33, single, and like my carefree lifestyle. Do I need a financial planner?",
+      "published_at": "2026-04-29T11:30:00+00:00"
+    }
+  ]
+}
