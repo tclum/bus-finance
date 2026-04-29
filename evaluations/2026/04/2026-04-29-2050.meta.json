@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-04-29T20:50:11+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4159,
+  "output_tokens": 2951,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.071843,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "INTC",
+    "SBUX",
+    "V",
+    "TMUS",
+    "PSX",
+    "AMD",
+    "MDLZ",
+    "QCOM",
+    "MPC",
+    "OXY",
+    "CVS",
+    "MA",
+    "COP",
+    "ABBV",
+    "CSCO",
+    "MU",
+    "XOM",
+    "UPS",
+    "EOG",
+    "CVX",
+    "CMCSA",
+    "GM",
+    "BA",
+    "LOW",
+    "ABT",
+    "LLY",
+    "IBM",
+    "NEE",
+    "GS",
+    "FCX",
+    "NEM",
+    "SHW",
+    "GE",
+    "PM",
+    "PLD",
+    "HD",
+    "NVDA",
+    "PG",
+    "NOW",
+    "MS"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "Iran war fuels bond-market selloff, as inflation fears put future Fed rate cuts in doubt",
+      "published_at": "2026-04-29T20:49:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The U.S. produces the most oil in the world. So why are gasoline prices so high?",
+      "published_at": "2026-04-29T20:33:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Powell won\u2019t leave the Fed, in a blow to Trump",
+      "published_at": "2026-04-29T20:18:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Ford\u2019s profit jumps as automaker powers through an EV slowdown",
+      "published_at": "2026-04-29T20:17:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Wall Street ends mixed after Fed decision, big tech earnings on tap - Reuters",
+      "published_at": "2026-04-29T20:00:49+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Stocks may be missing this looming danger in the oil market",
+      "published_at": "2026-04-29T19:43:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Fed holds rates steady amid sharp divide over policy easing bias - Reuters",
+      "published_at": "2026-04-29T19:16:34+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Bill Ackman\u2019s Pershing Square USA flops on first day of trading",
+      "published_at": "2026-04-29T19:14:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "No kids, no care: Solo agers are hiring professional \u2018next-of-kin\u2019 for major life decisions",
+      "published_at": "2026-04-29T19:10:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Moody's Corp",
+      "published_at": "2026-04-29T18:55:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Update: THRM, CCEP, ECL, GLW, MCO, SBUX, STX, SYY, HLT",
+      "published_at": "2026-04-29T18:55:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Seagate Tech Hldg PLC",
+      "published_at": "2026-04-29T18:55:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Gentherm Inc",
+      "published_at": "2026-04-29T18:55:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Ecolab Inc",
+      "published_at": "2026-04-29T18:55:55+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Ackman's Pershing Square fund shares drop in hotly anticipated debut - Reuters",
+      "published_at": "2026-04-29T18:48:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "AI-related spending propels US core capital goods orders in March - Reuters",
+      "published_at": "2026-04-29T18:45:41+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Can Shake Shack\u2019s new sandwich challenge the McRib, one of the most celebrated menu items in fast-food history?",
+      "published_at": "2026-04-29T18:20:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: OPEC+ likely to agree another oil output hike without UAE, sources say - Reuters",
+      "published_at": "2026-04-29T18:12:14+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Porsche adds Middle East to list of problems as first-quarter profit falls - Reuters",
+      "published_at": "2026-04-29T18:05:46+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I\u2019m very late to the game\u2019: I\u2019m 48, earn $65,000, have $48,000 in debt and no retirement. Am I doomed?",
+      "published_at": "2026-04-29T18:01:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The chicken-wing trade keeps collapsing and Wall Street is left seeking a Wingstop bottom",
+      "published_at": "2026-04-29T17:59:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Universal Music to sell half its Spotify stake for buybacks, Q1 hit by weak dollar - Reuters",
+      "published_at": "2026-04-29T17:05:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US oil stocks plummet, country becomes net crude exporter on weekly basis for first time, EIA says - Reuters",
+      "published_at": "2026-04-29T16:47:42+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US goods trade deficit widens in March as imports rise sharply - Reuters",
+      "published_at": "2026-04-29T16:05:14+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US extends deadline on talks over Lukoil assets to May 30 - Reuters",
+      "published_at": "2026-04-29T15:50:39+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump met with oil firms on possible months-long extension of Iran blockade - Reuters",
+      "published_at": "2026-04-29T15:01:53+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Aircraft lessor AerCap says prolonged high oil prices could bring opportunities - Reuters",
+      "published_at": "2026-04-29T14:55:58+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Inside SpaceX's IPO: Musk's most ambitious plan yet - Reuters",
+      "published_at": "2026-04-29T14:23:42+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "MercadoLibre CEO flags loan\u2011book sales, plays down Venezuela expansion - Reuters",
+      "published_at": "2026-04-29T14:04:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Robinhood shares fall as crypto slump dents trading volume growth - Reuters",
+      "published_at": "2026-04-29T13:34:22+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Cognizant forecasts quarterly revenue below estimates on cautious IT spending - Reuters",
+      "published_at": "2026-04-29T13:26:40+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Iran's rial drops to record low as ceasefire prompts rush for hard currency - Reuters",
+      "published_at": "2026-04-29T12:53:25+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Visa shares climb as profit beat, raised forecast ease Middle East jitters - Reuters",
+      "published_at": "2026-04-29T12:37:46+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Italian drugmaker Chiesi to buy KalVista for $1.9 billion - Reuters",
+      "published_at": "2026-04-29T12:29:53+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Amadeus to buy French biometrics firm Idemia Public Security for $1.4 billion - Reuters",
+      "published_at": "2026-04-29T12:27:28+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Private air defence takes off in Ukraine - Reuters",
+      "published_at": "2026-04-29T12:09:40+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Powell's tenure as Fed chief, bookended by Trump, draws to a close - Reuters",
+      "published_at": "2026-04-29T11:50:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Graphic Packaging, NextEra to build 250 MW solar plant in Texas - Reuters",
+      "published_at": "2026-04-29T11:46:47+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Apple's new CEO Ternus likely to get earnings spotlight as strong results loom - Reuters",
+      "published_at": "2026-04-29T11:22:57+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Russia adds four LNG tankers to its fleet before Europe's imports ban - Reuters",
+      "published_at": "2026-04-29T11:19:58+00:00"
+    }
+  ]
+}

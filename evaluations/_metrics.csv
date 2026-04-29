@@ -7,3 +7,4 @@ timestamp_utc,session,input_tokens,output_tokens,cache_read_tokens,cost_usd,num_
 2026-04-28T12:40:52+00:00,premarket,3802,2913,0,0.070202,4,end_turn
 2026-04-28T20:53:28+00:00,close,4315,2563,0,0.066491,4,end_turn
 2026-04-29T12:37:39+00:00,premarket,3738,2672,0,0.066395,4,end_turn
+2026-04-29T20:50:11+00:00,close,4159,2951,0,0.071843,4,end_turn
