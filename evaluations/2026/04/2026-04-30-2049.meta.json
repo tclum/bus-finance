@@ -1,0 +1,257 @@
+{
+  "timestamp_utc": "2026-04-30T20:49:40+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3927,
+  "output_tokens": 3144,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.074042,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "QCOM",
+    "GOOGL",
+    "CAT",
+    "LLY",
+    "MO",
+    "DE",
+    "BMY",
+    "AMD",
+    "TXN",
+    "NEE",
+    "ABBV",
+    "SO",
+    "CCI",
+    "PSX",
+    "NEM",
+    "AMAT",
+    "WMT",
+    "VZ",
+    "AVGO",
+    "TMO",
+    "META",
+    "NVDA",
+    "MA",
+    "MSFT",
+    "BKNG",
+    "CRM",
+    "COP",
+    "INTU",
+    "MRK",
+    "V",
+    "ORCL",
+    "TMUS",
+    "F",
+    "ACN",
+    "APD",
+    "CVS",
+    "LIN",
+    "NOW",
+    "ABT",
+    "EQIX"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "I know I\u2019ll never own an apartment. Can I renovate my rental and still get my security deposit back?",
+      "published_at": "2026-04-30T20:39:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Oil\u2019s surge to $125 a barrel just made the next bet for traders a lot harder",
+      "published_at": "2026-04-30T20:37:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Nvidia used to benefit from AI spending increases. So why did the stock just slide?",
+      "published_at": "2026-04-30T20:34:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "How a screw-up by Social Security cost widows and widowers over $50 million",
+      "published_at": "2026-04-30T20:26:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Lilly is selling $12.9 billion of GLP-1 drugs every three months \u2014 and expects to sell even more",
+      "published_at": "2026-04-30T20:22:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "America\u2019s protein obsession rages on. Chipotle, Hershey and others are capitalizing.",
+      "published_at": "2026-04-30T20:22:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "I use a wheelchair and my apartment elevator has been broken for 16 days. I haven\u2019t been reimbursed for my hotel. Do I have a legal case?",
+      "published_at": "2026-04-30T20:18:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Trump signs order creating retirement plans for workers who lack them",
+      "published_at": "2026-04-30T20:07:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Ackman blames retail traders for fund's weak Wall Street debut - Reuters",
+      "published_at": "2026-04-30T19:47:21+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Japan steps into FX market for first time in two years to boost yen, sources say - Reuters",
+      "published_at": "2026-04-30T19:30:26+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Oil retreats after hitting four-year high on concern of US-Iran war escalation - Reuters",
+      "published_at": "2026-04-30T19:19:18+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Can one bad week ruin your retirement savings? How about three bad years?",
+      "published_at": "2026-04-30T18:56:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Payment networks spotlight spending resilience with upbeat quarter - Reuters",
+      "published_at": "2026-04-30T18:49:26+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I\u2019m not interested in long-term care insurance\u2019: I\u2019d like to retire at 55. How much will I have to pay for healthcare?",
+      "published_at": "2026-04-30T18:45:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Meta's fall shows punters crave clearer AI payoff - Reuters",
+      "published_at": "2026-04-30T18:41:18+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "S&P 500, Nasdaq set for biggest monthly gains since 2020 - Reuters",
+      "published_at": "2026-04-30T18:30:22+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US FDA proposes curbs on mass compounding of Novo, Lilly's weight-loss drugs - Reuters",
+      "published_at": "2026-04-30T17:56:18+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: IDEX Corp",
+      "published_at": "2026-04-30T17:40:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Omnicom Group Inc",
+      "published_at": "2026-04-30T17:40:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Nasdaq Inc",
+      "published_at": "2026-04-30T17:40:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: T-Mobile US Inc",
+      "published_at": "2026-04-30T17:40:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Honeywell International Inc",
+      "published_at": "2026-04-30T17:40:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Update: NDAQ, HON, IEX, INCY, OMC, TMUS, TMO, BKR",
+      "published_at": "2026-04-30T17:25:53+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US telecom agency votes to expand tech crackdown on China - Reuters",
+      "published_at": "2026-04-30T16:23:52+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Lilly lifts profit forecast as surging demand for weight-loss drugs offsets pricing pressure - Reuters",
+      "published_at": "2026-04-30T16:21:57+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Cathie Wood buys $18 million of beaten-down AI stock",
+      "published_at": "2026-04-30T15:07:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion - Reuters",
+      "published_at": "2026-04-30T14:51:37+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "India's Adani flagship posts first quarterly loss in 17 quarters - Reuters",
+      "published_at": "2026-04-30T14:50:34+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Stagflation describes the 1970s, not today's economy, Lagarde says - Reuters",
+      "published_at": "2026-04-30T14:42:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Qualcomm jumps as optimism on smartphones, AI chips outweigh dismal forecast - Reuters",
+      "published_at": "2026-04-30T14:17:16+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Over 40% of UK firms suffered cyber attack last year, survey finds - Reuters",
+      "published_at": "2026-04-30T14:06:29+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Meta looks to raise up to $25 billion via bond sale, Bloomberg News reports - Reuters",
+      "published_at": "2026-04-30T13:35:15+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US weekly jobless claims decrease as labor market conditions remain stable - Reuters",
+      "published_at": "2026-04-30T12:46:45+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Merck beats quarterly sales expectations as Keytruda fuels growth - Reuters",
+      "published_at": "2026-04-30T12:41:45+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Stellantis CEO says Leapmotor venture a model for future China partnerships - Reuters",
+      "published_at": "2026-04-30T12:33:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Bank of England holds rates and spells out inflation risks from Iran war - Reuters",
+      "published_at": "2026-04-30T11:15:23+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Iran's North American diaspora split over next steps after Trump's ceasefire - Reuters",
+      "published_at": "2026-04-30T10:32:25+00:00"
+    }
+  ]
+}
