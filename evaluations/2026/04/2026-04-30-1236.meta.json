@@ -1,0 +1,267 @@
+{
+  "timestamp_utc": "2026-04-30T12:36:47+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3831,
+  "output_tokens": 2846,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.069284,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "INTC",
+    "SBUX",
+    "V",
+    "TMUS",
+    "PSX",
+    "AMD",
+    "MDLZ",
+    "QCOM",
+    "MPC",
+    "OXY",
+    "CVS",
+    "MA",
+    "COP",
+    "ABBV",
+    "CSCO",
+    "MU",
+    "XOM",
+    "UPS",
+    "EOG",
+    "CVX",
+    "CMCSA",
+    "GM",
+    "BA",
+    "LOW",
+    "ABT",
+    "LLY",
+    "IBM",
+    "NEE",
+    "GS",
+    "FCX",
+    "NEM",
+    "SHW",
+    "GE",
+    "PM",
+    "PLD",
+    "HD",
+    "NVDA",
+    "PG",
+    "NOW",
+    "MS"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "Scammers are targeting student-loan borrowers trying to make payments. Do this to protect yourself.",
+      "published_at": "2026-04-30T12:30:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "South Korean stocks just enjoyed their second-best month ever \u2014 and now the market is bigger than the U.K.",
+      "published_at": "2026-04-30T12:28:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Semiconductor stocks rise on Big Tech earnings, Qualcomm beat",
+      "published_at": "2026-04-30T12:23:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Tariff Refunds Could Unlock Billions for Importers. These Stocks Could See a Boost.",
+      "published_at": "2026-04-30T12:20:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Rises Ahead Of Inflation Data; Meta Plunges On Earnings (Live Coverage)",
+      "published_at": "2026-04-30T12:16:45+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dow Jones Futures Rise, Oil Prices Fall; Google, Amazon, Meta, Microsoft, Caterpillar Are Big Earnings Movers",
+      "published_at": "2026-04-30T12:16:21+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Deutsche Bank puts Sell in May back on trial. And finds it guilty of little more than luck",
+      "published_at": "2026-04-30T12:16:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Forget buy the dip. Now retail investors are \u2018trading the mania\u2019 in chip stocks, and it\u2019s about to get messy.",
+      "published_at": "2026-04-30T12:16:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dow Jones and Nasdaq to rebound as Alphabet and Amazon earnings welcomed",
+      "published_at": "2026-04-30T12:14:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "$25,000 in 4 of Wall Street\u2019s Top ETFs Delivers Over $1000 per Month of Passive Income",
+      "published_at": "2026-04-30T12:12:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Amazon Stock Climbing After Q1 Results. Why Tech Giant's AI Commentary Reversed An Initial Slide.",
+      "published_at": "2026-04-30T12:11:52+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Anthropic weighs $900 billion valuation in new funding round",
+      "published_at": "2026-04-30T12:11:24+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "First look: XPO cruises past Q1 expectations",
+      "published_at": "2026-04-30T12:10:03+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Why the 60/40 portfolio is crushing it \u2014 despite market chaos and inflation fears",
+      "published_at": "2026-04-30T12:10:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "published_at": "2026-04-30T12:08:45+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "GE HealthCare Just Crashed 13% on a Guidance Cut. Here\u2019s the Case for Buying the Dip",
+      "published_at": "2026-04-30T12:05:35+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Will I get my deposit back on my rental if I make minor renovations \u2014 and paint the walls a different color?",
+      "published_at": "2026-04-30T12:05:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stellantis Q1 2026 earnings beat estimates, stock falls",
+      "published_at": "2026-04-30T12:04:48+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I am her scapegoat\u2019: My mother-in-law squandered all her money. Do we buy her a house so she\u2019s not homeless?",
+      "published_at": "2026-04-30T12:00:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Royal Caribbean says people booking cruises aren\u2019t so worried about Iran anymore",
+      "published_at": "2026-04-30T11:58:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I\u2019m not interested in long-term care insurance\u2019: I\u2019d like to retire at 55. How much will I have to pay for healthcare?",
+      "published_at": "2026-04-30T11:47:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Big Tech\u2019s AI build-out needs these 3 companies to keep the lights on \u2014 and they\u2019re cashing in",
+      "published_at": "2026-04-30T11:36:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily Spotlight: Fed Dissents Put Rate Cuts in Doubt",
+      "published_at": "2026-04-30T11:26:06+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Lilly is now selling $12.9 billion of GLP-1 drugs every three months and expects to sell even more",
+      "published_at": "2026-04-30T11:25:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: DR Horton Inc",
+      "published_at": "2026-04-30T11:03:44+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Robinhood Markets Inc",
+      "published_at": "2026-04-30T11:03:44+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Generac Holdings Inc",
+      "published_at": "2026-04-30T11:03:44+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion - Reuters",
+      "published_at": "2026-04-30T10:11:25+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily \u2013 Vickers Top Buyers & Sellers for 04/30/2026",
+      "published_at": "2026-04-30T10:05:04+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily \u2013 Vickers Top Insider Picks for 04/30/2026",
+      "published_at": "2026-04-30T10:05:04+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Premier Inn owner Whitbread to cut up to 3,800 jobs in strategy shift - Reuters",
+      "published_at": "2026-04-30T06:21:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Volkswagen warns of deeper cuts as first quarter profit slides - Reuters",
+      "published_at": "2026-04-30T05:39:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Remy breaks years of sales declines and still disappoints - Reuters",
+      "published_at": "2026-04-30T05:34:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "KKR explores $10 billion sale of spreads unit Flora, FT reports - Reuters",
+      "published_at": "2026-04-30T04:16:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Stagflation risks stacking up as Iran war enters third month - Reuters",
+      "published_at": "2026-04-30T04:05:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "First Tesla Semi rolls off high volume production line - Reuters",
+      "published_at": "2026-04-30T03:06:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "L3Harris confidentially files for missile unit IPO - Reuters",
+      "published_at": "2026-04-30T02:49:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "China's factory activity extends expansion, PMI shows, as Iran war risks mount - Reuters",
+      "published_at": "2026-04-30T01:38:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Gold climbs from one-month low as dollar eases; investors asses Iran tensions - Reuters",
+      "published_at": "2026-04-30T01:23:00+00:00"
+    }
+  ]
+}

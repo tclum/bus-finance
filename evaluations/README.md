@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — April 29, 2026 — Close
+## Latest memo — April 30, 2026 — Pre-market
 
-The tape is pricing two distinct narratives simultaneously: a semiconductor AI-infrastructure rally (INTC +12.1%, AMD +4.3%, QCOM +4.0% on elevated volume) and an oil-shock inflation regime (XLE +2.29%, gasoline at four-year highs per MarketWatch, Fed holding rates with "sharp divide" per Reuters). The cross-reference that matters: payment networks (V +8.26%, MA +3.47% on 2.29× and 1.56× volume) rallied despite consumer-spending headwinds from fuel costs, suggesting the market believes transaction volumes will hold through the oil shock. The CFO should prioritize the energy-margin hypothesis below — if crude supply tightens further per the OPEC+ Reuters exclusive, our logistics and input costs will reprice before consensus catches up.
+The semiconductor rally that began earlier this week accelerated today, with INTC +12.1% on 1.91× volume completing a five-day surge of +45.2%. The move is now broad-based across the chip stack (AMD +4.3%, QCOM +4.0%, MU +2.8%) and corroborated by multiple independent sources citing AI infrastructure demand. Energy led all sectors at +2.29% on geopolitical supply concerns, while healthcare lagged sharply at -0.70% with LLY down -2.6% on 1.32× volume. The most urgent question for the CFO: whether the semiconductor tape is pricing in a capex cycle that has not yet materialized in hyperscaler guidance, or whether Big Tech earnings this week confirmed the demand inflection that justifies current valuations.
 
-[Read full memo →](2026/04/2026-04-29-2050.md)
+[Read full memo →](2026/04/2026-04-30-1236.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The tape is pricing two distinct narratives simultaneously: a semiconductor AI-i
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-04-30 12:36Z | Pre-market | 4 | $0.0693 | [memo](2026/04/2026-04-30-1236.md) |
 | 2026-04-29 20:50Z | Close | 4 | $0.0718 | [memo](2026/04/2026-04-29-2050.md) |
 | 2026-04-29 12:37Z | Pre-market | 4 | $0.0664 | [memo](2026/04/2026-04-29-1237.md) |
 | 2026-04-28 20:53Z | Close | 4 | $0.0665 | [memo](2026/04/2026-04-28-2053.md) |
