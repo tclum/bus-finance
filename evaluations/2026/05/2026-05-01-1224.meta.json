@@ -1,0 +1,167 @@
+{
+  "timestamp_utc": "2026-05-01T12:24:41+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3122,
+  "output_tokens": 2620,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.063767,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "QCOM",
+    "GOOGL",
+    "CAT",
+    "LLY",
+    "MO",
+    "DE",
+    "BMY",
+    "AMD",
+    "TXN",
+    "NEE",
+    "ABBV",
+    "SO",
+    "CCI",
+    "PSX",
+    "NEM",
+    "AMAT",
+    "WMT",
+    "VZ",
+    "AVGO",
+    "TMO",
+    "META",
+    "NVDA",
+    "MA",
+    "MSFT",
+    "BKNG",
+    "CRM",
+    "COP",
+    "INTU",
+    "MRK",
+    "V",
+    "ORCL",
+    "TMUS",
+    "F",
+    "ACN",
+    "APD",
+    "CVS",
+    "LIN",
+    "NOW",
+    "ABT",
+    "EQIX"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "New homeowners pay 3 times more property tax than their neighbors in some places. Here\u2019s what they can do about it.",
+      "published_at": "2026-05-01T12:00:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Pentagon reaches agreements with leading AI companies - Reuters",
+      "published_at": "2026-05-01T11:53:22+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Chevron's upstream strength lifts first-quarter earnings past estimate - Reuters",
+      "published_at": "2026-05-01T11:30:23+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "3 questions to ask before raiding your 401(k) for a hardship withdrawal",
+      "published_at": "2026-05-01T11:30:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exxon beats first-quarter earnings estimate despite hit from Iran conflict - Reuters",
+      "published_at": "2026-05-01T11:29:18+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Software stocks are finally priced for a comeback, this veteran strategist says. He\u2019s buying.",
+      "published_at": "2026-05-01T11:15:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Twilio\u2019s stock is soaring. The company says it\u2019s because of \u2018unprecedented demand\u2019 for one AI function.",
+      "published_at": "2026-05-01T11:03:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Berkshire\u2019s stock has suffered in a post-Buffett world. Why that\u2019s actually a good thing.",
+      "published_at": "2026-05-01T11:00:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018We are old school\u2019: I\u2019ve been married for 40 years. Should I have kept my money separate?",
+      "published_at": "2026-05-01T10:50:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018There is an imbalance of power\u2019: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?",
+      "published_at": "2026-05-01T10:50:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: SpaceX spending on Starship tops $15 billion in rush for airline-like rocketry - Reuters",
+      "published_at": "2026-05-01T10:38:13+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?",
+      "published_at": "2026-05-01T09:48:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Reddit rallies as AI\u2011driven ad growth fuels strong revenue outlook - Reuters",
+      "published_at": "2026-05-01T09:24:20+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "A year after selling $2.7 million Austin mansion, actress Haylie Duff and Matt Rosenberg call off 12-year engagement",
+      "published_at": "2026-05-01T09:01:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Morning Bid: Never mind the oil, feel the earnings - Reuters",
+      "published_at": "2026-05-01T04:34:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The S&P 500\u2019s newest member is this under-the-radar software stock",
+      "published_at": "2026-05-01T04:02:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Gold heads for weekly loss as high oil prices feed inflation worries - Reuters",
+      "published_at": "2026-05-01T03:08:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Sandisk has thumping quarter on AI boom, secures long-term contracts and unveils big buyback - Reuters",
+      "published_at": "2026-05-01T02:10:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bank of America resets Microsoft stock forecast after earnings",
+      "published_at": "2026-05-01T01:03:00+00:00"
+    }
+  ]
+}
