@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — May 1, 2026 — Pre-market
+## Latest memo — May 1, 2026 — Close
 
-The tape is pricing a sharp rotation from mega-cap AI infrastructure (META -8.55%, MSFT -3.93%, NVDA -4.63%) into AI application-layer beneficiaries (QCOM +15.12%, GOOGL +9.96%) and industrial capex (CAT +9.88%, DE +5.33%). The divergence is supported by multiple independent earnings beats and sector-specific news, but the magnitude of the QCOM move on 3.65× volume suggests either a major contract win or guidance revision that has not yet been disclosed. The CFO should prioritize understanding whether this reflects a sustainable shift in AI capex allocation or a one-day sentiment swing ahead of Big Tech earnings next week.
+The tape is pricing a bifurcated macro environment: XLK led all sectors at +1.49% on tech earnings strength (ORCL +6.47%, INTC +5.44%, MU +4.84%), while energy and materials sold off sharply despite oil at multi-year highs. Three Fed officials independently signaled abandonment of the rate-cut bias due to oil-shock inflation risk, yet the 10-year yield is absent from our data and VIX rose only 59 bps to 16.99—suggesting the market has not yet priced the policy pivot. The CFO should prioritize the energy-margin hypothesis (Hypothesis 2) and the Fed-pivot repricing risk (Hypothesis 4) for immediate investigation.
 
-[Read full memo →](2026/05/2026-05-01-1224.md)
+[Read full memo →](2026/05/2026-05-01-2048.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The tape is pricing a sharp rotation from mega-cap AI infrastructure (META -8.55
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-05-01 20:48Z | Close | 4 | $0.0687 | [memo](2026/05/2026-05-01-2048.md) |
 | 2026-05-01 12:24Z | Pre-market | 4 | $0.0638 | [memo](2026/05/2026-05-01-1224.md) |
 | 2026-04-30 20:49Z | Close | 4 | $0.0740 | [memo](2026/04/2026-04-30-2049.md) |
 | 2026-04-30 12:36Z | Pre-market | 4 | $0.0693 | [memo](2026/04/2026-04-30-1236.md) |
@@ -32,7 +33,6 @@ The tape is pricing a sharp rotation from mega-cap AI infrastructure (META -8.55
 | 2026-04-28 12:40Z | Pre-market | 4 | $0.0702 | [memo](2026/04/2026-04-28-1240.md) |
 | 2026-04-27 20:49Z | Close | 4 | $0.0738 | [memo](2026/04/2026-04-27-2049.md) |
 | 2026-04-27 12:37Z | Pre-market | 4 | $0.0777 | [memo](2026/04/2026-04-27-1237.md) |
-| 2026-04-24 20:48Z | Close | 4 | $0.0760 | [memo](2026/04/2026-04-24-2048.md) |
 
 ## How this runs
 

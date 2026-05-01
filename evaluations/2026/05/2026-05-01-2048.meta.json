@@ -1,0 +1,242 @@
+{
+  "timestamp_utc": "2026-05-01T20:48:20+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4016,
+  "output_tokens": 2771,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.068714,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "ORCL",
+    "INTC",
+    "MU",
+    "CRM",
+    "AAPL",
+    "NOW",
+    "LLY",
+    "MRK",
+    "INTU",
+    "MO",
+    "TSLA",
+    "CL",
+    "ADBE",
+    "AMD",
+    "MSFT",
+    "LIN",
+    "AMZN",
+    "AVGO",
+    "PM",
+    "BKNG",
+    "AMGN",
+    "BMY",
+    "OXY",
+    "MMM",
+    "MCD",
+    "LOW",
+    "ABBV",
+    "NEM",
+    "DE",
+    "FCX",
+    "DHR",
+    "COP",
+    "TMO",
+    "WFC",
+    "NFLX",
+    "F",
+    "PSX",
+    "HD",
+    "MA",
+    "ABT"
+  ],
+  "headlines_included": [
+    {
+      "source": "reuters",
+      "title": "Trump gives Spirit final rescue proposal as airline prepares shutdown - Reuters",
+      "published_at": "2026-05-01T20:20:53+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Wall St Week Ahead US stocks rally could find fuel in earnings, jobs data amid surging oil prices - Reuters",
+      "published_at": "2026-05-01T20:18:11+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Ares' record $30 billion fundraising eases private credit 'doomsday' fears - Reuters",
+      "published_at": "2026-05-01T19:50:51+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Estee Lauder to cut up to 3,000 more jobs as it pursues Puig deal - Reuters",
+      "published_at": "2026-05-01T19:38:57+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Apple just gave a clue that an AI acquisition may be in the cards",
+      "published_at": "2026-05-01T19:35:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018Why do Americans think we can do socialism?\u2019 asks hedge-fund manager Ken Griffin",
+      "published_at": "2026-05-01T19:34:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?",
+      "published_at": "2026-05-01T19:12:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exxon net income falls, output hit by Iran war - Reuters",
+      "published_at": "2026-05-01T18:51:46+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Pickleball gets its largest-ever investment: $225 million. \u2018It\u2019s still a growth sport \u2014 it\u2019s not just a fad.\u2019",
+      "published_at": "2026-05-01T18:51:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018We are old school\u2019: I\u2019ve been married for 40 years. Should I have kept my money separate?",
+      "published_at": "2026-05-01T18:47:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Fed should ditch rate-cut lean because of oil shock, policymakers say - Reuters",
+      "published_at": "2026-05-01T18:02:28+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "If Spirit ends up shutting down, these airlines stand to benefit",
+      "published_at": "2026-05-01T17:59:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Wall Street is finding a new use for the latest retail-trading obsession",
+      "published_at": "2026-05-01T17:58:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "New Fed chair Warsh will have a fight on his hands if he pushes for interest-rate cuts",
+      "published_at": "2026-05-01T17:56:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Update: CTSH, GD, GOOGL, VIAV, MAT, TROW",
+      "published_at": "2026-05-01T17:52:09+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I\u2019m very late to the game\u2019: I\u2019m 48, earn $65,000, have $48,000 in debt and no retirement. Am I doomed?",
+      "published_at": "2026-05-01T17:47:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Occidental's Hollub, a rare female oil chief, to hand CEO reins to drilling veteran Jackson - Reuters",
+      "published_at": "2026-05-01T17:44:43+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Roblox had a child-safety problem. Now it has a revenue problem.",
+      "published_at": "2026-05-01T17:24:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump's tariffs on EU autos show US to be unreliable, says EU parliament's trade committee chair - Reuters",
+      "published_at": "2026-05-01T17:06:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Chevron's upstream strength lifts first-quarter earnings past estimate - Reuters",
+      "published_at": "2026-05-01T16:50:13+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Coty's perfume business takes another knock with David Beckham fragrance lawsuit - Reuters",
+      "published_at": "2026-05-01T16:40:02+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Venezuela's oil exports jump to highest since 2018, with more sales to US, India - Reuters",
+      "published_at": "2026-05-01T16:09:58+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Investors are running out of time to brace for true oil shock - Reuters",
+      "published_at": "2026-05-01T14:49:49+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Roblox shares tumble as forecast cut signals safety measures weighing on user growth - Reuters",
+      "published_at": "2026-05-01T14:37:21+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Reddit rallies as AI\u2011driven ad growth fuels strong revenue outlook - Reuters",
+      "published_at": "2026-05-01T14:00:53+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Colgate-Palmolive warns of $300 mln cost hit from Middle East conflict - Reuters",
+      "published_at": "2026-05-01T13:56:52+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "S&P 500 profit eyes sharpest quarterly growth in four years after Big Tech results - Reuters",
+      "published_at": "2026-05-01T13:55:02+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: SpaceX spending on Starship tops $15 billion in rush for airline-like rocketry - Reuters",
+      "published_at": "2026-05-01T12:24:45+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Fed's Hammack says no longer appropriate to signal rate cut bias - Reuters",
+      "published_at": "2026-05-01T12:08:51+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "BYD's sales downturn extends to eighth straight month - Reuters",
+      "published_at": "2026-05-01T12:04:38+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "UK factories, hit by Iran war, brace for higher costs and more delivery delays - Reuters",
+      "published_at": "2026-05-01T11:57:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Medicare Advantage health plans may cut extra benefits in 2027 - Reuters",
+      "published_at": "2026-05-01T11:25:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Tesla sales rebound continues in several European markets in April - Reuters",
+      "published_at": "2026-05-01T11:05:44+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Sell in May and go away? Not so fast, investors. - Reuters",
+      "published_at": "2026-05-01T10:46:18+00:00"
+    }
+  ]
+}
