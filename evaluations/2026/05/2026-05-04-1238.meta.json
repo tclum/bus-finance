@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-04T12:38:38+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3561,
+  "output_tokens": 3055,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.071609,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "ORCL",
+    "INTC",
+    "MU",
+    "CRM",
+    "AAPL",
+    "NOW",
+    "LLY",
+    "MRK",
+    "INTU",
+    "MO",
+    "TSLA",
+    "CL",
+    "ADBE",
+    "AMD",
+    "MSFT",
+    "LIN",
+    "AMZN",
+    "AVGO",
+    "PM",
+    "BKNG",
+    "AMGN",
+    "BMY",
+    "OXY",
+    "MMM",
+    "MCD",
+    "LOW",
+    "ABBV",
+    "NEM",
+    "DE",
+    "FCX",
+    "DHR",
+    "COP",
+    "TMO",
+    "WFC",
+    "NFLX",
+    "F",
+    "PSX",
+    "HD",
+    "MA",
+    "ABT"
+  ],
+  "headlines_included": [
+    {
+      "source": "yahoo_finance",
+      "title": "GameStop stock falls after company proposes $56 billion deal for eBay",
+      "published_at": "2026-05-04T12:26:15+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Nvidia Is Up 7% in 2026 While Marvell Technology Has Nearly Doubled. Here's Why.",
+      "published_at": "2026-05-04T12:25:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin Price Broke $80,000. Why the Crypto Rally Is Set to Disappoint.",
+      "published_at": "2026-05-04T12:20:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "These Stocks Are Today\u2019s Movers: eBay, GameStop, TSMC, Norwegian, Palantir, Berkshire Hathaway, and More",
+      "published_at": "2026-05-04T12:20:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "EBay Gains on GameStop Bid. How the Minnow Plans to But the Whale.",
+      "published_at": "2026-05-04T12:16:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Here\u2019s Why Argenx SE (ARGX) Slipped in Q1",
+      "published_at": "2026-05-04T12:14:15+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "What Makes BillionToOne (BLLN) a Revolutionizer in Genetic Testing?",
+      "published_at": "2026-05-04T12:12:35+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Tyson Foods Stock Rises on Earnings. Protein Demand Remains Hot\u2014Except for Beef.",
+      "published_at": "2026-05-04T12:12:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "GameStop is hungry for relevance. Is buying eBay the answer?",
+      "published_at": "2026-05-04T12:12:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The markets are in the early stages of pricing in stagflation. Here\u2019s what happens next.",
+      "published_at": "2026-05-04T12:12:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Tyson Foods Continues to Be Squeezed by High Cattle Costs",
+      "published_at": "2026-05-04T12:11:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Norwegian Cruise Line cuts 2026 profit forecast, Q1 2026 earnings",
+      "published_at": "2026-05-04T12:10:31+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Does Guardant Health (GH) Have Long-Runway for Growth?",
+      "published_at": "2026-05-04T12:09:38+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stablecoin Deal Removes Obstacle to Crypto Bill. What It Means For Coinbase.",
+      "published_at": "2026-05-04T12:09:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "2 Top Bargain Stocks Ready for a Bull Run",
+      "published_at": "2026-05-04T12:09:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "These Eight S&P 500 Stocks Have Doubled In 2026. No. 3 Reports On Tuesday.",
+      "published_at": "2026-05-04T12:08:49+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Oil prices climb after disputed report of Iran strike on U.S. warship",
+      "published_at": "2026-05-04T12:07:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "What Makes Merck & Co. (MRK) an Investment Bet?",
+      "published_at": "2026-05-04T12:06:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Drops On U.S.-Iran News; Oil Prices Continue To Rally (Live Coverage)",
+      "published_at": "2026-05-04T12:05:36+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "AI Stocks: Winners Shift As Google Leads. Palantir, Arista, CoreWeave Earnings On Deck",
+      "published_at": "2026-05-04T11:59:14+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Johnson & Johnson\u2019s (JNJ) Accelerating Growth Justifies the Higher Multiple",
+      "published_at": "2026-05-04T11:55:20+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Baron Health Care Fund\u2019s Performance Impacted by Amgen (AMGN) Omission",
+      "published_at": "2026-05-04T11:49:57+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Palantir Stock: Will AI Commercial Revenue Drive Up Software Stocks?",
+      "published_at": "2026-05-04T11:47:40+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum prices today, Monday, May 4, 2026: Bitcoin tops $80,000, then pulls back",
+      "published_at": "2026-05-04T11:45:47+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Your electricity bill rose 40% while utility CEO pay rose 47% \u2014 now, voters are taking it to the ballot boxes",
+      "published_at": "2026-05-04T11:35:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018We\u2019re all worried the honey pot will run dry\u2019: Does the U.S. government borrow from my Social Security to fund federal programs?",
+      "published_at": "2026-05-04T11:21:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Wall St futures slip as US-Iran tensions fuel volatility - Reuters",
+      "published_at": "2026-05-04T11:15:41+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Federated Hermes Inc",
+      "published_at": "2026-05-04T11:15:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Ameriprise Financial Inc",
+      "published_at": "2026-05-04T11:15:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Enterprise Products Pntr LP",
+      "published_at": "2026-05-04T11:15:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Freeport-McMoRan Inc",
+      "published_at": "2026-05-04T11:15:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Weyerhaeuser Co",
+      "published_at": "2026-05-04T11:15:29+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "UAE owes it to investors to produce without restrictions, energy minister says - Reuters",
+      "published_at": "2026-05-04T11:14:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Musk sought settlement with OpenAI before Oakland trial, filing shows",
+      "published_at": "2026-05-04T11:12:27+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Gold and silver prices today, Monday, May 4: Gold and silver down this morning after 'Project Freedom' announcement",
+      "published_at": "2026-05-04T11:09:39+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily Spotlight: May (Usually OK)",
+      "published_at": "2026-05-04T11:08:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "published_at": "2026-05-04T11:07:47+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily \u2013 Vickers Top Insider Picks for 05/04/2026",
+      "published_at": "2026-05-04T11:01:36+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "e2open Logistics as a Service gives shippers control while driving capacity",
+      "published_at": "2026-05-04T11:00:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "UAE says it is discussing currency swap line with US",
+      "published_at": "2026-05-04T10:46:04+00:00"
+    }
+  ]
+}

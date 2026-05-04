@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — May 1, 2026 — Close
+## Latest memo — May 4, 2026 — Pre-market
 
-The tape is pricing a bifurcated macro environment: XLK led all sectors at +1.49% on tech earnings strength (ORCL +6.47%, INTC +5.44%, MU +4.84%), while energy and materials sold off sharply despite oil at multi-year highs. Three Fed officials independently signaled abandonment of the rate-cut bias due to oil-shock inflation risk, yet the 10-year yield is absent from our data and VIX rose only 59 bps to 16.99—suggesting the market has not yet priced the policy pivot. The CFO should prioritize the energy-margin hypothesis (Hypothesis 2) and the Fed-pivot repricing risk (Hypothesis 4) for immediate investigation.
+The tape is pricing two divergent narratives: a tech-led AI infrastructure rally (XLK +1.49%, ORCL +6.47%, INTC +5.44%) and rising geopolitical risk premium in energy (oil headlines on Iran-US tensions, XLE -1.34% despite crude strength). The cross-reference between Oracle's surge on below-average volume and Intel's continued 5-day rally (+20.69%) suggests sector rotation within tech rather than broad risk-on sentiment — VIX rose +4.59% even as NASDAQ gained +0.89%. The CFO should prioritize understanding whether the semiconductor capex cycle has genuinely re-accelerated or whether this is positioning ahead of earnings, because our own IT infrastructure budget and supplier lead times depend on the same capacity constraints now driving INTC and MU.
 
-[Read full memo →](2026/05/2026-05-01-2048.md)
+[Read full memo →](2026/05/2026-05-04-1238.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The tape is pricing a bifurcated macro environment: XLK led all sectors at +1.49
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-05-04 12:38Z | Pre-market | 4 | $0.0716 | [memo](2026/05/2026-05-04-1238.md) |
 | 2026-05-01 20:48Z | Close | 4 | $0.0687 | [memo](2026/05/2026-05-01-2048.md) |
 | 2026-05-01 12:24Z | Pre-market | 4 | $0.0638 | [memo](2026/05/2026-05-01-1224.md) |
 | 2026-04-30 20:49Z | Close | 4 | $0.0740 | [memo](2026/04/2026-04-30-2049.md) |
@@ -32,7 +33,6 @@ The tape is pricing a bifurcated macro environment: XLK led all sectors at +1.49
 | 2026-04-28 20:53Z | Close | 4 | $0.0665 | [memo](2026/04/2026-04-28-2053.md) |
 | 2026-04-28 12:40Z | Pre-market | 4 | $0.0702 | [memo](2026/04/2026-04-28-1240.md) |
 | 2026-04-27 20:49Z | Close | 4 | $0.0738 | [memo](2026/04/2026-04-27-2049.md) |
-| 2026-04-27 12:37Z | Pre-market | 4 | $0.0777 | [memo](2026/04/2026-04-27-1237.md) |
 
 ## How this runs
 
