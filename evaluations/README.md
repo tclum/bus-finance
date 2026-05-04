@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — May 4, 2026 — Pre-market
+## Latest memo — May 4, 2026 — Close
 
-The tape is pricing two divergent narratives: a tech-led AI infrastructure rally (XLK +1.49%, ORCL +6.47%, INTC +5.44%) and rising geopolitical risk premium in energy (oil headlines on Iran-US tensions, XLE -1.34% despite crude strength). The cross-reference between Oracle's surge on below-average volume and Intel's continued 5-day rally (+20.69%) suggests sector rotation within tech rather than broad risk-on sentiment — VIX rose +4.59% even as NASDAQ gained +0.89%. The CFO should prioritize understanding whether the semiconductor capex cycle has genuinely re-accelerated or whether this is positioning ahead of earnings, because our own IT infrastructure budget and supplier lead times depend on the same capacity constraints now driving INTC and MU.
+The tape is bifurcating on energy-sector strength versus consumer-facing weakness, with oil topping $114 on Iranian attacks in the UAE driving XLE +0.92% while UPS collapsed -10.47% on Amazon's logistics network announcement. The most important cross-reference is between the semiconductor reversal (AMD -5.27%, QCOM -4.88%, INTC -3.85% despite strong 5-day gains) and Micron's +6.31% rally — suggesting intra-sector rotation rather than broad AI-demand repricing. The CFO should prioritize understanding whether the energy shock creates a margin squeeze for our logistics and consumer-goods exposure before it shows up in Q2 guidance.
 
-[Read full memo →](2026/05/2026-05-04-1238.md)
+[Read full memo →](2026/05/2026-05-04-2053.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The tape is pricing two divergent narratives: a tech-led AI infrastructure rally
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-05-04 20:53Z | Close | 4 | $0.0748 | [memo](2026/05/2026-05-04-2053.md) |
 | 2026-05-04 12:38Z | Pre-market | 4 | $0.0716 | [memo](2026/05/2026-05-04-1238.md) |
 | 2026-05-01 20:48Z | Close | 4 | $0.0687 | [memo](2026/05/2026-05-01-2048.md) |
 | 2026-05-01 12:24Z | Pre-market | 4 | $0.0638 | [memo](2026/05/2026-05-01-1224.md) |
@@ -32,7 +33,6 @@ The tape is pricing two divergent narratives: a tech-led AI infrastructure rally
 | 2026-04-29 12:37Z | Pre-market | 4 | $0.0664 | [memo](2026/04/2026-04-29-1237.md) |
 | 2026-04-28 20:53Z | Close | 4 | $0.0665 | [memo](2026/04/2026-04-28-2053.md) |
 | 2026-04-28 12:40Z | Pre-market | 4 | $0.0702 | [memo](2026/04/2026-04-28-1240.md) |
-| 2026-04-27 20:49Z | Close | 4 | $0.0738 | [memo](2026/04/2026-04-27-2049.md) |
 
 ## How this runs
 
