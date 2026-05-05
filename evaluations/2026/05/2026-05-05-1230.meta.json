@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-05T12:30:00+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3665,
+  "output_tokens": 3004,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.071156,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "MU",
+    "ORCL",
+    "OXY",
+    "MPC",
+    "INTU",
+    "EOG",
+    "MA",
+    "PM",
+    "AMZN",
+    "COP",
+    "ADBE",
+    "PSX",
+    "LMT",
+    "CCI",
+    "CRM",
+    "NOW",
+    "CVX",
+    "CSCO",
+    "MRK",
+    "GILD",
+    "UPS",
+    "AMD",
+    "QCOM",
+    "LOW",
+    "INTC",
+    "HD",
+    "F",
+    "NKE",
+    "LIN",
+    "BA",
+    "PG",
+    "BKNG",
+    "SHW",
+    "SLB",
+    "GS",
+    "CL",
+    "ABT",
+    "GE",
+    "WFC",
+    "BAC"
+  ],
+  "headlines_included": [
+    {
+      "source": "yahoo_finance",
+      "title": "Tyson Foods upgrades profit outlook but beef volumes still pressured",
+      "published_at": "2026-05-05T12:25:12+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Kopin (KOPN): The Best Day Trading Penny Stock to Buy",
+      "published_at": "2026-05-05T12:18:12+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Sleep Number (SNBR) Says Performance Remains on Track with Q1 Expectations",
+      "published_at": "2026-05-05T12:18:05+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Greenland Energy (GLND) Signs Halliburton Deal for Consulting Services",
+      "published_at": "2026-05-05T12:17:58+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Cumberland Pharmaceuticals (CPIX) Integrates Commercial Business with Apotex",
+      "published_at": "2026-05-05T12:17:50+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Magnachip (MX) Reports Q1 EPS of (11c)",
+      "published_at": "2026-05-05T12:17:43+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Is Bed Bath & Beyond (BBBY) the Best Day Trading Penny Stock to Buy?",
+      "published_at": "2026-05-05T12:17:35+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "AEye (LIDR) Partners with SynTech to Expand Apollo Lidar in Defense",
+      "published_at": "2026-05-05T12:17:27+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Strategy Stock Heads Into May With a Bullish Pattern and Q1 Earnings Catalyst",
+      "published_at": "2026-05-05T12:17:26+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Soluna Holdings (SLNH) Partners with Sazmining",
+      "published_at": "2026-05-05T12:17:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Ryde Group (RYDE) Signs MOU with VinaTaxi to Explore Mobility Partnership",
+      "published_at": "2026-05-05T12:17:04+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Canaccord Maintains Buy Rating on Compass Therapeutics (CMPX)",
+      "published_at": "2026-05-05T12:16:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Coca-Cola Consolidated to invest $35m in US facility",
+      "published_at": "2026-05-05T12:14:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Huntington Ingalls posts lower quarterly margin as costs weigh",
+      "published_at": "2026-05-05T12:13:44+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "We May Soon Find Out Why Warren Buffett and Berkshire Hathaway Have Almost $400 Billion in Cash",
+      "published_at": "2026-05-05T12:11:21+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Rises Amid U.S.-Iran Tensions; Palantir Slides After Earnings Report (Live Coverage)",
+      "published_at": "2026-05-05T12:08:20+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "3 AI Stocks Under $50 That Could Be This Year's Biggest Surprises",
+      "published_at": "2026-05-05T12:05:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Argentina's auto parts industry feels the pain from Milei's shock therapy",
+      "published_at": "2026-05-05T12:04:58+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Prospect Capital insiders are buying while yield hunters debate the safety",
+      "published_at": "2026-05-05T12:04:29+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018Like 10 Manhattan Projects going off all at once\u2019: AI is rewiring the entire global economy, says this BlackRock exec",
+      "published_at": "2026-05-05T12:02:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "We Asked ChatGPT If XRP Could Hit $2 by End of May: Here\u2019s What It Said",
+      "published_at": "2026-05-05T12:01:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Caleb Hammer Confronts Husband Hiding an AI Girlfriend From His Wife",
+      "published_at": "2026-05-05T12:01:21+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dave Portnoy unloads on NYC\u2019s Mamdani for targeting Ken Griffin\u2019s $238M penthouse \u2014 now a $6B plan could be pulled",
+      "published_at": "2026-05-05T12:00:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Taylor Sheridan wrote almost every word of \u2018Yellowstone.\u2019 Can its spinoff \u2018Dutton Ranch\u2019 succeed without him?",
+      "published_at": "2026-05-05T12:00:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Sphere Entertainment Posts Showstopping Q1 Performance",
+      "published_at": "2026-05-05T11:59:56+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "This gold-timing indicator just hit a bottom \u2014 and history says a strong rally is next",
+      "published_at": "2026-05-05T11:55:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Crypto exchange Coinbase plans to cut 700 jobs, citing 'market conditions' amid restructuring for 'AI era'",
+      "published_at": "2026-05-05T11:47:36+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Anheuser-Busch InBev volumes rose just 1%, and the stock market is delighted.",
+      "published_at": "2026-05-05T11:47:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Alphabet taps euro bond market with six-tranche offering amid AI spending surge",
+      "published_at": "2026-05-05T11:41:08+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Irish regulator opens inquiry into Shein over data transfers to China",
+      "published_at": "2026-05-05T11:40:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Intuitive Surgical (ISRG): The Best Healthcare AI Stock to Buy According to Analysts",
+      "published_at": "2026-05-05T11:40:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Waystar Holding (WAY) Reports Q1 Adjusted EPS Above Estimates",
+      "published_at": "2026-05-05T11:39:54+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum prices today, Tuesday, May 5, 2026: Bitcoin reaches over $81,000, hitting a high last seen in January",
+      "published_at": "2026-05-05T11:39:51+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Medtronic (MDT) Highlights Affera Momentum and FDA Breakthrough Device Designation",
+      "published_at": "2026-05-05T11:39:45+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Butterfly Network (BFLY) Reports Q1 EPS",
+      "published_at": "2026-05-05T11:39:37+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "JonesResearch Reiterates Buy on AbCellera Biologics (ABCL)",
+      "published_at": "2026-05-05T11:39:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Is GE HealthCare (GEHC) the Best Healthcare AI Stock to Buy According to Analysts?",
+      "published_at": "2026-05-05T11:39:21+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Certara (CERT) Sells Regulatory and Medical Writing Business for Up to $135M",
+      "published_at": "2026-05-05T11:39:14+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "BTIG Raises its Price Target on SOPHiA GENETICS (SOPH) to $8",
+      "published_at": "2026-05-05T11:39:06+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?",
+      "published_at": "2026-05-05T11:37:00+00:00"
+    }
+  ]
+}

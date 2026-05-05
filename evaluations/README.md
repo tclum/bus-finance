@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — May 4, 2026 — Close
+## Latest memo — May 5, 2026 — Pre-market
 
-The tape is bifurcating on energy-sector strength versus consumer-facing weakness, with oil topping $114 on Iranian attacks in the UAE driving XLE +0.92% while UPS collapsed -10.47% on Amazon's logistics network announcement. The most important cross-reference is between the semiconductor reversal (AMD -5.27%, QCOM -4.88%, INTC -3.85% despite strong 5-day gains) and Micron's +6.31% rally — suggesting intra-sector rotation rather than broad AI-demand repricing. The CFO should prioritize understanding whether the energy shock creates a margin squeeze for our logistics and consumer-goods exposure before it shows up in Q2 guidance.
+The tape is fragmenting: energy and memory semiconductors are rallying sharply while logistics, home improvement, and consumer discretionary are selling off on volume. UPS collapsed -10.47% on 3.29× volume with no accompanying headline, suggesting an undisclosed operational or guidance issue that may signal broader supply-chain stress. The energy rally (+0.92% XLE, with MPC +2.60% and PSX +1.29%) is running five days strong (+4.62% 5d) despite no corresponding crude price catalyst in the news scan, raising the question of whether this is a refining-margin expansion story or a positioning move ahead of summer driving season. The CFO should prioritize the UPS investigation — a double-digit single-day drop in a Dow component on heavy volume without news is a red flag that typically precedes a material disclosure.
 
-[Read full memo →](2026/05/2026-05-04-2053.md)
+[Read full memo →](2026/05/2026-05-05-1230.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The tape is bifurcating on energy-sector strength versus consumer-facing weaknes
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-05-05 12:30Z | Pre-market | 4 | $0.0712 | [memo](2026/05/2026-05-05-1230.md) |
 | 2026-05-04 20:53Z | Close | 4 | $0.0748 | [memo](2026/05/2026-05-04-2053.md) |
 | 2026-05-04 12:38Z | Pre-market | 4 | $0.0716 | [memo](2026/05/2026-05-04-1238.md) |
 | 2026-05-01 20:48Z | Close | 4 | $0.0687 | [memo](2026/05/2026-05-01-2048.md) |
@@ -32,7 +33,6 @@ The tape is bifurcating on energy-sector strength versus consumer-facing weaknes
 | 2026-04-29 20:50Z | Close | 4 | $0.0718 | [memo](2026/04/2026-04-29-2050.md) |
 | 2026-04-29 12:37Z | Pre-market | 4 | $0.0664 | [memo](2026/04/2026-04-29-1237.md) |
 | 2026-04-28 20:53Z | Close | 4 | $0.0665 | [memo](2026/04/2026-04-28-2053.md) |
-| 2026-04-28 12:40Z | Pre-market | 4 | $0.0702 | [memo](2026/04/2026-04-28-1240.md) |
 
 ## How this runs
 
