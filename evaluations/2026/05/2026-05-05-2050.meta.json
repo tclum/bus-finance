@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-05T20:50:06+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4307,
+  "output_tokens": 2823,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.070367,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "INTC",
+    "MU",
+    "QCOM",
+    "AMAT",
+    "AMD",
+    "FCX",
+    "CAT",
+    "MPC",
+    "ORCL",
+    "AAPL",
+    "AVGO",
+    "GE",
+    "LLY",
+    "C",
+    "APD",
+    "UPS",
+    "CSCO",
+    "BAC",
+    "AMGN",
+    "AEP",
+    "NFLX",
+    "CMCSA",
+    "INTU",
+    "UNH",
+    "LMT",
+    "CVS",
+    "OXY",
+    "AMT",
+    "MA",
+    "V",
+    "COP",
+    "CCI",
+    "AXP",
+    "NVDA",
+    "ABBV",
+    "META",
+    "MO",
+    "DIS",
+    "TSLA",
+    "T"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "Super Micro\u2019s stock surges as Wall Street cheers a margin recovery",
+      "published_at": "2026-05-05T20:46:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Spain to conduct health inspection of ship with hantavirus outbreak before passengers can leave",
+      "published_at": "2026-05-05T20:35:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "I use a wheelchair and my apartment elevator has been broken for 16 days. I haven\u2019t been reimbursed for my hotel. Do I have a legal case?",
+      "published_at": "2026-05-05T20:13:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "These are the fastest-growing jobs for new college graduates \u2014 even in this low-hire market",
+      "published_at": "2026-05-05T19:58:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The food inflation crisis will soon be all investors are talking about",
+      "published_at": "2026-05-05T19:56:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Hospitals are still relying on fax machines and photocopies \u2014 and it\u2019s costing you",
+      "published_at": "2026-05-05T19:36:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Taylor Sheridan wrote almost every word of \u2018Yellowstone.\u2019 Can spinoff \u2018Dutton Ranch\u2019 succeed without him?",
+      "published_at": "2026-05-05T19:36:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Weight-loss drugs fuel protein-rich whey craving - Reuters",
+      "published_at": "2026-05-05T19:16:39+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Here\u2019s what\u2019s worth streaming in May 2026 on Netflix, Hulu, HBO Max and more",
+      "published_at": "2026-05-05T19:16:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "This narrow shipping lane is how Trump now wants oil tankers to navigate the Strait of Hormuz",
+      "published_at": "2026-05-05T19:15:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Amazon\u2019s stock has come alive, setting the company up to join an exclusive club",
+      "published_at": "2026-05-05T19:14:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Carvana Co",
+      "published_at": "2026-05-05T18:38:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Altria Group Inc",
+      "published_at": "2026-05-05T18:38:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Regency Centers Corp",
+      "published_at": "2026-05-05T18:38:02+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Nasdaq hits record as AI chip stocks surge - Reuters",
+      "published_at": "2026-05-05T18:31:38+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Bets surge against Nike, heaping pressure on CEO Hill - Reuters",
+      "published_at": "2026-05-05T18:30:25+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US okays potential $540 million C-17 support sale to Canada, State Department says - Reuters",
+      "published_at": "2026-05-05T18:29:57+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US approves potential sale of joint direct attack munitions to Ukraine - Reuters",
+      "published_at": "2026-05-05T18:26:50+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Update: CHH, DGX, EL, MO, REG, TWLO, CVNA, SPOT",
+      "published_at": "2026-05-05T18:23:02+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US job openings drop in March; hires increase sharply - Reuters",
+      "published_at": "2026-05-05T18:13:14+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US job openings, hires point to stable labor market - Reuters",
+      "published_at": "2026-05-05T18:13:07+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Crypto exchange Coinbase to cut about 14% of workforce in AI-driven restructuring - Reuters",
+      "published_at": "2026-05-05T18:12:32+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Crypto exchange Bullish to buy Equiniti for $4.2 billion in capital markets push - Reuters",
+      "published_at": "2026-05-05T18:04:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "'The Lost Boys,\u2019 \u2018Schmigadoon!\u2019 lead Tony nominations - Reuters",
+      "published_at": "2026-05-05T17:52:48+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Anthropic deepens finance push as CEO Amodei warns of software disruption - Reuters",
+      "published_at": "2026-05-05T17:32:50+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Alphabet closes in on Nvidia's spot as world's biggest company - Reuters",
+      "published_at": "2026-05-05T17:09:24+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "AirAsia, Airbus set to announce 150-jet order for A220 on Wednesday, sources say - Reuters",
+      "published_at": "2026-05-05T16:59:28+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "European shares rise on positive earnings bump; focus on Mideast tensions - Reuters",
+      "published_at": "2026-05-05T16:26:53+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Argentina's auto parts industry feels the pain from Milei's shock therapy - Reuters",
+      "published_at": "2026-05-05T16:19:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say - Reuters",
+      "published_at": "2026-05-05T16:16:29+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Thomson Reuters reaffirms forecasts, highlights 'fiduciary-grade AI' demand - Reuters",
+      "published_at": "2026-05-05T15:29:06+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "James Murdoch in talks to buy Vox Media's New York Magazine, podcast unit, WSJ reports - Reuters",
+      "published_at": "2026-05-05T15:20:06+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "All eyes on job market as Fed's rate-cut window narrows - Reuters",
+      "published_at": "2026-05-05T15:12:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: Russia's Kirishi halts refining after Ukrainian drone attack, sources say - Reuters",
+      "published_at": "2026-05-05T14:52:26+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Harley-Davidson bets on affordable models, dealer network in latest turnaround effort - Reuters",
+      "published_at": "2026-05-05T14:34:50+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US service sector growth cools as order growth drops by most in 3 years - Reuters",
+      "published_at": "2026-05-05T14:07:03+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Canada swings to trade surplus in March as crude prices, gold exports jump - Reuters",
+      "published_at": "2026-05-05T14:02:17+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: US and others propose e-commerce pact as WTO deadlock deepens - Reuters",
+      "published_at": "2026-05-05T13:51:01+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "PayPal touts turnaround plan after results beat fails to impress - Reuters",
+      "published_at": "2026-05-05T13:37:34+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "German exports to flatline this year amid Middle East uncertainty, says chambers of commerce - Reuters",
+      "published_at": "2026-05-05T13:24:47+00:00"
+    }
+  ]
+}
