@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-06T20:56:27+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4168,
+  "output_tokens": 3113,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.0743,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "AMD",
+    "CVS",
+    "DIS",
+    "GE",
+    "NVDA",
+    "NEM",
+    "FCX",
+    "ORCL",
+    "INTC",
+    "AMAT",
+    "MU",
+    "F",
+    "HON",
+    "LOW",
+    "SHW",
+    "GM",
+    "QCOM",
+    "TXN",
+    "DE",
+    "MMM",
+    "OXY",
+    "MPC",
+    "PSX",
+    "EOG",
+    "XOM",
+    "CVX",
+    "MO",
+    "COP",
+    "AEP",
+    "NOW",
+    "CRM",
+    "CSCO",
+    "SO",
+    "ACN",
+    "INTU",
+    "ADBE",
+    "COST",
+    "DUK",
+    "SLB",
+    "IBM"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "Arm\u2019s stock soars as the company puts a big number on its newest venture",
+      "published_at": "2026-05-06T20:50:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "This gold-timing indicator just hit a bottom \u2014 and history says a strong rally is next",
+      "published_at": "2026-05-06T20:45:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Fortinet\u2019s stock rockets higher as earnings help dispel fears of AI disruption",
+      "published_at": "2026-05-06T20:45:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Here\u2019s how far the Trump administration\u2019s \u2018startling turn\u2019 on AI regulation might go",
+      "published_at": "2026-05-06T20:35:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Concerts are increasingly going global as cracks emerge in the U.S. market",
+      "published_at": "2026-05-06T20:18:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Stuck in \u2018survival spending\u2019? 5 ways to build wealth even when the odds seem stacked against you.",
+      "published_at": "2026-05-06T20:10:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "S&P 500 record profits are a double-edged sword \u2014 and it could slash your returns",
+      "published_at": "2026-05-06T20:08:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018We\u2019re worried the honey pot will run dry\u2019: Does the government borrow from my Social Security to fund federal programs?",
+      "published_at": "2026-05-06T20:07:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The Dow exits correction territory on the way back to 50,000. What fueled its recovery.",
+      "published_at": "2026-05-06T20:04:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "8 multibillion-dollar companies later, this serial entrepreneur shares his proven blueprint for massive returns",
+      "published_at": "2026-05-06T20:02:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding - Reuters",
+      "published_at": "2026-05-06T19:32:15+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "California's highest court leans toward Gilead in considering drugmakers' 'duty to innovate' - Reuters",
+      "published_at": "2026-05-06T19:22:07+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Disney earnings beat estimates as new CEO outlines growth strategy - Reuters",
+      "published_at": "2026-05-06T19:21:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump signs new counterterrorism strategy that focuses on hemispheric threats - Reuters",
+      "published_at": "2026-05-06T19:20:53+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump met with Chevron and ExxonMobil on Tuesday to discuss Venezuela - Reuters",
+      "published_at": "2026-05-06T19:20:30+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "S&P 500 and Nasdaq hit records; AMD results spark AI stock rally - Reuters",
+      "published_at": "2026-05-06T18:30:42+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: OGE Energy Corp",
+      "published_at": "2026-05-06T18:24:17+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Bristol-Myers Squibb Co",
+      "published_at": "2026-05-06T18:24:17+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Ford Motor Co",
+      "published_at": "2026-05-06T18:24:17+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: PayPal Holdings Inc",
+      "published_at": "2026-05-06T18:24:17+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Equity Residential",
+      "published_at": "2026-05-06T18:24:17+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Sterling Infrastructure Inc",
+      "published_at": "2026-05-06T18:24:17+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Ted Turner, outspoken founder of CNN, dies at 87 - Reuters",
+      "published_at": "2026-05-06T17:56:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: Sky seeks up to 1.9 billion euros in damages from TIM, DAZN over Italian TV soccer deal - Reuters",
+      "published_at": "2026-05-06T17:39:41+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Kraft Heinz turnaround efforts show early promise under new CEO Cahillane - Reuters",
+      "published_at": "2026-05-06T17:28:25+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Cenovus profit jumps 83% as MEG deal boosts output, targets more oil sands growth - Reuters",
+      "published_at": "2026-05-06T17:16:14+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Apollo pledges daily pricing for private credit as assets top $1 trillion - Reuters",
+      "published_at": "2026-05-06T16:43:48+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "EU struggles to finalise US trade deal under threat of higher auto tariffs - Reuters",
+      "published_at": "2026-05-06T16:34:01+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Chinese carmaker Geely buys Ford assembly facilities in Spain, local media reports - Reuters",
+      "published_at": "2026-05-06T16:23:45+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Mining halted at Baowu-led Simandou site over pay dispute, sources say - Reuters",
+      "published_at": "2026-05-06T15:56:07+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "AMD shares hit record high, spark global chips rally on AI demand optimism - Reuters",
+      "published_at": "2026-05-06T15:16:36+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "SpaceX files plan for $55 billion Terafab chip facility in Texas - Reuters",
+      "published_at": "2026-05-06T15:10:11+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Lilly commits additional $4.5 billion in Indiana manufacturing sites - Reuters",
+      "published_at": "2026-05-06T14:23:02+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Increase in US private payrolls in April consistent with stable labor market - Reuters",
+      "published_at": "2026-05-06T14:12:04+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Corning partners with Nvidia to expand US fiber optic output for AI growth - Reuters",
+      "published_at": "2026-05-06T13:41:11+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Uber forecasts strong second-quarter bookings despite Middle East woes - Reuters",
+      "published_at": "2026-05-06T13:36:19+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Alaska Air launches $500 million debt offering as Iran war drives up fuel costs - Reuters",
+      "published_at": "2026-05-06T12:39:44+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Japan fires missile in joint drill with US and allies in northern Philippines, facing South China Sea - Reuters",
+      "published_at": "2026-05-06T12:36:45+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Stunning US profit strength ignites stocks' charge to record peaks - Reuters",
+      "published_at": "2026-05-06T10:24:39+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "India's Reliance to shut some units at 660,000 bpd refinery, govt official says - Reuters",
+      "published_at": "2026-05-06T10:14:09+00:00"
+    }
+  ]
+}
