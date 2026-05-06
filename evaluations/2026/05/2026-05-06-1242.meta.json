@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-06T12:42:30+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3814,
+  "output_tokens": 2674,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.066653,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "INTC",
+    "MU",
+    "QCOM",
+    "AMAT",
+    "AMD",
+    "FCX",
+    "CAT",
+    "MPC",
+    "ORCL",
+    "AAPL",
+    "AVGO",
+    "GE",
+    "LLY",
+    "C",
+    "APD",
+    "UPS",
+    "CSCO",
+    "BAC",
+    "AMGN",
+    "AEP",
+    "NFLX",
+    "CMCSA",
+    "INTU",
+    "UNH",
+    "LMT",
+    "CVS",
+    "OXY",
+    "AMT",
+    "MA",
+    "V",
+    "COP",
+    "CCI",
+    "AXP",
+    "NVDA",
+    "ABBV",
+    "META",
+    "MO",
+    "DIS",
+    "TSLA",
+    "T"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "The \u2018sugar high\u2019 is over: Why the first sell signal for stocks since 2021 is now flashing, according to this Wall Street bank",
+      "published_at": "2026-05-06T12:41:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "You\u2019re thinking too small in a world of \u2018infinite capital,\u2019 according to this billionaire\u2019s business-building blueprint",
+      "published_at": "2026-05-06T12:38:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "ADP says businesses create the most new jobs in 15 months. Labor market might be thawing.",
+      "published_at": "2026-05-06T12:22:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "AMD\u2019s stock soars toward best postearnings gain in 7 years: \u2018The world has changed\u2019",
+      "published_at": "2026-05-06T12:21:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Palantir Posts Its Strongest Growth Rate Since 2020. Is the Stock Heading Back to $200?",
+      "published_at": "2026-05-06T12:18:49+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "The Identity Trap That Keeps People Working Years After They Can Afford to Quit",
+      "published_at": "2026-05-06T12:17:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "BMW Q1 2026 earnings fall 25% as China, tariffs weigh",
+      "published_at": "2026-05-06T12:17:37+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Tesla-SpaceX Peg $55 Billion For Terafab AI Chip Factory. The Actual Cost Could Be Double.",
+      "published_at": "2026-05-06T12:17:19+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "ORBCOMM pulls in new financing, replaces all publicly-traded debt",
+      "published_at": "2026-05-06T12:16:37+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Nvidia, Corning partner on 3 U.S. fiber optic factories for AI",
+      "published_at": "2026-05-06T12:16:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "'Being real, I'm going to buy a car': NFL star Odell Beckham Jr. says $20M a year isn't enough. Could you make it last?",
+      "published_at": "2026-05-06T12:15:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Supermicro stock soars on strong margin, revenue forecast",
+      "published_at": "2026-05-06T12:14:30+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "CVS Health raises 2026 guidance after Q1 earnings beat",
+      "published_at": "2026-05-06T12:12:42+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Taboola (TBLA) beats first-quarter forecasts as revenue and profit top expectations",
+      "published_at": "2026-05-06T12:11:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Starbucks Stages a Major Comeback. But Does That Mean You Should Buy It Now? Not So Fast.",
+      "published_at": "2026-05-06T12:07:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Global stocks surge and oil slides on Iran peace deal report",
+      "published_at": "2026-05-06T12:01:30+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch",
+      "published_at": "2026-05-06T12:00:23+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Coinbase Pulls Back From Gains Spurred By Clarity Act News; Is Coinbase Stock A Sell Now?",
+      "published_at": "2026-05-06T12:00:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "SPX Momentum Is Real: These Stocks Could Benefit",
+      "published_at": "2026-05-06T12:00:05+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "I lost my job and can\u2019t afford to go on a $2,000 trip with friends. Am I a jerk for backing out?",
+      "published_at": "2026-05-06T12:00:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Jumps, Oil Prices Plunge On U.S.-Iran Deal Hopes; AMD Surges On Earnings (Live Coverage)",
+      "published_at": "2026-05-06T11:59:41+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Disney\u2019s new CEO lays out his long-term vision as company sees streaming and theme-park momentum",
+      "published_at": "2026-05-06T11:58:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dow Jones Futures Rise, Oil Prices Dive Below $100 On Report U.S.-Iran Deal Close; AMD Soars On Earnings",
+      "published_at": "2026-05-06T11:56:11+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "CoreWeave Earnings Reports Often Bring Volatility. Here's What To Look For In Q1 Results.",
+      "published_at": "2026-05-06T11:49:30+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Disney earnings beat estimates as new CEO outlines growth strategy - Reuters",
+      "published_at": "2026-05-06T11:48:47+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Disney Stock Surges On Earnings Beat, Streaming Profits Boom",
+      "published_at": "2026-05-06T11:48:08+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "This chart tells the story of the world\u2019s hottest stock market as Samsung value reaches $1 trillion",
+      "published_at": "2026-05-06T11:39:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Uber Stock Jumps On Mixed Q1 Results, Stronger-Than-Expected Bookings Outlook",
+      "published_at": "2026-05-06T11:38:31+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "EU plan to phase out Chinese tech could cost bloc over $400 billion, Chinese study says",
+      "published_at": "2026-05-06T11:31:48+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "SharkNinja Brews Q1 Beat On Hot Expresso Machine Sales. The Stock Is Eyeing Buy Point.",
+      "published_at": "2026-05-06T11:27:35+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Gold, silver jump on report that the US and Iran are nearing a peace deal",
+      "published_at": "2026-05-06T11:25:34+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily Spotlight: Valuation Measures Reasonable",
+      "published_at": "2026-05-06T11:22:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "published_at": "2026-05-06T11:21:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum prices today, Wednesday, May 6, 2026: Prices up; bitcoin at highest level since January",
+      "published_at": "2026-05-06T11:21:12+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Digest: CAH, SHOP, DXCM, PLTR, GFS",
+      "published_at": "2026-05-06T11:05:23+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: GlobalFoundries Inc",
+      "published_at": "2026-05-06T11:05:23+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Shopify Inc",
+      "published_at": "2026-05-06T11:05:23+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "SpaceX files plan for $55 billion Terafab chip facility in Texas - Reuters",
+      "published_at": "2026-05-06T11:02:18+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I am her scapegoat\u2019: My mother-in-law squandered all her money. Do we buy her a house so she\u2019s not homeless?",
+      "published_at": "2026-05-06T10:45:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Gold and silver prices today, Wednesday, May 6: Gold and silver prices up significantly this morning",
+      "published_at": "2026-05-06T10:44:04+00:00"
+    }
+  ]
+}
