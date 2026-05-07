@@ -1,0 +1,262 @@
+{
+  "timestamp_utc": "2026-05-07T12:42:36+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3754,
+  "output_tokens": 2946,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.070553,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "AMD",
+    "CVS",
+    "DIS",
+    "GE",
+    "NVDA",
+    "NEM",
+    "FCX",
+    "ORCL",
+    "INTC",
+    "AMAT",
+    "MU",
+    "F",
+    "HON",
+    "LOW",
+    "SHW",
+    "GM",
+    "QCOM",
+    "TXN",
+    "DE",
+    "MMM",
+    "OXY",
+    "MPC",
+    "PSX",
+    "EOG",
+    "XOM",
+    "CVX",
+    "MO",
+    "COP",
+    "AEP",
+    "NOW",
+    "CRM",
+    "CSCO",
+    "SO",
+    "ACN",
+    "INTU",
+    "ADBE",
+    "COST",
+    "DUK",
+    "SLB",
+    "IBM"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "Bitcoin\u2019s unusual technical action points to a crypto bull market, says Fundstrat\u2019s Tom Lee",
+      "published_at": "2026-05-07T12:41:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Are businesses really starting to hire again? The April jobs report will help clue us in.",
+      "published_at": "2026-05-07T12:39:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "These 3 Dividend Stocks Have Made Investors Rich. They Can Do It Again.",
+      "published_at": "2026-05-07T12:35:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Tesla China Sales Spike 36%. The Stock Nears An Aggressive Buy Point.",
+      "published_at": "2026-05-07T12:34:16+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Why Arm Holdings stock is sinking",
+      "published_at": "2026-05-07T12:33:38+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Maze Therapeutics CSBO Sells 7,500 Shares for $190,000 After Strong Trial Results and Q4 Financials",
+      "published_at": "2026-05-07T12:32:57+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Masimo Corporation (MASI) Rose Following the Acquisition Announcement",
+      "published_at": "2026-05-07T12:29:20+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Netskope (NTSK) Slid on a Combination of Sector-Wide and Technical Factors",
+      "published_at": "2026-05-07T12:26:09+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Is DraftKings (DKNG) Trading at an Attractive Multiple?",
+      "published_at": "2026-05-07T12:23:12+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Intapp (INTA) Fell Over the AI Disruption Narrative",
+      "published_at": "2026-05-07T12:20:30+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "The MacBook Neo Could Be the Best Reason to Buy Apple Stock",
+      "published_at": "2026-05-07T12:20:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bel buys \u201cbrain health\u201d brand Brainiac",
+      "published_at": "2026-05-07T12:17:46+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Advanced Energy Industries (AEIS) is Positioned for Continued Growth and Margin Expansion",
+      "published_at": "2026-05-07T12:17:06+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "HawkEye 360 IPO raises $416 million, priced at $26 per share",
+      "published_at": "2026-05-07T12:15:51+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "$100,000 in Our Dividend Kings Portfolio Will Generate $5,400 in Passive Income Each Year",
+      "published_at": "2026-05-07T12:15:36+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Rises Ahead Of Jobless Claims; AI Stock Dives On Earnings (Live Coverage)",
+      "published_at": "2026-05-07T12:14:58+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dow Jones Futures Rise, Oil Prices Fall On Iran-Deal Hopes, Nvidia Leads New Buys; ARM Is Earnings Mover",
+      "published_at": "2026-05-07T12:14:30+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Ageism is still an acceptable bias among employers \u2014 and it\u2019s costing shareholders billions",
+      "published_at": "2026-05-07T12:10:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Middle managers are on the chopping block in the AI workplace. Here\u2019s how to save your job.",
+      "published_at": "2026-05-07T12:00:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Kevin Warsh\u2019s undisclosed wealth leaves a $100 million mystery atop the Federal Reserve",
+      "published_at": "2026-05-07T11:55:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Traders point to suspicious activity in the oil market on Wednesday",
+      "published_at": "2026-05-07T11:54:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "My husband has a $225,000 pension. We don\u2019t trust his \u2018too big to fail\u2019 employer. Where do we invest it?",
+      "published_at": "2026-05-07T11:30:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily Spotlight: Small-Caps and Emerging Markets",
+      "published_at": "2026-05-07T11:22:23+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "published_at": "2026-05-07T11:21:54+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018Americans are not great at managing money\u2019: Social Security and Medicare saved my father from financial ruin. Am I wrong?",
+      "published_at": "2026-05-07T10:53:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily \u2013 Vickers Top Buyers & Sellers for 05/07/2026",
+      "published_at": "2026-05-07T10:45:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily \u2013 Vickers Top Insider Picks for 05/07/2026",
+      "published_at": "2026-05-07T10:45:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Exxon Mobil Corp",
+      "published_at": "2026-05-07T10:39:35+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Fiserv Inc",
+      "published_at": "2026-05-07T10:39:35+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Huntington Bancshares Inc/OH",
+      "published_at": "2026-05-07T10:39:35+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "I am 56, single, and renewing my $400,000 10-year term life policy. Am I making a huge mistake?",
+      "published_at": "2026-05-07T10:30:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Top-performing Nasdaq stocks are partying like they did near the peak of the dot-com bubble \u2014 maybe even harder",
+      "published_at": "2026-05-07T10:30:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Tesla's China-made EV sales jump 36% in April, extending rebound - Reuters",
+      "published_at": "2026-05-07T09:48:31+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Countries scramble to track passengers of virus-hit cruise ship - Reuters",
+      "published_at": "2026-05-07T09:41:28+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "IEA says Middle East conflict altering medium-term gas outlook - Reuters",
+      "published_at": "2026-05-07T08:16:10+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Shell's profit beats expectations at $6.9 billion, raises dividend by 5% - Reuters",
+      "published_at": "2026-05-07T06:10:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Australia requires LNG exporters reserve 20% of gas for east coast market - Reuters",
+      "published_at": "2026-05-07T03:23:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Space analytics firm HawkEye raises $416 million in US IPO - Reuters",
+      "published_at": "2026-05-07T00:47:00+00:00"
+    }
+  ]
+}
