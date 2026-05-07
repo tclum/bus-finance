@@ -1,0 +1,267 @@
+{
+  "timestamp_utc": "2026-05-07T20:53:14+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4179,
+  "output_tokens": 2835,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.070163,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "QCOM",
+    "NOW",
+    "INTU",
+    "TSLA",
+    "ACN",
+    "CRM",
+    "ADBE",
+    "IBM",
+    "MA",
+    "NVDA",
+    "BKNG",
+    "MSFT",
+    "COST",
+    "NKE",
+    "SPGI",
+    "C",
+    "BRK-B",
+    "CCI",
+    "ABT",
+    "V",
+    "AMAT",
+    "SLB",
+    "COP",
+    "CAT",
+    "TGT",
+    "AMD",
+    "AVGO",
+    "INTC",
+    "MU",
+    "SCHW",
+    "EOG",
+    "JPM",
+    "NEE",
+    "OXY",
+    "SBUX",
+    "SPG",
+    "PSX",
+    "EQIX",
+    "MMM",
+    "DE"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "These 15 stocks trade like the hottest tech names \u2014 but they\u2019re still under the radar",
+      "published_at": "2026-05-07T20:36:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "As mortgage rates move up to 6.37%, is now a good time to lock in your rate?",
+      "published_at": "2026-05-07T20:35:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "This hedge-fund legend just warned investors not to chase stocks higher. Why he is investing in AI anyway.",
+      "published_at": "2026-05-07T20:32:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Kevin Warsh will be the richest Fed chair ever. Just how rich, he isn\u2019t saying.",
+      "published_at": "2026-05-07T20:22:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Block earnings show a growth pickup, in a potential validation of the massive AI push",
+      "published_at": "2026-05-07T20:18:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Ageism is corporate self-sabotage \u2014 America\u2019s \u2018brain drain\u2019 is costing shareholders billions",
+      "published_at": "2026-05-07T20:09:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The year\u2019s best tech trade is hiding in plain sight \u2014 and no, it\u2019s not the Nasdaq",
+      "published_at": "2026-05-07T19:59:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "McDonald\u2019s chicken is having a moment as Americans balk at high beef prices",
+      "published_at": "2026-05-07T19:52:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Tesla Model Y is first vehicle to pass new US driver-assistance system tests - Reuters",
+      "published_at": "2026-05-07T19:50:11+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Middle managers are on the chopping block thanks to AI in the workplace. Here\u2019s how to save your job.",
+      "published_at": "2026-05-07T19:49:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Worried about hantavirus? Experts say it\u2019s not the next pandemic.",
+      "published_at": "2026-05-07T19:46:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Countries track passengers of virus-hit cruise ship - Reuters",
+      "published_at": "2026-05-07T19:01:38+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "S&P 500 dips as chip stocks give up gains - Reuters",
+      "published_at": "2026-05-07T18:54:18+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Shake Shack misses quarterly estimates as fast food demand weakens, shares drop 30% - Reuters",
+      "published_at": "2026-05-07T18:47:50+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "A small town in Germany braces for end to decades of life with US troops - Reuters",
+      "published_at": "2026-05-07T18:46:36+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Cheniere reports Q1 loss but raises 2026 outlook on higher LNG output, margins - Reuters",
+      "published_at": "2026-05-07T18:44:38+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports - Reuters",
+      "published_at": "2026-05-07T18:42:08+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "OpenAI unveils three audio models for real-time voice tasks - Reuters",
+      "published_at": "2026-05-07T18:12:32+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US labor market stable as layoffs remain low - Reuters",
+      "published_at": "2026-05-07T18:02:31+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump administration is inviting CEOs from Nvidia, Apple on Trump's China trip, report says - Reuters",
+      "published_at": "2026-05-07T17:55:48+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Update: DIS, HIG, SWKS, TRI, KKR",
+      "published_at": "2026-05-07T17:40:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: KKR & Co Inc",
+      "published_at": "2026-05-07T17:40:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Thomson Reuters Corp",
+      "published_at": "2026-05-07T17:40:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Hartford Insurance Grp Inc",
+      "published_at": "2026-05-07T17:40:02+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "19 members of the WTO, including US, agree among themselves not to impose duties on e-commerce - Reuters",
+      "published_at": "2026-05-07T17:05:10+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Citigroup targets stronger profitability as CEO Fraser drives overhaul - Reuters",
+      "published_at": "2026-05-07T17:02:27+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Whirlpool shares hit 14-year low after slashing annual targets, suspending dividend - Reuters",
+      "published_at": "2026-05-07T16:58:35+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Airbus April deliveries at 67, trails year-ago - Reuters",
+      "published_at": "2026-05-07T16:33:23+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "EU prosecutors arrest 21 Croatians over suspected farm aid fraud - Reuters",
+      "published_at": "2026-05-07T15:24:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Novo and Lilly gain on signs weight-loss pills could expand the market - Reuters",
+      "published_at": "2026-05-07T13:34:49+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "IEA says Middle East conflict altering medium-term gas outlook - Reuters",
+      "published_at": "2026-05-07T13:17:37+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US productivity slows further in first quarter - Reuters",
+      "published_at": "2026-05-07T13:10:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz - Reuters",
+      "published_at": "2026-05-07T12:55:49+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Papa John's misses quarterly results estimates as living costs soar - Reuters",
+      "published_at": "2026-05-07T11:43:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "UK's BT re-focuses on its core brand, with BT Mobile for consumers - Reuters",
+      "published_at": "2026-05-07T11:19:44+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Amazon's Prime Video to invest at least 90 mln euros in 2026 in local production, regulator says - Reuters",
+      "published_at": "2026-05-07T10:19:55+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "China 'strongly opposes' EU move to bar funding for projects using Chinese inverters - Reuters",
+      "published_at": "2026-05-07T10:09:52+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Tesla's China-made EV sales jump 36% in April, extending rebound - Reuters",
+      "published_at": "2026-05-07T09:48:31+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Japan, UAE agree to hold talks on expanded oil supply and joint stockpiles - Reuters",
+      "published_at": "2026-05-07T08:56:27+00:00"
+    }
+  ]
+}

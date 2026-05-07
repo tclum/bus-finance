@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — May 7, 2026 — Pre-market
+## Latest memo — May 7, 2026 — Close
 
-The semiconductor sector is experiencing a sharp re-rating with AMD +18.61% on 2.05× volume leading a broad rally across chip names, while energy collapsed with XLE -4.12% as oil traders positioned ahead of potential Iran deal news. The divergence is stark: XLK outperformed the S&P 500 by 200 bps while XLE lagged by 480 bps, suggesting a sector rotation driven by both fundamental catalysts (AI infrastructure demand) and geopolitical risk repricing (Middle East supply). The CFO should prioritize understanding whether the semiconductor margin expansion is sustainable into Q2 earnings and whether our energy hedges are positioned for further crude weakness.
+The semiconductor sector is exhibiting classic late-cycle rotation behavior: fabless chip designers (QCOM +5.18%, NVDA +1.77%) are extending their rally while capital equipment manufacturers (AMAT -4.19%) sold off sharply despite the broader XLK holding near-flat. This divergence, combined with energy's -1.84% sector decline on elevated volume (XLE 1.07× average), suggests investors are pricing in a demand slowdown for cyclical capex while maintaining conviction in AI software and services. The most urgent question for the CFO is whether our own capital equipment orders are exposed to the same supplier base now seeing order-book uncertainty.
 
-[Read full memo →](2026/05/2026-05-07-1242.md)
+[Read full memo →](2026/05/2026-05-07-2053.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The semiconductor sector is experiencing a sharp re-rating with AMD +18.61% on 2
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-05-07 20:53Z | Close | 4 | $0.0702 | [memo](2026/05/2026-05-07-2053.md) |
 | 2026-05-07 12:42Z | Pre-market | 4 | $0.0706 | [memo](2026/05/2026-05-07-1242.md) |
 | 2026-05-06 20:56Z | Close | 4 | $0.0743 | [memo](2026/05/2026-05-06-2056.md) |
 | 2026-05-06 12:42Z | Pre-market | 4 | $0.0667 | [memo](2026/05/2026-05-06-1242.md) |
@@ -32,7 +33,6 @@ The semiconductor sector is experiencing a sharp re-rating with AMD +18.61% on 2
 | 2026-05-04 12:38Z | Pre-market | 4 | $0.0716 | [memo](2026/05/2026-05-04-1238.md) |
 | 2026-05-01 20:48Z | Close | 4 | $0.0687 | [memo](2026/05/2026-05-01-2048.md) |
 | 2026-05-01 12:24Z | Pre-market | 4 | $0.0638 | [memo](2026/05/2026-05-01-1224.md) |
-| 2026-04-30 20:49Z | Close | 4 | $0.0740 | [memo](2026/04/2026-04-30-2049.md) |
 
 ## How this runs
 
