@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — May 8, 2026 — Pre-market
+## Latest memo — May 8, 2026 — Close
 
-The tape is showing a sharp divergence between semiconductor winners and losers that cannot be explained by sector rotation alone. QCOM, NOW, and enterprise software rallied 3–5% while AMAT, AMD, AVGO, INTC, and MU sold off 3–4% despite all five having posted strong 5-day gains of +4% to +25%. This is not a broad tech selloff — XLK is only down 20 bps and NVDA is up 1.77%. The most likely explanation is a rotation within semis from manufacturing/memory exposure toward AI-inference and enterprise-software beneficiaries, possibly triggered by Sony's disclosure of memory-price-surge headwinds and concerns about capex sustainability. Separately, energy's 6.2% five-day decline with elevated volume suggests the market is pricing in demand destruction from higher gas prices, which Bank of America's consumer-spending data corroborates. The CFO should prioritize the semiconductor hypothesis — if capex is peaking, our own IT budget assumptions for FY27 may need revision.
+The semiconductor sector is pricing in a structural AI-infrastructure demand shift that has not yet been confirmed in capex guidance or inventory data. XLK led all sectors at +3.44% on near-average volume, with MU, INTC, AMD, and QCOM rallying 15.5%, 14.0%, 11.4%, and 8.2% respectively on 1.3×–1.9× volume — the breadth and volume confirm this is not thin-tape noise. The most important cross-reference: Intel's +14.0% move coincides with MarketWatch reporting a new Apple manufacturing partnership, suggesting a fundamental catalyst rather than sentiment rotation. Meanwhile, financials sold off sharply (XLF -0.60%, WFC -4.45% on 1.66× volume) despite strong April jobs data, which creates a profitability puzzle worth investigating. If the CFO reads only one section, prioritize Hypothesis 1 — the semiconductor thesis has the clearest near-term falsifiability via upcoming earnings guidance.
 
-[Read full memo →](2026/05/2026-05-08-1233.md)
+[Read full memo →](2026/05/2026-05-08-2049.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The tape is showing a sharp divergence between semiconductor winners and losers 
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-05-08 20:49Z | Close | 4 | $0.0728 | [memo](2026/05/2026-05-08-2049.md) |
 | 2026-05-08 12:33Z | Pre-market | 4 | $0.0707 | [memo](2026/05/2026-05-08-1233.md) |
 | 2026-05-07 20:53Z | Close | 4 | $0.0702 | [memo](2026/05/2026-05-07-2053.md) |
 | 2026-05-07 12:42Z | Pre-market | 4 | $0.0706 | [memo](2026/05/2026-05-07-1242.md) |
@@ -32,7 +33,6 @@ The tape is showing a sharp divergence between semiconductor winners and losers 
 | 2026-05-05 12:30Z | Pre-market | 4 | $0.0712 | [memo](2026/05/2026-05-05-1230.md) |
 | 2026-05-04 20:53Z | Close | 4 | $0.0748 | [memo](2026/05/2026-05-04-2053.md) |
 | 2026-05-04 12:38Z | Pre-market | 4 | $0.0716 | [memo](2026/05/2026-05-04-1238.md) |
-| 2026-05-01 20:48Z | Close | 4 | $0.0687 | [memo](2026/05/2026-05-01-2048.md) |
 
 ## How this runs
 
