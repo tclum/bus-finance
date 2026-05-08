@@ -1,0 +1,172 @@
+{
+  "timestamp_utc": "2026-05-08T12:33:19+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3157,
+  "output_tokens": 3078,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.070742,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "QCOM",
+    "NOW",
+    "INTU",
+    "TSLA",
+    "ACN",
+    "CRM",
+    "ADBE",
+    "IBM",
+    "MA",
+    "NVDA",
+    "BKNG",
+    "MSFT",
+    "COST",
+    "NKE",
+    "SPGI",
+    "C",
+    "BRK-B",
+    "CCI",
+    "ABT",
+    "V",
+    "AMAT",
+    "SLB",
+    "COP",
+    "CAT",
+    "TGT",
+    "AMD",
+    "AVGO",
+    "INTC",
+    "MU",
+    "SCHW",
+    "EOG",
+    "JPM",
+    "NEE",
+    "OXY",
+    "SBUX",
+    "SPG",
+    "PSX",
+    "EQIX",
+    "MMM",
+    "DE"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here\u2019s how I did it.",
+      "published_at": "2026-05-08T12:25:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Just graduated? Here\u2019s your financial cheat sheet for building real wealth.",
+      "published_at": "2026-05-08T12:00:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Worried about the Andes virus? Experts say it\u2019s not the next pandemic.",
+      "published_at": "2026-05-08T11:57:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US stock futures rise as chips rebound ahead of jobs data - Reuters",
+      "published_at": "2026-05-08T11:19:27+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "This new target for the S&P 500 is very nearly Wall Street\u2019s highest. Here are the trades to make.",
+      "published_at": "2026-05-08T10:57:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Stocks at all-time highs can still go higher. Here\u2019s one case for buying into the rally.",
+      "published_at": "2026-05-08T10:36:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Spending in the U.S. just slumped, and Bank of America isn\u2019t sure why",
+      "published_at": "2026-05-08T10:24:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US hybrid-car sales soar, along with gas prices - Reuters",
+      "published_at": "2026-05-08T10:02:09+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?",
+      "published_at": "2026-05-08T09:30:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018The S&P 500 seems to be doing particularly well\u2019: I\u2019m 66. Is this a good time to invest $100,000 in the stock market?",
+      "published_at": "2026-05-08T09:00:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "AI infrastructure boom can continue as long as returns outweigh financing costs",
+      "published_at": "2026-05-08T08:57:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "SoftBank cuts target for OpenAI margin loan, Bloomberg News reports - Reuters",
+      "published_at": "2026-05-08T08:28:46+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Momentum stocks just saw one of the biggest reversals in five years. What usually happens next.",
+      "published_at": "2026-05-08T08:21:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Russia's internet crackdown hobbles small businesses - Reuters",
+      "published_at": "2026-05-08T08:07:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "KLM flight attendant tested negative for hantavirus infection, WHO says - Reuters",
+      "published_at": "2026-05-08T07:15:55+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "India demand subdued on higher prices, China premiums hold firm - Reuters",
+      "published_at": "2026-05-08T06:33:12+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "RBC lifts S&P 500 year-end target to 7,900 on AI optimism - Reuters",
+      "published_at": "2026-05-08T05:46:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US job growth likely slowed in April as boost from temporary factors fades - Reuters",
+      "published_at": "2026-05-08T04:03:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Sony forecasts lower gaming business sales amid memory price surge - Reuters",
+      "published_at": "2026-05-08T03:06:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Amazon reports cloud outage at North Virginia data center; CME, Coinbase face trading issues - Reuters",
+      "published_at": "2026-05-08T02:11:00+00:00"
+    }
+  ]
+}
