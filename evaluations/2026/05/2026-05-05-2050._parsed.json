@@ -1,0 +1,21 @@
+{
+  "memo_file": "2026-05-05-2050.md",
+  "hypotheses": [
+    {
+      "category": "Performance",
+      "confidence": "Medium"
+    },
+    {
+      "category": "Profitability",
+      "confidence": "Low"
+    },
+    {
+      "category": "Profitability",
+      "confidence": "Medium"
+    },
+    {
+      "category": "Performance",
+      "confidence": "Low"
+    }
+  ]
+}
