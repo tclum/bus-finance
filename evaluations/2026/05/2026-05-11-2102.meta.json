@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-11T21:02:48+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4218,
+  "output_tokens": 2474,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.064865,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "QCOM",
+    "PM",
+    "MU",
+    "FCX",
+    "OXY",
+    "TSLA",
+    "INTC",
+    "NEM",
+    "XOM",
+    "TXN",
+    "CAT",
+    "SLB",
+    "MPC",
+    "APD",
+    "HON",
+    "EOG",
+    "DE",
+    "LIN",
+    "CSCO",
+    "PSX",
+    "TGT",
+    "BKNG",
+    "ACN",
+    "GM",
+    "NKE",
+    "PEP",
+    "DIS",
+    "GOOGL",
+    "TJX",
+    "WFC",
+    "ADBE",
+    "DHR",
+    "IBM",
+    "TMO",
+    "CRM",
+    "NFLX",
+    "F",
+    "WMT",
+    "PG",
+    "ABT"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "Figuring out how to watch NBA playoff games has been a struggle. And \u2014 sorry, sports fans \u2014 it\u2019s only getting worse.",
+      "published_at": "2026-05-11T21:02:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Here\u2019s the next AI \u2018battleground\u2019 \u2014 and how investors can get in on the action",
+      "published_at": "2026-05-11T20:59:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Iren\u2019s stock pulls back as investors assess the steep price of the AI buildout",
+      "published_at": "2026-05-11T20:47:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Strategy\u2019s Michael Saylor raps about how he gets shareholders to pay for bitcoin buys",
+      "published_at": "2026-05-11T20:45:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Lumentum builds on its scorching stock rally after earning a spot in this hot index",
+      "published_at": "2026-05-11T20:43:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "As Trump heads to China, here\u2019s how much the dollar is overvalued, according to Goldman Sachs",
+      "published_at": "2026-05-11T20:42:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Moderna\u2019s stock has rallied on hantavirus research that is \u2018early-stage\u2019 in nature",
+      "published_at": "2026-05-11T20:41:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Nvidia has added an Oracle\u2019s worth of market cap in just four trading days",
+      "published_at": "2026-05-11T20:37:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Intel\u2019s stock extends its hot streak. This is the latest source of optimism.",
+      "published_at": "2026-05-11T20:35:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Micron\u2019s stock soars to fresh highs as a \u2018virtuous cycle\u2019 for memory unfolds",
+      "published_at": "2026-05-11T20:32:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US says 18 passengers flown back after hantavirus outbreak on ship - Reuters",
+      "published_at": "2026-05-11T20:06:25+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Former OpenAI executive Sutskever discloses nearly $7 billion stake in AI firm - Reuters",
+      "published_at": "2026-05-11T19:56:22+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump says federal gasoline tax to be reduced 'till it's appropriate' - Reuters",
+      "published_at": "2026-05-11T18:11:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Alphabet, Amazon tap overseas debt markets to fund AI infrastructure push - Reuters",
+      "published_at": "2026-05-11T17:48:57+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US home sales edge up in April but affordability remains a challenge - Reuters",
+      "published_at": "2026-05-11T16:46:30+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump says he will reduce the federal gas tax - Reuters",
+      "published_at": "2026-05-11T16:31:03+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Jacobs Solutions Inc",
+      "published_at": "2026-05-11T16:27:01+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Fidelity Natl Information Serv",
+      "published_at": "2026-05-11T16:27:01+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Apple, Boeing, Citi, Tesla, Meta executives to join Trump's China trip - Reuters",
+      "published_at": "2026-05-11T16:14:32+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Indian panel alleges 'toxic workplace environment' at TCS back office - Reuters",
+      "published_at": "2026-05-11T15:34:22+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Deals and new partnerships lined up at Africa-France summit - Reuters",
+      "published_at": "2026-05-11T15:19:50+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Woodside Energy's delayed Browse LNG project expected to cost $35 billion - Reuters",
+      "published_at": "2026-05-11T15:08:27+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Iron Dome nearly 99% effective against incoming missiles, maker Rafael's chairman says - Reuters",
+      "published_at": "2026-05-11T15:05:56+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: India declines Russian LNG under sanctions, talks continue on permitted cargoes, sources say - Reuters",
+      "published_at": "2026-05-11T14:30:01+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "OPEC oil output hits new low in April on Hormuz export disruption, Reuters survey finds - Reuters",
+      "published_at": "2026-05-11T14:03:44+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
+      "published_at": "2026-05-11T13:59:44+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "E.ON to acquire peer OVO in UK energy supply shake-up - Reuters",
+      "published_at": "2026-05-11T13:41:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Blackstone to acquire Greek e-commerce platform Skroutz from CVC - Reuters",
+      "published_at": "2026-05-11T13:33:16+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "GSK plans to sell chronic hepatitis B drug in China through Sino Biopharm - Reuters",
+      "published_at": "2026-05-11T13:28:20+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Fervo Energy eyes $7.4 billion valuation in upsized US IPO - Reuters",
+      "published_at": "2026-05-11T13:16:58+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Oil market will lose around 100 million barrels every week, if Strait of Hormuz remains closed, Aramco CEO says - Reuters",
+      "published_at": "2026-05-11T12:40:55+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "WHO says seven cases of hantavirus confirmed from cruise ship - Reuters",
+      "published_at": "2026-05-11T12:25:43+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Weekly Stock List",
+      "published_at": "2026-05-11T11:37:03+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum prices today, Monday, May 11, 2026: Bitcoin's strongest opening in months",
+      "published_at": "2026-05-11T11:32:16+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily Spotlight: U.S. a Leader in Capital Raising",
+      "published_at": "2026-05-11T11:27:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "published_at": "2026-05-11T11:26:37+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Japan to receive first Central Asian crude oil since Iran war started - Reuters",
+      "published_at": "2026-05-11T11:16:12+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Britain to take powers to fully nationalise British Steel, Starmer says - Reuters",
+      "published_at": "2026-05-11T11:04:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Gold and silver prices today, Monday, May 11: Gold and silver down this morning after Trump rejects Iran's peace plan",
+      "published_at": "2026-05-11T11:00:50+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "EU agrees to restore fuller trade ties with Syria - Reuters",
+      "published_at": "2026-05-11T10:58:24+00:00"
+    }
+  ]
+}
