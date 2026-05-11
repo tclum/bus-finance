@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-11T13:04:11+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3620,
+  "output_tokens": 3377,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.076616,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "MU",
+    "INTC",
+    "AMD",
+    "QCOM",
+    "AMAT",
+    "CSCO",
+    "AVGO",
+    "TSLA",
+    "CVS",
+    "UNH",
+    "BA",
+    "NEM",
+    "AAPL",
+    "PSX",
+    "NVDA",
+    "FCX",
+    "BLK",
+    "MS",
+    "PLD",
+    "F",
+    "WFC",
+    "CMCSA",
+    "BKNG",
+    "ABT",
+    "PFE",
+    "MCD",
+    "C",
+    "BAC",
+    "LLY",
+    "NOW",
+    "INTU",
+    "DHR",
+    "CRM",
+    "GILD",
+    "SPGI",
+    "TMO",
+    "GE",
+    "AMT",
+    "OXY",
+    "HD"
+  ],
+  "headlines_included": [
+    {
+      "source": "yahoo_finance",
+      "title": "Post Holdings new CEO outlines pricing strategy pitfalls",
+      "published_at": "2026-05-11T12:45:06+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Amadori buys Unconventional plant-based business from Granarolo",
+      "published_at": "2026-05-11T12:44:30+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "How Much You Really Need Invested to Earn $500 a Month in Dividends Without Lifting a Finger",
+      "published_at": "2026-05-11T12:42:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Morning Minute: The Clarity Act Markup Comes May 14",
+      "published_at": "2026-05-11T12:42:48+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Got $25,000? Apple vs Microsoft- Only One Tech Titan is Winning The AI Race",
+      "published_at": "2026-05-11T12:41:35+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bit Digital names Daniel Kennedy as head of investor relations",
+      "published_at": "2026-05-11T12:36:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "A \u2018race against time.\u2019 Hormuz closure could push Brent to $150 a barrel by summer, warns Morgan Stanley.",
+      "published_at": "2026-05-11T12:34:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Shein accuses Temu of 'industrial scale' copyright breaches in UK legal battle",
+      "published_at": "2026-05-11T12:33:24+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Circle Raises $222M in Arc Token Presale at $3B Valuation",
+      "published_at": "2026-05-11T12:31:50+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Futures Fall, Oil Jumps; Intel, Lumentum, Moderna, Circle Internet All Rise (Live Coverage)",
+      "published_at": "2026-05-11T12:31:34+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Franklin Templeton Launches New Private Markets Models with Corastone",
+      "published_at": "2026-05-11T12:30:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Stocks are walking a tightrope to fresh record highs \u2014 as a handful of names do most of the heavy lifting",
+      "published_at": "2026-05-11T12:30:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Costco Just Hit $1,000. Is This the Year to \u2018Sell in May\u2019 Even on the Safest Stocks?",
+      "published_at": "2026-05-11T12:20:34+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "NZAC Screens for Climate. IEMG Screens for Growth. Here's How to Choose.",
+      "published_at": "2026-05-11T12:20:09+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Peace Will Bring Lower Oil: Warren Buffett\u2019s Top Energy Picks for Berkshire Hathaway Will Still Shine",
+      "published_at": "2026-05-11T12:15:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Europe's tech sovereignty push gives VCs pause",
+      "published_at": "2026-05-11T12:11:18+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "A surprising thing is happening underneath the S&P 500's record run",
+      "published_at": "2026-05-11T11:50:26+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "AI plays in emerging markets offer more upside than in the U.S. at present, says JPMorgan",
+      "published_at": "2026-05-11T11:49:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Gary Stevenson says 'your kids will be poorer than you' \u2014 as U.S. income inequality widens",
+      "published_at": "2026-05-11T11:45:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Weekly Stock List",
+      "published_at": "2026-05-11T11:37:03+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum prices today, Monday, May 11, 2026: Bitcoin's strongest opening in months",
+      "published_at": "2026-05-11T11:32:16+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Alphabet considers first yen bond sale to fund AI goals",
+      "published_at": "2026-05-11T11:27:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily Spotlight: U.S. a Leader in Capital Raising",
+      "published_at": "2026-05-11T11:27:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "published_at": "2026-05-11T11:26:37+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Rithm Capital Corp",
+      "published_at": "2026-05-11T11:25:54+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: BP PLC",
+      "published_at": "2026-05-11T11:25:54+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Digest: ALB, BP, MSI, RSG, BCE, FTV, RITM, APP",
+      "published_at": "2026-05-11T11:25:54+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: BCE Inc",
+      "published_at": "2026-05-11T11:25:54+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Applovin Corp",
+      "published_at": "2026-05-11T11:25:54+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "This AI Stock Is Now Worth More Than Tesla, Meta And Walmart",
+      "published_at": "2026-05-11T11:16:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Japan to receive first Central Asian crude oil since Iran war started - Reuters",
+      "published_at": "2026-05-11T11:16:12+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stocks sag, dollar firms as US-Iran talks hit stalemate",
+      "published_at": "2026-05-11T11:12:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Gold and silver prices today, Monday, May 11: Gold and silver down this morning after Trump rejects Iran's peace plan",
+      "published_at": "2026-05-11T11:00:50+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Ask an Advisor: Can I Retire at 62? I'm 60 With a Pension, $700K Annuity and $100K in Cash",
+      "published_at": "2026-05-11T11:00:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Moody\u2019s cuts Wabash rating third time in a year, execs eye \u201827 rebound",
+      "published_at": "2026-05-11T11:00:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Blackstone to acquire Greek e-commerce platform Skroutz from CVC - Reuters",
+      "published_at": "2026-05-11T10:49:54+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "There\u2019s a new top target for the S&P 500 as the \u2018melt-up\u2019 intensifies",
+      "published_at": "2026-05-11T10:41:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Iron Dome nearly 99% effective against incoming missiles, maker Rafael's chairman says - Reuters",
+      "published_at": "2026-05-11T10:36:20+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Earnings live updates: Barrick, Constellation Energy stocks rise on earnings beats",
+      "published_at": "2026-05-11T10:30:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Ambani's Jio Platforms IPO pivots to pure fundraising, no investor exits, sources say - Reuters",
+      "published_at": "2026-05-11T10:17:10+00:00"
+    }
+  ]
+}
