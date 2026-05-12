@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-12T12:45:15+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3652,
+  "output_tokens": 3226,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.074447,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "QCOM",
+    "PM",
+    "MU",
+    "FCX",
+    "OXY",
+    "TSLA",
+    "INTC",
+    "NEM",
+    "XOM",
+    "TXN",
+    "CAT",
+    "SLB",
+    "MPC",
+    "APD",
+    "HON",
+    "EOG",
+    "DE",
+    "LIN",
+    "CSCO",
+    "PSX",
+    "TGT",
+    "BKNG",
+    "ACN",
+    "GM",
+    "NKE",
+    "PEP",
+    "DIS",
+    "GOOGL",
+    "TJX",
+    "WFC",
+    "ADBE",
+    "DHR",
+    "IBM",
+    "TMO",
+    "CRM",
+    "NFLX",
+    "F",
+    "WMT",
+    "PG",
+    "ABT"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "This dot-com survivor says AI build-out is more like 1997 than 1999 \u2014 and still urges investors to hold more cash",
+      "published_at": "2026-05-12T12:43:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "What Makes AON PLC (AON) a Potential Investment Choice?",
+      "published_at": "2026-05-12T12:39:20+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "The AI Data Center Backlash Is Growing. Kevin O\u2019Leary\u2019s $1 Billion Stratos Project Reveals Why",
+      "published_at": "2026-05-12T12:35:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Jensen Quality Mid Cap Fund Trimmed The Clorox Company (CLX) to Improve Risk-Return Profile",
+      "published_at": "2026-05-12T12:33:38+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Inflation jumps to 3-year high, CPI shows, and that\u2019s not the end of it",
+      "published_at": "2026-05-12T12:33:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "NextSource greenlights UAE battery anode facility",
+      "published_at": "2026-05-12T12:31:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Says XRP\u2019s Symmetrical Triangle Could Trigger a 100% Rally to $2-$4",
+      "published_at": "2026-05-12T12:29:57+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Wendy's has a billionaire circling its ailing business",
+      "published_at": "2026-05-12T12:28:15+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "I\u2019m 68. Is it wise to invest my $500,000 retirement savings with a single investment firm?",
+      "published_at": "2026-05-12T12:27:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Exodus Movement Sells More Than 1,000 Bitcoin",
+      "published_at": "2026-05-12T12:26:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Standard Uranium unveils $0.9M offering",
+      "published_at": "2026-05-12T12:26:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Futures Dip On $100 Oil, South Korea AI News; CPI Inflation Data Due (Live Coverage)",
+      "published_at": "2026-05-12T12:25:43+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Here\u2019s What Made Jensen Quality Mid Cap Fund Pick Cadence Design Systems (CDNS)",
+      "published_at": "2026-05-12T12:25:22+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dawn Meats snaps up German importer Alexander Eyckeler",
+      "published_at": "2026-05-12T12:22:21+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Quantum Computing Stocks: Rigetti Posts Small Revenue Beat",
+      "published_at": "2026-05-12T12:21:48+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Circle Internet Group Stock Jumps After Posting Q1 Earnings",
+      "published_at": "2026-05-12T12:21:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "CPI On Tap As Rising Oil Prices, Treasury Yields Test S&P 500 (Live Coverage)",
+      "published_at": "2026-05-12T12:20:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "5 Cybersecurity Stocks That May Be Acquired in 2026\u2019s M&A Wave",
+      "published_at": "2026-05-12T12:20:21+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15",
+      "published_at": "2026-05-12T12:20:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Austria\u2019s Norbert Marcher strikes deal for EG S\u00fcdbayern slaughterhouses",
+      "published_at": "2026-05-12T12:19:49+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "What Makes The Sherwin-Williams Company (SHW) an Investment Bet?",
+      "published_at": "2026-05-12T12:19:05+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Jensen Quality Mid Cap Fund Trimmed Donaldson Company (DCI) For Valuation Reasons",
+      "published_at": "2026-05-12T12:17:30+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dow Jones Futures: Techs Fall On $100 Oil, South Korea AI Comments; CPI Inflation Due",
+      "published_at": "2026-05-12T12:16:37+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "What Makes Keysight Technologies (KEYS) Jensen Quality Mid Cap Fund\u2019s Key Holding?",
+      "published_at": "2026-05-12T12:15:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Trian Fund seeks investors to take Wendy's private",
+      "published_at": "2026-05-12T12:15:03+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Nokia wins UK appeal to block Acer, Asus video streaming patent lawsuits",
+      "published_at": "2026-05-12T12:12:35+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The \u2018godfather of crypto\u2019 predicts $1 million bitcoin, but it\u2019s going to fall first",
+      "published_at": "2026-05-12T12:11:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Business Model Concerns Impacting Upbound Group\u2019s (UPBD) Growth",
+      "published_at": "2026-05-12T12:00:42+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "AST SpaceMobile Earnings Miss, 2026 Revenue Guidance Affirmed. ASTS Stock Falls.",
+      "published_at": "2026-05-12T12:00:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Quantum Computing Stocks: Quantinuum IPO Filing Bucks SPAC Trend",
+      "published_at": "2026-05-12T12:00:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Concentrix (CNXC) Slid Over AI Disruption Concerns",
+      "published_at": "2026-05-12T11:55:30+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "FPA Queens Road Small Cap Value Fund\u2019s Updates on Graphic Packaging (GPK)",
+      "published_at": "2026-05-12T11:53:30+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Should You Hold Sprouts Farmers Market (SFM)?",
+      "published_at": "2026-05-12T11:50:58+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Here\u2019s Why FPA Queens Road Small Cap Value Fund Increased Its Holdings in RLI Corp. (RLI)",
+      "published_at": "2026-05-12T11:48:49+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "EU chief turns up heat on social media's 'addictive' design - Reuters",
+      "published_at": "2026-05-12T11:48:18+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Hims & Hers stock sinks after quarterly loss, sales miss",
+      "published_at": "2026-05-12T11:46:38+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Is Dorman Products (DORM) an Attractively Valued Stock?",
+      "published_at": "2026-05-12T11:46:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "She bought a $460K house with $20K saved and a plan \u2014 then her income dropped and $13K in repairs hit at once",
+      "published_at": "2026-05-12T11:45:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "McDonald's stock is trading at a shocking low",
+      "published_at": "2026-05-12T11:40:36+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stocks wilt as oil forges higher; Iran ceasefire 'on life support'",
+      "published_at": "2026-05-12T11:40:31+00:00"
+    }
+  ]
+}
