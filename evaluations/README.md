@@ -3,11 +3,11 @@
 > Autonomous system scanning the US equity market and financial news twice per trading day, generating CFO-grade analytical hypotheses.  
 > See [system spec](../docs/hypothesis-generator-spec.md) for design.
 
-## Latest memo — May 12, 2026 — Close
+## Latest memo — May 13, 2026 — Pre-market
 
-The semiconductor sector reversed sharply despite strong 5-day performance, with QCOM down 11.5% and INTC down 6.8% on elevated volume, while healthcare and defensive consumer names led the market higher. The divergence between last week's AI-infrastructure rally and today's chip selloff—occurring as Reuters reports annual consumer inflation at a three-year high and Iran tensions persist—suggests either profit-taking after an overextended run or a fundamental reassessment of semiconductor demand visibility. The CFO should prioritize Hypothesis 1 (chip sector performance reversal) and Hypothesis 3 (healthcare margin expansion) as both have immediate implications for our capital allocation and competitive positioning.
+The tape is pricing in a sharp inflation re-acceleration following this morning's PPI surprise (+1.4% MoM, largest jump in four years per MarketWatch), triggering a defensive rotation into healthcare and staples while punishing rate-sensitive tech. The semiconductor sector's violent reversal — QCOM -11.46%, INTC -6.82% after multi-day rallies — suggests profit-taking ahead of the Trump-Xi summit rather than fundamental deterioration, but the timing creates refinancing risk for leveraged chip names if the 10-year yield spikes further. The most actionable signal is the healthcare breakout: CVS +3.18% on 1.57× volume and UNH +3.11% leading XLV to +1.96%, the second-best sector performance, which may reflect institutional repositioning for margin defense in a stagflation scenario.
 
-[Read full memo →](2026/05/2026-05-12-2102.md)
+[Read full memo →](2026/05/2026-05-13-1248.md)
 
 ## Operational metrics
 
@@ -23,6 +23,7 @@ The semiconductor sector reversed sharply despite strong 5-day performance, with
 
 | Date | Session | Hypotheses | Cost | Link |
 |---|---|---:|---:|---|
+| 2026-05-13 12:48Z | Pre-market | 4 | $0.0697 | [memo](2026/05/2026-05-13-1248.md) |
 | 2026-05-12 21:02Z | Close | 4 | $0.0715 | [memo](2026/05/2026-05-12-2102.md) |
 | 2026-05-12 12:45Z | Pre-market | 4 | $0.0744 | [memo](2026/05/2026-05-12-1245.md) |
 | 2026-05-11 21:02Z | Close | 4 | $0.0649 | [memo](2026/05/2026-05-11-2102.md) |
@@ -32,7 +33,6 @@ The semiconductor sector reversed sharply despite strong 5-day performance, with
 | 2026-05-07 20:53Z | Close | 4 | $0.0702 | [memo](2026/05/2026-05-07-2053.md) |
 | 2026-05-07 12:42Z | Pre-market | 4 | $0.0706 | [memo](2026/05/2026-05-07-1242.md) |
 | 2026-05-06 20:56Z | Close | 4 | $0.0743 | [memo](2026/05/2026-05-06-2056.md) |
-| 2026-05-06 12:42Z | Pre-market | 4 | $0.0667 | [memo](2026/05/2026-05-06-1242.md) |
 
 ## How this runs
 

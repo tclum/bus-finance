@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-13T12:48:55+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3671,
+  "output_tokens": 2905,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.069689,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "CVS",
+    "UNH",
+    "TGT",
+    "SCHW",
+    "PM",
+    "NFLX",
+    "FCX",
+    "ABBV",
+    "LLY",
+    "SPG",
+    "COST",
+    "WFC",
+    "ABT",
+    "WMT",
+    "OXY",
+    "AMGN",
+    "COP",
+    "MO",
+    "BKNG",
+    "KO",
+    "QCOM",
+    "INTC",
+    "ORCL",
+    "MU",
+    "CRM",
+    "AMAT",
+    "NOW",
+    "TSLA",
+    "AMD",
+    "ADBE",
+    "AVGO",
+    "IBM",
+    "CAT",
+    "UPS",
+    "ACN",
+    "INTU",
+    "MSFT",
+    "AMZN",
+    "GE",
+    "TXN"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "Alphabet is the top holding of this five-star fund that is also finding 240% gains in the \u2018unsexy\u2019 side of the AI buildout",
+      "published_at": "2026-05-13T12:45:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Wholesale prices jump to 4-year high and point to even more inflation in the next few months",
+      "published_at": "2026-05-13T12:43:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "JPMorgan Chase Files To Launch Tokenized Fund",
+      "published_at": "2026-05-13T12:33:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "This Under Armour Analyst Is No Longer Bullish; Here Are Top 3 Downgrades For Wednesday",
+      "published_at": "2026-05-13T12:30:49+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Tesla Price Prediction: The Stock Looks Fairly Valued With Limited Upside From Current Levels",
+      "published_at": "2026-05-13T12:29:10+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "5 tests Kevin Warsh will face on the first day as Fed chair",
+      "published_at": "2026-05-13T12:28:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "PDS Biotechnology Q1 2026 Earnings Call: Complete Transcript",
+      "published_at": "2026-05-13T12:26:11+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Nebius Q1 2026 earnings beat, Pennsylvania AI factory announced",
+      "published_at": "2026-05-13T12:26:02+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Grocery Outlet Likely To Report Lower Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+      "published_at": "2026-05-13T12:25:11+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Prediction: Rivian Stock Is a Buy Before 2031",
+      "published_at": "2026-05-13T12:25:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Wolfspeed stock soars 20% after Citrini research highlights the chipmaker's potential",
+      "published_at": "2026-05-13T12:24:55+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Dips But Techs Rally As Trump-Xi Summit Looms; Nvidia, Micron, Intel Rise (Live Coverage)",
+      "published_at": "2026-05-13T12:23:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "SoftBank Lands $25 Billion Gain on OpenAI Bet",
+      "published_at": "2026-05-13T12:23:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Atour Lifestyle Holdings Q1 2026 Earnings Call Transcript",
+      "published_at": "2026-05-13T12:22:30+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "EQT's pending $14.3B Intertek takeover adds to run of UK take-privates",
+      "published_at": "2026-05-13T12:17:56+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dollar at one-week high on Middle East uncertainty, hot US inflation",
+      "published_at": "2026-05-13T12:15:43+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Coinbase Holds Above Key Level After Earnings Miss; Is The Stock A Buy Now?",
+      "published_at": "2026-05-13T12:15:19+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
+      "published_at": "2026-05-13T12:15:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "America's Greatest Opportunities: Priceline's Run Came From Unique Offering",
+      "published_at": "2026-05-13T12:00:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Microsoft Slides In Bearish Chart; Is Microsoft A Sell Now?",
+      "published_at": "2026-05-13T12:00:50+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "AOC claims extreme wealth in America is \u2018unearned\u2019 \u2014 and says billionaires create myths to justify their fortunes",
+      "published_at": "2026-05-13T12:00:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Alibaba stock falls as revenue misses, AI spending weighs on earnings",
+      "published_at": "2026-05-13T11:54:46+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Tower Semiconductor Gets Boost From AI Infrastructure Business",
+      "published_at": "2026-05-13T11:53:57+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Spectrum Brands (SPB): The Best Small Cap US Stock to Buy",
+      "published_at": "2026-05-13T11:47:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Deutsche Bank Raises its Price Target on Adient (ADNT) to $31 from $30",
+      "published_at": "2026-05-13T11:47:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Citi Initiates Coverage of Innovex International (INVX) with a Buy Rating",
+      "published_at": "2026-05-13T11:46:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Keefe Bruyette Raises its Price Target on Walker & Dunlop (WD) to $67",
+      "published_at": "2026-05-13T11:46:46+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Pediatrix. (MD) Reports Q1 EPS Beat",
+      "published_at": "2026-05-13T11:46:39+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Here is Why FIGS, Inc. (FIGS) is Among the 8 Best Small Cap US Stocks to Buy",
+      "published_at": "2026-05-13T11:46:33+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Barrington Raises its Price Target on Universal Technical (UTI) to $42",
+      "published_at": "2026-05-13T11:46:26+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Sable (SOC) Reports Q1 EPS",
+      "published_at": "2026-05-13T11:46:19+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Russia launches air attack on Ukraine infrastructure, military intelligence says - Reuters",
+      "published_at": "2026-05-13T11:44:17+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "People are paying $5,000 for a pack of Pokemon cards at GameStop. For some, it's paying off big time",
+      "published_at": "2026-05-13T11:40:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I\u2019m not an extravagant spender\u2019: I\u2019m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
+      "published_at": "2026-05-13T11:30:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Alibaba Stock Falls As AI And Food-Delivery Investments Drag Down Profits",
+      "published_at": "2026-05-13T11:28:54+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily Spotlight: Global Economic Outlook",
+      "published_at": "2026-05-13T11:26:08+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Truly Unique AI Powerhouse Etches Buy Zone. Now Comes This Test.",
+      "published_at": "2026-05-13T11:25:34+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Putin addresses Zelensky as \u2018mister\u2019 for the first time. Morgan Stanley says it means a vibe shift in peace negotiations.",
+      "published_at": "2026-05-13T11:25:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum prices today, Wednesday, May 13, 2026: Prices holding as China summit kicks off",
+      "published_at": "2026-05-13T11:24:15+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Nebius Revenue Booms On AI Computer Infrastructure Spending",
+      "published_at": "2026-05-13T11:23:55+00:00"
+    }
+  ]
+}
