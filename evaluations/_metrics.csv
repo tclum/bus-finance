@@ -27,3 +27,4 @@ timestamp_utc,session,input_tokens,output_tokens,cache_read_tokens,cost_usd,num_
 2026-05-12T12:45:15+00:00,premarket,3652,3226,0,0.074447,4,end_turn
 2026-05-12T21:02:36+00:00,close,4224,2914,0,0.071483,4,end_turn
 2026-05-13T12:48:55+00:00,premarket,3671,2905,0,0.069689,4,end_turn
+2026-05-13T21:04:26+00:00,close,4219,2897,0,0.071213,4,end_turn

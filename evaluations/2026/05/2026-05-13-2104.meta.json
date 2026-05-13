@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-13T21:04:26+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 4219,
+  "output_tokens": 2897,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.071213,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "F",
+    "MU",
+    "GOOGL",
+    "TXN",
+    "CVS",
+    "JNJ",
+    "TSLA",
+    "MMM",
+    "LLY",
+    "CSCO",
+    "MO",
+    "NVDA",
+    "META",
+    "LIN",
+    "FCX",
+    "AMZN",
+    "BA",
+    "ORCL",
+    "AAPL",
+    "QCOM",
+    "ACN",
+    "SPGI",
+    "INTU",
+    "BKNG",
+    "CRM",
+    "AEP",
+    "TMO",
+    "AMT",
+    "HD",
+    "SPG",
+    "WFC",
+    "NOW",
+    "TJX",
+    "IBM",
+    "PSX",
+    "CCI",
+    "ADBE",
+    "T",
+    "V",
+    "BAC"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "The world lost nearly 1 billion barrels in oil supply over the past 75 days. Why investors aren\u2019t worrying enough.",
+      "published_at": "2026-05-13T20:59:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "April\u2019s inflation spike leaves Warsh and the Fed zero excuses not to raise rates",
+      "published_at": "2026-05-13T20:58:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: France probes whether Israeli firm BlackCore interfered in local elections, sources say - Reuters",
+      "published_at": "2026-05-13T20:42:34+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Meet the Nvidias of power \u2014 5 stocks winning Big Tech\u2019s $700 billion AI energy grab",
+      "published_at": "2026-05-13T20:38:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk",
+      "published_at": "2026-05-13T20:37:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Ford\u2019s stock paces the S&P 500. The carmaker is putting a very Tesla spin on things.",
+      "published_at": "2026-05-13T20:37:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Warsh has big plans for the Fed, but results may take time - Reuters",
+      "published_at": "2026-05-13T19:59:17+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The Iran war could be a $300 billion shock \u2014 driving up mortgage rates and squeezing wages",
+      "published_at": "2026-05-13T19:30:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Here\u2019s how to invest when the stock market gets this concentrated",
+      "published_at": "2026-05-13T19:27:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The real cost of the Iran war isn\u2019t higher prices \u2014 it\u2019s market paralysis",
+      "published_at": "2026-05-13T18:51:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "5 tests Kevin Warsh will face as Fed chair",
+      "published_at": "2026-05-13T18:49:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Inflation will likely be higher for longer. Your retirement plan isn\u2019t built for that.",
+      "published_at": "2026-05-13T18:36:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "BP to meet union leaders next week for Whiting refinery negotiations - Reuters",
+      "published_at": "2026-05-13T18:15:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Fervo Energy crosses $10 billion valuation as shares soar in Nasdaq debut - Reuters",
+      "published_at": "2026-05-13T18:10:32+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Coca-Cola Co/The",
+      "published_at": "2026-05-13T18:04:24+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Phillips 66",
+      "published_at": "2026-05-13T18:04:24+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: CVS Health Corp",
+      "published_at": "2026-05-13T18:04:24+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Update: CVS, ETN, KMB, KO, PSX",
+      "published_at": "2026-05-13T18:04:24+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Eaton Corp PLC",
+      "published_at": "2026-05-13T18:04:24+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US producer prices surprise with largest increase in four years - Reuters",
+      "published_at": "2026-05-13T17:39:17+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Tests in Italy, Spain come back negative in global hunt for hantavirus - Reuters",
+      "published_at": "2026-05-13T16:27:50+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Indian capital opposes Pernod's liquor plea, firm says business 'hopelessly fettered' - Reuters",
+      "published_at": "2026-05-13T16:21:04+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Solar to surpass coal in Texas power generation in 2026, EIA says - Reuters",
+      "published_at": "2026-05-13T16:06:45+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Iran, Ukraine wars deliver worst hit in years to oil refining output - Reuters",
+      "published_at": "2026-05-13T15:46:31+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "To dot or not? Warsh's first Fed rate projection could out his views to the public - and Trump - Reuters",
+      "published_at": "2026-05-13T15:26:36+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Explained: What is a perpetual DEX? A Wall Street primer featuring Decibel",
+      "published_at": "2026-05-13T15:20:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: LinkedIn planning to lay off 5% of staff in latest tech-sector cuts, source says - Reuters",
+      "published_at": "2026-05-13T15:11:37+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Nissan predicts profit above $1 billion this fiscal year, modest Iran war hit - Reuters",
+      "published_at": "2026-05-13T14:33:25+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Sizzling semiconductor trade at risk of cooling - and stalling US stocks rally - Reuters",
+      "published_at": "2026-05-13T14:32:54+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "ECB to hike rates in June and at least once more on war-led inflation spike: Reuters poll - Reuters",
+      "published_at": "2026-05-13T14:05:26+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: Pentagon strikes agreements with defense firms on containerized missiles - Reuters",
+      "published_at": "2026-05-13T14:04:19+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Tower Semi forecasts upbeat quarterly revenue, signs $1.3 billion in AI chip deals - Reuters",
+      "published_at": "2026-05-13T13:41:30+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump, Xi to weigh tariff cuts on $30 billion of imports in managed trade push - Reuters",
+      "published_at": "2026-05-13T13:22:17+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "India clears $3.9 billion push to turn coal into gas to reduce imported fuel reliance - Reuters",
+      "published_at": "2026-05-13T13:14:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Trump's designs on Greenland prod investment, tourism likely to pay off faster than mines - Reuters",
+      "published_at": "2026-05-13T11:52:08+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Kremlin says Russia can do business with US if it stops linking trade to Ukraine - Reuters",
+      "published_at": "2026-05-13T11:48:49+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: Mexico's Pemex CEO, close ally of Sheinbaum, under threat as woes mount - Reuters",
+      "published_at": "2026-05-13T10:07:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "BYD in talks with Stellantis, others for Europe plants, Bloomberg News reports - Reuters",
+      "published_at": "2026-05-13T10:07:27+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "UBS delays Fed rate cuts on inflation concerns, as jobs stay resilient - Reuters",
+      "published_at": "2026-05-13T09:47:41+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Japan PM Takaichi to visit UK and Italy in June, NTV reports - Reuters",
+      "published_at": "2026-05-13T09:42:42+00:00"
+    }
+  ]
+}
