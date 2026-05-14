@@ -1,0 +1,272 @@
+{
+  "timestamp_utc": "2026-05-14T12:41:18+00:00",
+  "session": "premarket",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3911,
+  "output_tokens": 2752,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.068114,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "F",
+    "MU",
+    "GOOGL",
+    "TXN",
+    "CVS",
+    "JNJ",
+    "TSLA",
+    "MMM",
+    "LLY",
+    "CSCO",
+    "MO",
+    "NVDA",
+    "META",
+    "LIN",
+    "FCX",
+    "AMZN",
+    "BA",
+    "ORCL",
+    "AAPL",
+    "QCOM",
+    "ACN",
+    "SPGI",
+    "INTU",
+    "BKNG",
+    "CRM",
+    "AEP",
+    "TMO",
+    "AMT",
+    "HD",
+    "SPG",
+    "WFC",
+    "NOW",
+    "TJX",
+    "IBM",
+    "PSX",
+    "CCI",
+    "ADBE",
+    "T",
+    "V",
+    "BAC"
+  ],
+  "headlines_included": [
+    {
+      "source": "yahoo_finance",
+      "title": "Here's When Tesla's Robotaxi Rollout Will Really Ramp Up",
+      "published_at": "2026-05-14T12:25:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Allegiant Air closes $1.5 billion Sun Country acquisition",
+      "published_at": "2026-05-14T12:23:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Wine consumption fell again in 2025, OIV says",
+      "published_at": "2026-05-14T12:20:29+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Stock Market Today: Dow Rises On Cisco, Nvidia, Boeing Amid Trump-Xi Summit (Live Coverage)",
+      "published_at": "2026-05-14T12:19:53+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Sazerac RTD push continues with Sipmargs stake",
+      "published_at": "2026-05-14T12:17:57+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "NV Energy cutting Lake Tahoe power supply for AI data centers",
+      "published_at": "2026-05-14T12:17:15+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "EXCLUSIVE: IQSTEL Launches Digital Services Unit, Names Jorge Enrique Becerra CEO",
+      "published_at": "2026-05-14T12:16:07+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "What Makes MSCI (MSCI) a Fundamentally Strong Company?",
+      "published_at": "2026-05-14T12:15:56+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Dow Jones Futures Rise As Cisco Soars On AI Orders; Trump-Xi Summit Begins",
+      "published_at": "2026-05-14T12:15:05+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Amazon.com (AMZN) Plugged After $200 billion Projected Capital Expenditures",
+      "published_at": "2026-05-14T12:13:35+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "M&A on horizon at Princes as underlying profits rise",
+      "published_at": "2026-05-14T12:12:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Cisco Earnings, Revenue Beat Amid Strong AI Orders. CSCO Stock Hits Record High.",
+      "published_at": "2026-05-14T12:11:49+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "What Makes Amphenol Corporation (APH) a Total Solution Provider For Data Center Connectivity?",
+      "published_at": "2026-05-14T12:08:23+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record",
+      "published_at": "2026-05-14T11:37:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "What the biggest mid-cycle earnings acceleration on record means for the stock market",
+      "published_at": "2026-05-14T11:37:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The commodities guru who warned about silver falling now, is saying the hantavirus could do the same to oil",
+      "published_at": "2026-05-14T11:33:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018I have zero envy\u2019: I\u2019m 75, enjoy working and live below my means. Why are more people not like me?",
+      "published_at": "2026-05-14T11:30:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily Spotlight: Profit Margins Widening",
+      "published_at": "2026-05-14T11:23:38+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "published_at": "2026-05-14T11:22:59+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Nvidia moves one step closer to a breakthrough on Chinese exports after reaching another milestone",
+      "published_at": "2026-05-14T11:20:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Bitcoin and ethereum prices today, Thursday, May 14, 2026: Bitcoin and ethereum prices slipping this week",
+      "published_at": "2026-05-14T11:19:38+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Few Americans can afford long-term care \u2014 but this state program could be a game changer",
+      "published_at": "2026-05-14T11:12:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: AbbVie Inc",
+      "published_at": "2026-05-14T11:02:09+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Market Digest: OKE, ABBV, QSR, NET",
+      "published_at": "2026-05-14T11:02:09+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Restaurant Brands Intl Inc",
+      "published_at": "2026-05-14T11:02:09+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Retailers keep tinkering with their AI shopping assistants, in search of better service",
+      "published_at": "2026-05-14T10:54:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily \u2013 Vickers Top Buyers & Sellers for 05/14/2026",
+      "published_at": "2026-05-14T10:53:19+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily \u2013 Vickers Top Insider Picks for 05/14/2026",
+      "published_at": "2026-05-14T10:53:19+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "UK opens antitrust probe into Microsoft's business software - Reuters",
+      "published_at": "2026-05-14T10:44:56+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018He is retired\u2019: Should my husband take his Social Security at 62 and invest it?",
+      "published_at": "2026-05-14T10:30:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018Several days have passed\u2019: The restaurant failed to process my 20% tip. Is it cheating the staff?",
+      "published_at": "2026-05-14T10:15:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "The stock market is breaking the rules of the inflation playbook. Here is what is different this time",
+      "published_at": "2026-05-14T09:38:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "L&G jumps on buyer interest report; CEO says not considering sale - Reuters",
+      "published_at": "2026-05-14T09:14:46+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "China urges caution over British Steel nationalisation plan - Reuters",
+      "published_at": "2026-05-14T08:01:45+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough - Reuters",
+      "published_at": "2026-05-14T05:48:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "China's view on Elon Musk? Visionary, occasional villain - Reuters",
+      "published_at": "2026-05-14T05:43:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "BlackRock's GIP teams up with Temasek, Abu Dhabi heavyweights to target $30 bln in infrastructure deals - Reuters",
+      "published_at": "2026-05-14T05:40:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Morning Bid: AI rally powers on, Trump-Xi summit takes centre stage - Reuters",
+      "published_at": "2026-05-14T04:33:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Nvidia CEO hopes Trump and Xi will improve two-way ties, CCTV says - Reuters",
+      "published_at": "2026-05-14T04:20:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "China renews, then halts licenses for hundreds of US beef exporters amid Trump-Xi summit - Reuters",
+      "published_at": "2026-05-14T03:57:00+00:00"
+    }
+  ]
+}
