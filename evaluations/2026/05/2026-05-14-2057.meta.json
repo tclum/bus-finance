@@ -1,0 +1,232 @@
+{
+  "timestamp_utc": "2026-05-14T20:57:04+00:00",
+  "session": "close",
+  "model": "claude-sonnet-4-5-20250929",
+  "stop_reason": "end_turn",
+  "input_tokens": 3660,
+  "output_tokens": 2765,
+  "cache_creation_input_tokens": 4027,
+  "cache_read_input_tokens": 0,
+  "cost_usd": 0.067556,
+  "num_hypotheses": 4,
+  "tickers_included": [
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^RUT",
+    "^VIX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLV",
+    "XLY",
+    "XLP",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+    "CSCO",
+    "F",
+    "AVGO",
+    "NVDA",
+    "NOW",
+    "ORCL",
+    "ACN",
+    "GM",
+    "PM",
+    "CAT",
+    "UNP",
+    "INTU",
+    "IBM",
+    "LOW",
+    "GS",
+    "COP",
+    "TGT",
+    "ABT",
+    "MO",
+    "OXY",
+    "QCOM",
+    "BA",
+    "INTC",
+    "MU",
+    "CCI",
+    "NEM",
+    "APD",
+    "AMT",
+    "SCHW",
+    "FCX",
+    "RTX",
+    "MMM",
+    "TMUS",
+    "AMZN",
+    "GE",
+    "DE",
+    "CVS",
+    "MDLZ",
+    "LLY",
+    "DHR"
+  ],
+  "headlines_included": [
+    {
+      "source": "marketwatch",
+      "title": "Cerebras\u2019s stock rockets out of the gate, in a sign the AI boom is as strong as ever",
+      "published_at": "2026-05-14T20:15:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "This summer\u2019s World Cup will be no match for Taylor Swift when it comes to live events",
+      "published_at": "2026-05-14T20:15:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "White House scrambles for gas-price relief as Iran war drags on - Reuters",
+      "published_at": "2026-05-14T20:08:24+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Nvidia earnings alone won\u2019t rescue the S&P 500 from its new sell signal",
+      "published_at": "2026-05-14T19:58:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "UN human-rights experts urge Starbucks and US to address union-busting claims - Reuters",
+      "published_at": "2026-05-14T19:35:52+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Roast my house, Reddit! Desperate home sellers are asking strangers for help getting offers.",
+      "published_at": "2026-05-14T19:30:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "All-you-can-eat deals are back at restaurants like Red Lobster and Applebee\u2019s. Here\u2019s how to get your money\u2019s worth.",
+      "published_at": "2026-05-14T19:24:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Trump\u2019s big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them.",
+      "published_at": "2026-05-14T19:01:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Most people make this retirement mistake. You might still have time to fix it.",
+      "published_at": "2026-05-14T18:47:00+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Trump\u2019s best China trade deal is the one he doesn\u2019t make",
+      "published_at": "2026-05-14T18:34:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "OpenAI explores legal options against Apple, Bloomberg News reports - Reuters",
+      "published_at": "2026-05-14T18:07:30+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education - Reuters",
+      "published_at": "2026-05-14T18:03:51+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "\u2018He is retired\u2019: Should my husband take his Social Security at 62 and invest it?",
+      "published_at": "2026-05-14T18:00:00+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: 3M Co",
+      "published_at": "2026-05-14T17:49:28+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Elevance Health Inc",
+      "published_at": "2026-05-14T17:49:28+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: Herbalife Ltd",
+      "published_at": "2026-05-14T17:49:28+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: McDonald's Corp",
+      "published_at": "2026-05-14T17:49:28+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Tax refunds help to lift US retail sales; drag from rising inflation looms - Reuters",
+      "published_at": "2026-05-14T17:40:51+00:00"
+    },
+    {
+      "source": "marketwatch",
+      "title": "Analysts say this restaurant chain has figured out how to feed everyone \u2014 GLP-1 users included",
+      "published_at": "2026-05-14T17:34:00+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Biogen to advance experimental Alzheimer's drug despite mid-stage trial miss - Reuters",
+      "published_at": "2026-05-14T16:39:52+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Cisco shares hit record on strong forecast, AI push with job cuts - Reuters",
+      "published_at": "2026-05-14T14:25:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Israel to sue New York Times over article on rape of Palestinian detainees, Netanyahu says - Reuters",
+      "published_at": "2026-05-14T14:24:41+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Inflation is most 'pressing risk' to US economy, Fed's Schmid says - Reuters",
+      "published_at": "2026-05-14T14:17:43+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Britain investigates Microsoft over business software dominance - Reuters",
+      "published_at": "2026-05-14T13:03:33+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US weekly jobless claims increase moderately, labor market remains stable - Reuters",
+      "published_at": "2026-05-14T12:48:17+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "US Treasury's Bessent expects large Boeing order during China visit - Reuters",
+      "published_at": "2026-05-14T12:34:13+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Daily Spotlight: Profit Margins Widening",
+      "published_at": "2026-05-14T11:23:38+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "published_at": "2026-05-14T11:22:59+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "U.S. officials flag prospect of Chinese energy purchases after Trump-Xi meeting - Reuters",
+      "published_at": "2026-05-14T11:17:47+00:00"
+    },
+    {
+      "source": "yahoo_finance",
+      "title": "Analyst Report: AbbVie Inc",
+      "published_at": "2026-05-14T11:02:09+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "L&G jumps on buyer interest report; CEO says not considering sale - Reuters",
+      "published_at": "2026-05-14T09:14:46+00:00"
+    },
+    {
+      "source": "reuters",
+      "title": "Canadian home sales rise in April, prices edge lower - Reuters",
+      "published_at": "2026-05-14T09:08:09+00:00"
+    }
+  ]
+}
