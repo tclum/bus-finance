@@ -1,0 +1,21 @@
+{
+  "memo_file": "2026-05-11-1304.md",
+  "hypotheses": [
+    {
+      "category": "Performance",
+      "confidence": "Medium"
+    },
+    {
+      "category": "Liquidity",
+      "confidence": "Medium"
+    },
+    {
+      "category": "Profitability",
+      "confidence": "Low"
+    },
+    {
+      "category": "Macro/Strategic",
+      "confidence": "Medium"
+    }
+  ]
+}
